@@ -46,7 +46,7 @@ for (const sport of sports) {
 }
 
 if (events.length === 0) {
-  throw new Error("Nenhum evento recebido. Dados anteriores preservados.");
+  throw new Error("Nenhum evento recebido: " + JSON.stringify(errors));
 }
 
 const output = {
