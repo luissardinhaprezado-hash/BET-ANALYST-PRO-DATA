@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T06:09:19.401Z",
+  "generated_at": "2026-11-04T14:25:43.506Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 462,
     "updated_this_run": [
-      "soccer_czech_republic_2_liga",
-      "soccer_czech_republic_first_league"
+      "soccer_czech_republic_first_liga",
+      "soccer_czech_republic_fnl"
     ],
     "region": "eu",
     "markets": [
@@ -3163,6 +3163,544 @@
       "commence_time_reported": true,
       "sport_name": "Lithuania National Basketball League",
       "sport_group": "Basketball"
+    },
+    {
+      "id": "2c486a363567314ae83bb3aba6a152d1",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-04T17:00:00Z",
+      "home_team": "Artis Brno",
+      "away_team": "Bohemians 1905",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:57:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Artis Brno",
+                  "price": 2.54
+                },
+                {
+                  "name": "Bohemians 1905",
+                  "price": 2.84
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.935,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Artis Brno",
+                  "price": 1.826,
+                  "point": 0
+                },
+                {
+                  "name": "Bohemians 1905",
+                  "price": 2.04,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793800671000,
+          "stale_seconds": 1669.49
+        }
+      ],
+      "canonical_event_id": "07f7030d9e67ec9b",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1280265d1ae18c67050490663e12ccd7",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Hradec Kralove",
+      "away_team": "Sigma Olomouc",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:27:48Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Hradec Kralove",
+                  "price": 2.36
+                },
+                {
+                  "name": "Sigma Olomouc",
+                  "price": 2.87
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.49
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.855,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Hradec Kralove",
+                  "price": 2.04,
+                  "point": -0.25
+                },
+                {
+                  "name": "Sigma Olomouc",
+                  "price": 1.775,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793798868000,
+          "stale_seconds": 3472.49
+        }
+      ],
+      "canonical_event_id": "d47f9b2718dbd11d",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "fb2fb501b29281ea0deb1bb6c3d84ea7",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-08T12:00:00Z",
+      "home_team": "Teplice",
+      "away_team": "Pardubice",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:44:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Teplice",
+                  "price": 2.49
+                },
+                {
+                  "name": "Pardubice",
+                  "price": 2.73
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.43
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.98,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.813,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Teplice",
+                  "price": 1.813,
+                  "point": 0
+                },
+                {
+                  "name": "Pardubice",
+                  "price": 2,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793799882000,
+          "stale_seconds": 2458.49
+        }
+      ],
+      "canonical_event_id": "0c34eb2ff4e354f2",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "da453f90a80059e04f9c6e25436bfd2c",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "home_team": "Viktoria Plzen",
+      "away_team": "Sparta Prague",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:57:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Viktoria Plzen",
+                  "price": 2.41
+                },
+                {
+                  "name": "Sparta Prague",
+                  "price": 2.69
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.67
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.01,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.787,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Viktoria Plzen",
+                  "price": 1.8,
+                  "point": 0
+                },
+                {
+                  "name": "Sparta Prague",
+                  "price": 2.01,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793800671000,
+          "stale_seconds": 1669.49
+        }
+      ],
+      "canonical_event_id": "533513bf9df2fc0b",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "ea9c4336dae2888d6f80fcf1f407eb8f",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-07T17:00:00Z",
+      "home_team": "Zbrojovka Brno",
+      "away_team": "Banik Ostrava",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:44:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Zbrojovka Brno",
+                  "price": 1.98
+                },
+                {
+                  "name": "Banik Ostrava",
+                  "price": 3.71
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.82,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.971,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Zbrojovka Brno",
+                  "price": 1.99,
+                  "point": -0.5
+                },
+                {
+                  "name": "Banik Ostrava",
+                  "price": 1.82,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793799882000,
+          "stale_seconds": 2458.49
+        }
+      ],
+      "canonical_event_id": "2a63e0c0648a04ea",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "0d4aff23b4bb5cf66bb342dbcde1d0a9",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Jablonec",
+      "away_team": "Mlada Boleslav",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:57:59Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Jablonec",
+                  "price": 1.893,
+                  "point": -0.5
+                },
+                {
+                  "name": "Mlada Boleslav",
+                  "price": 1.909,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793800679000,
+          "stale_seconds": 1661.49
+        }
+      ],
+      "canonical_event_id": "83e9606824f13249",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "a7407d49348d2f7fde7594345ad87ef2",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Zlin",
+      "away_team": "Slovacko",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:57:59Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.826,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:57:59Z",
+              "outcomes": [
+                {
+                  "name": "Zlin",
+                  "price": 1.833,
+                  "point": 0
+                },
+                {
+                  "name": "Slovacko",
+                  "price": 1.971,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793800679000,
+          "stale_seconds": 1661.49
+        }
+      ],
+      "canonical_event_id": "b107833ef1779d59",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "9459041904e1aabac84ab2643e4256e0",
+      "sport_key": "soccer_czech_republic_first_liga",
+      "sport_title": "soccer_czech_republic_first_liga_corners",
+      "commence_time": "2026-11-04T17:00:00Z",
+      "home_team": "Artis Brno (Corners)",
+      "away_team": "Bohemians 1905 (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-04T13:27:48Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-04T13:27:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.794,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.962,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-04T13:27:48Z",
+              "outcomes": [
+                {
+                  "name": "Artis Brno (Corners)",
+                  "price": 1.901,
+                  "point": 0
+                },
+                {
+                  "name": "Bohemians 1905 (Corners)",
+                  "price": 1.82,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793798868000,
+          "stale_seconds": 3472.49
+        }
+      ],
+      "canonical_event_id": "f11ea8d12183e57d",
+      "commence_time_reported": true,
+      "sport_name": "Czech Republic First Liga",
+      "sport_group": "Soccer"
     }
   ],
   "errors": []
