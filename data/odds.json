@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T23:37:48.232Z",
+  "generated_at": "2026-11-05T06:39:13.650Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "soccer_belgium_first_div",
-      "soccer_brazil_campeonato"
+      "soccer_chile_campeonato",
+      "soccer_china_superleague"
     ],
     "region": "eu",
     "markets": [
