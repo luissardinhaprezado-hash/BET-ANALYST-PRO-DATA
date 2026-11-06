@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T19:53:58.304Z",
+  "generated_at": "2026-11-06T06:34:49.389Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 409,
     "updated_this_run": [
-      "soccer_epl",
-      "soccer_usa_mls"
+      "soccer_france_ligue_one",
+      "soccer_france_ligue_two"
     ],
     "region": "eu",
     "markets": [
@@ -7491,6 +7491,3047 @@
       "canonical_event_id": "0ab698b7a0245501",
       "commence_time_reported": true,
       "sport_name": "MLS",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "c627170f5a0a0da36d17617bb7eba927",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-06T19:45:00Z",
+      "home_team": "Toulouse",
+      "away_team": "Strasbourg",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse",
+                  "price": 2.12
+                },
+                {
+                  "name": "Strasbourg",
+                  "price": 3.44
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.73
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.855,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.02,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T05:52:29Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse",
+                  "price": 1.84,
+                  "point": -0.25
+                },
+                {
+                  "name": "Strasbourg",
+                  "price": 2.06,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse",
+                  "price": 2
+                },
+                {
+                  "name": "Strasbourg",
+                  "price": 3.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse",
+                  "price": 1.935
+                },
+                {
+                  "name": "Strasbourg",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "3e2336108251d2a9",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "2ce9d27ec5e755fecacddc5a35931cee",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-06T19:45:00Z",
+      "home_team": "Toulouse (Bookings)",
+      "away_team": "Strasbourg (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse (Bookings)",
+                  "price": 2.42
+                },
+                {
+                  "name": "Strasbourg (Bookings)",
+                  "price": 2.39
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.97
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 2.02,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse (Bookings)",
+                  "price": 1.885,
+                  "point": 0
+                },
+                {
+                  "name": "Strasbourg (Bookings)",
+                  "price": 1.855,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "649d00a598d71653",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "387838814870f72498cbfd409e7371d1",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T18:00:00Z",
+      "home_team": "Auxerre",
+      "away_team": "Paris FC",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre",
+                  "price": 4.34
+                },
+                {
+                  "name": "Paris FC",
+                  "price": 1.787
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.12
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre",
+                  "price": 1.885,
+                  "point": 0.75
+                },
+                {
+                  "name": "Paris FC",
+                  "price": 2.01,
+                  "point": -0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre",
+                  "price": 4.25
+                },
+                {
+                  "name": "Paris FC",
+                  "price": 1.735
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre",
+                  "price": 4.1
+                },
+                {
+                  "name": "Paris FC",
+                  "price": 1.699
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "8ba51dd648de0163",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "305daed1f080ee087f06cb485ee4e6e3",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T18:00:00Z",
+      "home_team": "Auxerre (Bookings)",
+      "away_team": "Paris FC (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:07:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:07:37Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre (Bookings)",
+                  "price": 2.73
+                },
+                {
+                  "name": "Paris FC (Bookings)",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.89
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:07:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:07:37Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre (Bookings)",
+                  "price": 2.12,
+                  "point": 0
+                },
+                {
+                  "name": "Paris FC (Bookings)",
+                  "price": 1.662,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793945257000,
+          "stale_seconds": 1631.11
+        }
+      ],
+      "canonical_event_id": "096071adf09dc4ba",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b0d67a4a42483be0985b00c683cb1589",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T20:05:00Z",
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Troyes",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "PSG",
+                  "price": 1.1
+                },
+                {
+                  "name": "Troyes",
+                  "price": 19
+                },
+                {
+                  "name": "Draw",
+                  "price": 10
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Paris Saint-Germain",
+                  "price": 1.116
+                },
+                {
+                  "name": "Troyes",
+                  "price": 18.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.9
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.833,
+                  "point": 3.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.05,
+                  "point": 3.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Paris Saint-Germain",
+                  "price": 1.909,
+                  "point": -2.5
+                },
+                {
+                  "name": "Troyes",
+                  "price": 1.98,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        }
+      ],
+      "canonical_event_id": "dda86aeabd3e9138",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "47a00d3f7f21adb70b6fa8759bc6c02f",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T20:05:00Z",
+      "home_team": "Paris Saint-Germain (Bookings)",
+      "away_team": "Troyes (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Paris Saint-Germain (Bookings)",
+                  "price": 4.28
+                },
+                {
+                  "name": "Troyes (Bookings)",
+                  "price": 1.813
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.27
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.03,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.787,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Paris Saint-Germain (Bookings)",
+                  "price": 1.917,
+                  "point": 0.5
+                },
+                {
+                  "name": "Troyes (Bookings)",
+                  "price": 1.813,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        }
+      ],
+      "canonical_event_id": "dc8a76f4ab6a607a",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "417391fd36db4e783cb4cf52a7f58eb4",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T20:05:00Z",
+      "home_team": "Paris Saint-Germain (Corners)",
+      "away_team": "Troyes (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T05:22:18Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 8.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Paris Saint-Germain (Corners)",
+                  "price": 1.877,
+                  "point": -2.5
+                },
+                {
+                  "name": "Troyes (Corners)",
+                  "price": 1.84,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793942538000,
+          "stale_seconds": 4350.11
+        }
+      ],
+      "canonical_event_id": "3d7b3f0248dbf3e4",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "807610b5031fbd556c13749061f992ad",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Angers",
+      "away_team": "Nice",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers",
+                  "price": 3.6
+                },
+                {
+                  "name": "Nice",
+                  "price": 2.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.67
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers",
+                  "price": 1.826,
+                  "point": 0.5
+                },
+                {
+                  "name": "Nice",
+                  "price": 2.07,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers",
+                  "price": 3.3
+                },
+                {
+                  "name": "Nice",
+                  "price": 2.04
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "c5c51da3db7f96bf",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "aee3fab60a0e80d74c0d8703c36c62a3",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Angers (Bookings)",
+      "away_team": "Nice (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers (Bookings)",
+                  "price": 2.75
+                },
+                {
+                  "name": "Nice (Bookings)",
+                  "price": 2.19
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.763,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.06,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers (Bookings)",
+                  "price": 2.11,
+                  "point": 0
+                },
+                {
+                  "name": "Nice (Bookings)",
+                  "price": 1.667,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "68b87b7b85e87285",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "8fac54d59fa5e43c9807d30494b19676",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Angers (Corners)",
+      "away_team": "Nice (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T03:51:54Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.87,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.943,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Angers (Corners)",
+                  "price": 1.826,
+                  "point": 0.5
+                },
+                {
+                  "name": "Nice (Corners)",
+                  "price": 1.952,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793937114000,
+          "stale_seconds": 9774.11
+        }
+      ],
+      "canonical_event_id": "90679d9010192c9b",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "423c6b5f09127d649ee4115e3d2d724f",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Brest",
+      "away_team": "Lyon",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Brest",
+                  "price": 2.8
+                },
+                {
+                  "name": "Lyon",
+                  "price": 2.53
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Brest",
+                  "price": 2.06,
+                  "point": 0
+                },
+                {
+                  "name": "Lyon",
+                  "price": 1.855,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Brest",
+                  "price": 2.75
+                },
+                {
+                  "name": "Lyon",
+                  "price": 2.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "e9390bfc15714a2a",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "676b8f47a30ba4c0abb5cbc32929890b",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Brest (Bookings)",
+      "away_team": "Lyon (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Brest (Bookings)",
+                  "price": 2.27
+                },
+                {
+                  "name": "Lyon (Bookings)",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.92
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Brest (Bookings)",
+                  "price": 1.758,
+                  "point": 0
+                },
+                {
+                  "name": "Lyon (Bookings)",
+                  "price": 1.98,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        }
+      ],
+      "canonical_event_id": "c6173455a1b9ccad",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1059779f109f7a253ced974f36cb4eac",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Brest (Corners)",
+      "away_team": "Lyon (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T03:51:54Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.855,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.952,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Brest (Corners)",
+                  "price": 1.893,
+                  "point": 0.5
+                },
+                {
+                  "name": "Lyon (Corners)",
+                  "price": 1.893,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793937114000,
+          "stale_seconds": 9774.11
+        }
+      ],
+      "canonical_event_id": "ce164276bd4be562",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "551f05bea6129d684114e4c03d0e4629",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Havre",
+      "away_team": "Lorient",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre",
+                  "price": 2.87
+                },
+                {
+                  "name": "Lorient",
+                  "price": 2.61
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.36
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.06,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.82,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre",
+                  "price": 2.05,
+                  "point": 0
+                },
+                {
+                  "name": "Lorient",
+                  "price": 1.862,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre",
+                  "price": 2.7
+                },
+                {
+                  "name": "Lorient",
+                  "price": 2.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "847054605afb4b29",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e8d6a2a1dba0745d308c83faaff03c09",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Havre (Bookings)",
+      "away_team": "Lorient (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre (Bookings)",
+                  "price": 2.11
+                },
+                {
+                  "name": "Lorient (Bookings)",
+                  "price": 2.89
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.73
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.84,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre (Bookings)",
+                  "price": 2.11,
+                  "point": -0.5
+                },
+                {
+                  "name": "Lorient (Bookings)",
+                  "price": 1.667,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "913bfb3286a2cd9c",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e8d90ae8772825e60bee69e26611b5ba",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Havre (Corners)",
+      "away_team": "Lorient (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T03:51:54Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.971,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.84,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Le Havre (Corners)",
+                  "price": 1.962,
+                  "point": -1
+                },
+                {
+                  "name": "Lorient (Corners)",
+                  "price": 1.82,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793937114000,
+          "stale_seconds": 9774.11
+        }
+      ],
+      "canonical_event_id": "40eafc8b1dd9075c",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "65744fc6be315f12e49bb1bbbf2e1bad",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Mans",
+      "away_team": "AS Monaco",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans",
+                  "price": 4.1
+                },
+                {
+                  "name": "AS Monaco",
+                  "price": 1.735
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans",
+                  "price": 4.19
+                },
+                {
+                  "name": "Monaco",
+                  "price": 1.781
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.28
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.04,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans",
+                  "price": 1.893,
+                  "point": 0.75
+                },
+                {
+                  "name": "Monaco",
+                  "price": 2.02,
+                  "point": -0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "3d4373f0b5343be9",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "0894584eb37e24c839a830b2af890c6f",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Mans (Bookings)",
+      "away_team": "Monaco (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans (Bookings)",
+                  "price": 2.29
+                },
+                {
+                  "name": "Monaco (Bookings)",
+                  "price": 2.41
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.758,
+                  "point": 4.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.07,
+                  "point": 4.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans (Bookings)",
+                  "price": 1.813,
+                  "point": 0
+                },
+                {
+                  "name": "Monaco (Bookings)",
+                  "price": 1.909,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "a347a21fe8469f41",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "46657d7158f5abe2ecac0e2ef3e8a813",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T16:15:00Z",
+      "home_team": "Le Mans (Corners)",
+      "away_team": "Monaco (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:40Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.833,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 8.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Le Mans (Corners)",
+                  "price": 1.87,
+                  "point": 1
+                },
+                {
+                  "name": "Monaco (Corners)",
+                  "price": 1.909,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946160000,
+          "stale_seconds": 728.11
+        }
+      ],
+      "canonical_event_id": "0adfdfddcfd00ed5",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "fa290985c7581015ea6edeb55fc552da",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Lens",
+      "away_team": "Marseille",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:32:39Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 2.24
+                },
+                {
+                  "name": "Marseille",
+                  "price": 3.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 1.971,
+                  "point": -0.25
+                },
+                {
+                  "name": "Marseille",
+                  "price": 1.935,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946759000,
+          "stale_seconds": 129.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 2.06
+                },
+                {
+                  "name": "Marseille",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "4a87f0c9fddb2b12",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b380c45cdea6e4cfbadb097baae8efa4",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Lens (Bookings)",
+      "away_team": "Marseille (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens (Bookings)",
+                  "price": 3.01
+                },
+                {
+                  "name": "Marseille (Bookings)",
+                  "price": 2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.07,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 1.763,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens (Bookings)",
+                  "price": 1.746,
+                  "point": 0.5
+                },
+                {
+                  "name": "Marseille (Bookings)",
+                  "price": 2,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "41367765abe99f2c",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1009cc779b49f0391ce7608d7526621a",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Rennes",
+      "away_team": "Lille",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:07:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:07:42Z",
+              "outcomes": [
+                {
+                  "name": "Rennes",
+                  "price": 2.19
+                },
+                {
+                  "name": "Lille",
+                  "price": 3.28
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.72
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.09,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:07:42Z",
+              "outcomes": [
+                {
+                  "name": "Rennes",
+                  "price": 1.909,
+                  "point": -0.25
+                },
+                {
+                  "name": "Lille",
+                  "price": 2,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793945262000,
+          "stale_seconds": 1626.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:28:28Z",
+              "outcomes": [
+                {
+                  "name": "Rennes",
+                  "price": 2
+                },
+                {
+                  "name": "Lille",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "610b68efe4c18974",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "071dbdfa5e269b9f538a9e405f0a5a37",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Rennes (Bookings)",
+      "away_team": "Lille (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Rennes (Bookings)",
+                  "price": 2.9
+                },
+                {
+                  "name": "Lille (Bookings)",
+                  "price": 2.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.88
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:40Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.06,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 1.769,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Rennes (Bookings)",
+                  "price": 1.699,
+                  "point": 0.5
+                },
+                {
+                  "name": "Lille (Bookings)",
+                  "price": 2.06,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        }
+      ],
+      "canonical_event_id": "02c56a2eac9ffd05",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cb98b078cc38d8d998ba48f648e32e5c",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-20T19:45:00Z",
+      "home_team": "Troyes",
+      "away_team": "Le Havre",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Troyes",
+                  "price": 2.09
+                },
+                {
+                  "name": "Le Havre",
+                  "price": 3.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.794,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.06,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Troyes",
+                  "price": 1.806,
+                  "point": -0.25
+                },
+                {
+                  "name": "Le Havre",
+                  "price": 2.04,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Troyes",
+                  "price": 2.1
+                },
+                {
+                  "name": "Le Havre",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "a679567e8f4aea61",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d549126046253252a0b3d5aac0ee3cfa",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-21T19:45:00Z",
+      "home_team": "AS Monaco",
+      "away_team": "Auxerre",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Monaco",
+                  "price": 1.391
+                },
+                {
+                  "name": "Auxerre",
+                  "price": 7.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.16
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.813,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Monaco",
+                  "price": 1.833,
+                  "point": -1.25
+                },
+                {
+                  "name": "Auxerre",
+                  "price": 2.03,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "AS Monaco",
+                  "price": 1.377
+                },
+                {
+                  "name": "Auxerre",
+                  "price": 6.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "8768f33b3e253e8d",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5ea92a2d8a2ea6ee7c7ca29043a081cf",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-21T19:45:00Z",
+      "home_team": "Lens",
+      "away_team": "Toulouse",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 1.725
+                },
+                {
+                  "name": "Toulouse",
+                  "price": 4.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.24
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.813,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 1.943,
+                  "point": -0.75
+                },
+                {
+                  "name": "Toulouse",
+                  "price": 1.909,
+                  "point": 0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens",
+                  "price": 1.826
+                },
+                {
+                  "name": "Toulouse",
+                  "price": 3.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "a7921c6cc4da4d2a",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "bb1561946af987725452fb4f01938be5",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-21T19:45:00Z",
+      "home_team": "Lille",
+      "away_team": "Lyon",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 2.37
+                },
+                {
+                  "name": "Lyon",
+                  "price": 3.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.33
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.943,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.893,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 2.04,
+                  "point": -0.25
+                },
+                {
+                  "name": "Lyon",
+                  "price": 1.826,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 2.3
+                },
+                {
+                  "name": "Lyon",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "8dab01848ff34c92",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cf1062d294fb4ba4c7aefbc510586b59",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-21T16:15:00Z",
+      "home_team": "Nice",
+      "away_team": "Paris Saint-Germain",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Nice",
+                  "price": 6.25
+                },
+                {
+                  "name": "PSG",
+                  "price": 1.426
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Nice",
+                  "price": 5.8
+                },
+                {
+                  "name": "Paris Saint-Germain",
+                  "price": 1.465
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.04
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.826,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Nice",
+                  "price": 1.893,
+                  "point": 1.25
+                },
+                {
+                  "name": "Paris Saint-Germain",
+                  "price": 1.962,
+                  "point": -1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "3dce5e99e4d11149",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1884fe625c7fcb4e998e842f6a4e790e",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-21T19:45:00Z",
+      "home_team": "Strasbourg",
+      "away_team": "Brest",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:32:39Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Strasbourg",
+                  "price": 2.18
+                },
+                {
+                  "name": "Brest",
+                  "price": 3.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.79
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.769,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.09,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:32:39Z",
+              "outcomes": [
+                {
+                  "name": "Strasbourg",
+                  "price": 1.917,
+                  "point": -0.25
+                },
+                {
+                  "name": "Brest",
+                  "price": 1.935,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946759000,
+          "stale_seconds": 129.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Strasbourg",
+                  "price": 2.3
+                },
+                {
+                  "name": "Brest",
+                  "price": 2.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "744bd9d59cf608d1",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e23c5c744e598606eee1d66f3826a838",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-22T16:15:00Z",
+      "home_team": "Lorient",
+      "away_team": "Rennes",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lorient",
+                  "price": 3.04
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.54
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lorient",
+                  "price": 1.862,
+                  "point": 0.25
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Lorient",
+                  "price": 3.05
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2.17
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "798eed3a08a631cf",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1033599e401c1bc16d2907444a86a457",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-22T19:45:00Z",
+      "home_team": "Marseille",
+      "away_team": "Le Mans",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 1.446
+                },
+                {
+                  "name": "Le Mans",
+                  "price": 6.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.806,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 1.962,
+                  "point": -1.25
+                },
+                {
+                  "name": "Le Mans",
+                  "price": 1.893,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 1.426
+                },
+                {
+                  "name": "Le Mans",
+                  "price": 6.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "14e7af2c126423a4",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "252724ea067e3bbda952b37760e5027e",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-22T14:00:00Z",
+      "home_team": "Paris FC",
+      "away_team": "Angers",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Paris FC",
+                  "price": 1.389
+                },
+                {
+                  "name": "Angers",
+                  "price": 7.64
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.91
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.826,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.02,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Paris FC",
+                  "price": 1.885,
+                  "point": -1.25
+                },
+                {
+                  "name": "Angers",
+                  "price": 1.971,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-06T06:33:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T06:26:45Z",
+              "outcomes": [
+                {
+                  "name": "Paris FC",
+                  "price": 1.377
+                },
+                {
+                  "name": "Angers",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1793946827533,
+          "stale_seconds": 60.58
+        }
+      ],
+      "canonical_event_id": "996c49a6b5266d93",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1e16de72c132f20c32766a864d855223",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-07T18:00:00Z",
+      "home_team": "Auxerre (Corners)",
+      "away_team": "Paris FC (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Auxerre (Corners)",
+                  "price": 1.84,
+                  "point": 0.5
+                },
+                {
+                  "name": "Paris FC (Corners)",
+                  "price": 1.935,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "535c0100fc495ba7",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "2ddcb0775311a4038682a9ddeaac2551",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Lens (Corners)",
+      "away_team": "Marseille (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.885,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Lens (Corners)",
+                  "price": 1.98,
+                  "point": -1.5
+                },
+                {
+                  "name": "Marseille (Corners)",
+                  "price": 1.8,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "b46938aa3edba104",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5b896220c146122a428bbacab2c0bd76",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Rennes (Corners)",
+      "away_team": "Lille (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:43Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.943,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:43Z",
+              "outcomes": [
+                {
+                  "name": "Rennes (Corners)",
+                  "price": 1.855,
+                  "point": -1
+                },
+                {
+                  "name": "Lille (Corners)",
+                  "price": 1.926,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946163000,
+          "stale_seconds": 725.11
+        }
+      ],
+      "canonical_event_id": "4888ed2f8e1a364f",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "903590dba282b5c00105ae32344dd448",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1",
+      "commence_time": "2026-11-06T19:45:00Z",
+      "home_team": "Toulouse (Corners)",
+      "away_team": "Strasbourg (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T06:22:45Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.855,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T06:22:45Z",
+              "outcomes": [
+                {
+                  "name": "Toulouse (Corners)",
+                  "price": 1.847,
+                  "point": -1
+                },
+                {
+                  "name": "Strasbourg (Corners)",
+                  "price": 1.935,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793946165000,
+          "stale_seconds": 723.11
+        }
+      ],
+      "canonical_event_id": "b649941d5fd58df7",
+      "commence_time_reported": true,
+      "sport_name": "Ligue 1",
       "sport_group": "Soccer"
     }
   ],
