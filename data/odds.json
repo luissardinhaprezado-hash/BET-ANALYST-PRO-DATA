@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T06:34:49.389Z",
+  "generated_at": "2026-11-06T19:19:46.786Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 409,
     "updated_this_run": [
-      "soccer_france_ligue_one",
-      "soccer_france_ligue_two"
+      "soccer_greece_super_league",
+      "soccer_hungary_nb1"
     ],
     "region": "eu",
     "markets": [
@@ -10532,6 +10532,728 @@
       "canonical_event_id": "b649941d5fd58df7",
       "commence_time_reported": true,
       "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "df2ddb8c45af54851d4527bca774eb32",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-07T17:30:00Z",
+      "home_team": "Aris Thessaloniki",
+      "away_team": "Panetolikos",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T19:05:10Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Aris Thessaloniki",
+                  "price": 1.442
+                },
+                {
+                  "name": "Panetolikos",
+                  "price": 7.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.59
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.833,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.03,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Aris Thessaloniki",
+                  "price": 2.03,
+                  "point": -1.25
+                },
+                {
+                  "name": "Panetolikos",
+                  "price": 1.847,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793991910000,
+          "stale_seconds": 874.49
+        }
+      ],
+      "canonical_event_id": "7f44b0b5a4b6dd9c",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "3f2646aa19d61db974aa0c4094f76d7e",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-07T15:00:00Z",
+      "home_team": "Volos",
+      "away_team": "Kifisia",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T19:05:10Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Volos",
+                  "price": 3.04
+                },
+                {
+                  "name": "Kifisia",
+                  "price": 2.37
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.44
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.917,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Volos",
+                  "price": 1.833,
+                  "point": 0.25
+                },
+                {
+                  "name": "Kifisia",
+                  "price": 2.05,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793991910000,
+          "stale_seconds": 874.49
+        }
+      ],
+      "canonical_event_id": "3e285eeb5fd8bd70",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "ed21b354bc9374188a377d47b786e027",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-07T15:00:00Z",
+      "home_team": "Volos (Corners)",
+      "away_team": "Kifisia (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T16:35:06Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.806,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.99,
+                  "point": 8.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Volos (Corners)",
+                  "price": 1.962,
+                  "point": 0.5
+                },
+                {
+                  "name": "Kifisia (Corners)",
+                  "price": 1.763,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793982906000,
+          "stale_seconds": 9878.49
+        }
+      ],
+      "canonical_event_id": "a749baa66e47b79b",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "91851019f94ef1b6397d8577b4d669c1",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-08T15:00:00Z",
+      "home_team": "AEK Athens",
+      "away_team": "Levadiakos",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T19:05:10Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "AEK Athens",
+                  "price": 1.181
+                },
+                {
+                  "name": "Levadiakos",
+                  "price": 13.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.92
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.826,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "AEK Athens",
+                  "price": 1.781,
+                  "point": -1.75
+                },
+                {
+                  "name": "Levadiakos",
+                  "price": 2.06,
+                  "point": 1.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793991910000,
+          "stale_seconds": 874.49
+        }
+      ],
+      "canonical_event_id": "e7d78bf8a86baccb",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b4b1508348b68d66be54a47d602616ba",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-08T15:00:00Z",
+      "home_team": "Asteras Tripolis",
+      "away_team": "Kalamata",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T18:05:53Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T18:05:53Z",
+              "outcomes": [
+                {
+                  "name": "Asteras Tripolis",
+                  "price": 2.03
+                },
+                {
+                  "name": "Kalamata",
+                  "price": 3.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.43
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.758,
+                  "point": 2.25
+                },
+                {
+                  "name": "Under",
+                  "price": 2.07,
+                  "point": 2.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T18:34:52Z",
+              "outcomes": [
+                {
+                  "name": "Asteras Tripolis",
+                  "price": 2.03,
+                  "point": -0.5
+                },
+                {
+                  "name": "Kalamata",
+                  "price": 1.813,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793988353000,
+          "stale_seconds": 4431.49
+        }
+      ],
+      "canonical_event_id": "d07f4755cee819e0",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5214feb8cf414146b7c0a7297c4a807d",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Iraklis 1908 FC",
+      "away_team": "Panathinaikos",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T19:05:10Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Iraklis 1908 FC",
+                  "price": 8.47
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.339
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.12
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.847,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.971,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:05:10Z",
+              "outcomes": [
+                {
+                  "name": "Iraklis 1908 FC",
+                  "price": 2.05,
+                  "point": 1.25
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.8,
+                  "point": -1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793991910000,
+          "stale_seconds": 874.49
+        }
+      ],
+      "canonical_event_id": "552b12c34706f096",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cc4ab3c8a9444429c45b9433b7ba581a",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-08T16:30:00Z",
+      "home_team": "OFI Crete",
+      "away_team": "Atromitos",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T16:34:52Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T16:34:52Z",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 1.943
+                },
+                {
+                  "name": "Atromitos",
+                  "price": 3.89
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.53
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T18:34:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T18:34:52Z",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 1.952,
+                  "point": -0.5
+                },
+                {
+                  "name": "Atromitos",
+                  "price": 1.885,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793982892000,
+          "stale_seconds": 9892.49
+        }
+      ],
+      "canonical_event_id": "937bd98bee21948b",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "c8d9270795d8704e3e95d3d4dcee17cc",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "Greece Super League",
+      "commence_time": "2026-11-08T19:00:00Z",
+      "home_team": "Olympiakos",
+      "away_team": "PAOK",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T16:34:52Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T16:34:52Z",
+              "outcomes": [
+                {
+                  "name": "Olympiakos",
+                  "price": 1.621
+                },
+                {
+                  "name": "PAOK",
+                  "price": 5.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.96
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T18:34:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.98,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.847,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T18:34:52Z",
+              "outcomes": [
+                {
+                  "name": "Olympiakos",
+                  "price": 1.806,
+                  "point": -0.75
+                },
+                {
+                  "name": "PAOK",
+                  "price": 2.05,
+                  "point": 0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793982892000,
+          "stale_seconds": 9892.49
+        }
+      ],
+      "canonical_event_id": "79b9b49199b0feb3",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "23ab33ec34ce5b283b7e46ec392957af",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "soccer_greece_super_league_2",
+      "commence_time": "2026-11-07T12:45:00Z",
+      "home_team": "Panserraikos",
+      "away_team": "Apollon Kalamarias",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T18:47:29Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T18:47:29Z",
+              "outcomes": [
+                {
+                  "name": "Panserraikos",
+                  "price": 1.338
+                },
+                {
+                  "name": "Apollon Kalamarias",
+                  "price": 8.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:01:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.787,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:01:47Z",
+              "outcomes": [
+                {
+                  "name": "Panserraikos",
+                  "price": 1.943,
+                  "point": -1.25
+                },
+                {
+                  "name": "Apollon Kalamarias",
+                  "price": 1.813,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793990849000,
+          "stale_seconds": 1935.49
+        }
+      ],
+      "canonical_event_id": "06177e8fb7af917a",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "2c91fca938c606d56625142559364764",
+      "sport_key": "soccer_greece_super_league",
+      "sport_title": "soccer_greece_super_league_2",
+      "commence_time": "2026-11-07T13:00:00Z",
+      "home_team": "Panthrakikos",
+      "away_team": "Larissa",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-06T18:47:29Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-06T18:47:29Z",
+              "outcomes": [
+                {
+                  "name": "Panthrakikos",
+                  "price": 3.36
+                },
+                {
+                  "name": "Larissa",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.19
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-06T19:01:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 2.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.84,
+                  "point": 2.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-06T19:01:47Z",
+              "outcomes": [
+                {
+                  "name": "Panthrakikos",
+                  "price": 1.99,
+                  "point": 0.25
+                },
+                {
+                  "name": "Larissa",
+                  "price": 1.781,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1793990849000,
+          "stale_seconds": 1935.49
+        }
+      ],
+      "canonical_event_id": "c448f86909684675",
+      "commence_time_reported": true,
+      "sport_name": "Greece Super League",
       "sport_group": "Soccer"
     }
   ],
