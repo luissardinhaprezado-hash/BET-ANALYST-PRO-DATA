@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T12:54:12.799Z",
+  "generated_at": "2026-11-07T21:45:15.477Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 680,
+    "active_sports": 689,
     "updated_this_run": [
-      "basketball_spain_liga_u",
-      "basketball_spain_segunda_feb"
+      "soccer_poland_ekstraklasa",
+      "soccer_portugal_primeira_liga"
     ],
     "region": "eu",
     "markets": [
@@ -491,6 +491,11 @@
       "group": "Baseball"
     },
     {
+      "key": "baseball_mexican_pacific_league",
+      "name": "Mexican Pacific League",
+      "group": "Baseball"
+    },
+    {
       "key": "basketball_aba_adriatic_league",
       "name": "Aba Adriatic League",
       "group": "Basketball"
@@ -548,6 +553,11 @@
     {
       "key": "basketball_austria_zweite_liga",
       "name": "Austria Zweite Liga",
+      "group": "Basketball"
+    },
+    {
+      "key": "basketball_bahrain_premier_league",
+      "name": "Bahrain Premier League",
       "group": "Basketball"
     },
     {
@@ -636,11 +646,6 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_denmark_kvindebasketligaen",
-      "name": "Denmark Kvindebasketligaen",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_el_salvador_liga_mayor_de_baloncesto",
       "name": "El Salvador Liga Mayor de Baloncesto",
       "group": "Basketball"
@@ -666,8 +671,18 @@
       "group": "Basketball"
     },
     {
+      "key": "basketball_fiba_asia_cup_division_b_qualification_women",
+      "name": "FIBA Asia Cup Division B Qualification Women",
+      "group": "Basketball"
+    },
+    {
       "key": "basketball_finland_division_1",
       "name": "Finland Division 1",
+      "group": "Basketball"
+    },
+    {
+      "key": "basketball_finland_division_1b",
+      "name": "Finland Division 1B",
       "group": "Basketball"
     },
     {
@@ -743,6 +758,11 @@
     {
       "key": "basketball_greek_basket_league",
       "name": "Greek Basket League",
+      "group": "Basketball"
+    },
+    {
+      "key": "basketball_guatemala_primera_division",
+      "name": "Guatemala Primera Division",
       "group": "Basketball"
     },
     {
@@ -836,11 +856,6 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_lithuania_lmkl_women",
-      "name": "Lithuania Lmkl Women",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_lithuania_national_basketball_league",
       "name": "Lithuania National Basketball League",
       "group": "Basketball"
@@ -853,6 +868,11 @@
     {
       "key": "basketball_mexico_liga_abe_women",
       "name": "Mexico Liga Abe Women",
+      "group": "Basketball"
+    },
+    {
+      "key": "basketball_morocco_basketball_league",
+      "name": "Morocco Basketball League",
       "group": "Basketball"
     },
     {
@@ -891,6 +911,11 @@
       "group": "Basketball"
     },
     {
+      "key": "basketball_philippines_uaap_women",
+      "name": "Philippines Uaap Women",
+      "group": "Basketball"
+    },
+    {
       "key": "basketball_poland_1_liga",
       "name": "Poland 1 Liga",
       "group": "Basketball"
@@ -908,6 +933,11 @@
     {
       "key": "basketball_poland_liga_1_women",
       "name": "Poland Liga 1 Women",
+      "group": "Basketball"
+    },
+    {
+      "key": "basketball_portugal_cup",
+      "name": "Portugal Cup",
       "group": "Basketball"
     },
     {
@@ -986,6 +1016,11 @@
       "group": "Basketball"
     },
     {
+      "key": "basketball_spain_lf_challenge_women",
+      "name": "Spain Lf Challenge Women",
+      "group": "Basketball"
+    },
+    {
       "key": "basketball_spain_liga_2_women",
       "name": "Spain Liga 2 Women",
       "group": "Basketball"
@@ -993,11 +1028,6 @@
     {
       "key": "basketball_spain_liga_feb",
       "name": "Spain Liga Feb",
-      "group": "Basketball"
-    },
-    {
-      "key": "basketball_spain_liga_u",
-      "name": "Spain Liga U",
       "group": "Basketball"
     },
     {
@@ -1051,11 +1081,6 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_turkey_super_league_women",
-      "name": "Turkey Super League Women",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_turkey_tbl_first_league",
       "name": "Turkey Tbl First League",
       "group": "Basketball"
@@ -1081,16 +1106,6 @@
       "group": "Cricket"
     },
     {
-      "key": "cricket_international_twenty20_matches_women",
-      "name": "International Twenty20 Matches Women",
-      "group": "Cricket"
-    },
-    {
-      "key": "cricket_one_day_internationals",
-      "name": "One Day Internationals",
-      "group": "Cricket"
-    },
-    {
       "key": "cricket_south_africa_csa_t20_challenge",
       "name": "South Africa Csa T20 Challenge",
       "group": "Cricket"
@@ -1101,13 +1116,18 @@
       "group": "Cricket"
     },
     {
-      "key": "cricket_wbbl",
-      "name": "Wbbl",
-      "group": "Cricket"
+      "key": "esports_call_of_duty_monster_launch_invitational",
+      "name": "Call of Duty Monster Launch Invitational",
+      "group": "Esports"
     },
     {
-      "key": "esports_cs2_cct_european_series_14_qualifier",
-      "name": "CS2 CCT European Series 14 Qualifier",
+      "key": "esports_cs2_cct_european_series_13",
+      "name": "CS2 CCT European Series 13",
+      "group": "Esports"
+    },
+    {
+      "key": "esports_cs2_cct_south_america_series",
+      "name": "CS2 CCT South America Series",
       "group": "Esports"
     },
     {
@@ -1146,18 +1166,8 @@
       "group": "Esports"
     },
     {
-      "key": "esports_dota_2_asgard_championship",
-      "name": "Dota 2 Asgard Championship",
-      "group": "Esports"
-    },
-    {
       "key": "esports_dota_2_dreamleague_division_2",
       "name": "Dota 2 Dreamleague Division 2",
-      "group": "Esports"
-    },
-    {
-      "key": "esports_league_of_legends_lck_as_academy_league",
-      "name": "League of Legends LCK As Academy League",
       "group": "Esports"
     },
     {
@@ -1166,13 +1176,18 @@
       "group": "Esports"
     },
     {
+      "key": "esports_rainbow_six_blast_r6_major_osaka",
+      "name": "Rainbow Six Blast R6 Major Osaka",
+      "group": "Esports"
+    },
+    {
       "key": "esports_rainbow_six_siege",
       "name": "Rainbow Six Siege",
       "group": "Esports"
     },
     {
-      "key": "golf_dp_world_abu_dhabi_hsbc_championship_3rd_round",
-      "name": "Dp World Abu Dhabi Hsbc Championship 3rd Round",
+      "key": "golf_dp_world_abu_dhabi_hsbc_championship_4th_round",
+      "name": "Dp World Abu Dhabi Hsbc Championship 4th Round",
       "group": "Golf"
     },
     {
@@ -1241,11 +1256,6 @@
       "group": "Ice Hockey"
     },
     {
-      "key": "hockey_france_ligue_magnus",
-      "name": "France Ligue Magnus",
-      "group": "Ice Hockey"
-    },
-    {
       "key": "hockey_russia_junior_hockey_league_mhl",
       "name": "Russia Junior Hockey League Mhl",
       "group": "Ice Hockey"
@@ -1258,11 +1268,6 @@
     {
       "key": "hockey_russia_vysshaya_hokkeinaya_liga",
       "name": "Russia Vysshaya Hokkeinaya Liga",
-      "group": "Ice Hockey"
-    },
-    {
-      "key": "hockey_sweden_hockey_allsvenskan",
-      "name": "Sweden Hockey Allsvenskan",
       "group": "Ice Hockey"
     },
     {
@@ -1311,23 +1316,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_afc_champions_league_women",
-      "name": "AFC Champions League Women",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_afc_womens_champions_league",
-      "name": "AFC Womens Champions League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_albania_1st_division",
-      "name": "Albania 1st Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_albania_superliga",
       "name": "Albania Superliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_algeria_1st_division",
+      "name": "Algeria 1st Division",
       "group": "Soccer"
     },
     {
@@ -1336,13 +1331,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_algeria_ligue_2",
-      "name": "Algeria Ligue 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_algeria_u20_league",
-      "name": "Algeria U20 League",
+      "key": "soccer_algeria_ligue_1_corners",
+      "name": "Algeria Ligue 1 Corners",
       "group": "Soccer"
     },
     {
@@ -1356,6 +1346,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_argentina_liga_pro_corners",
+      "name": "Argentina Liga Pro Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_argentina_primera_division_women",
       "name": "Argentina Primera Division Women",
       "group": "Soccer"
@@ -1366,6 +1361,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_argentina_regional_league",
+      "name": "Argentina Regional League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_argentina_torneo_federal_a",
       "name": "Argentina Torneo Federal A",
       "group": "Soccer"
@@ -1373,6 +1373,11 @@
     {
       "key": "soccer_armenia_premier_league",
       "name": "Armenia Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_aruba_divison_di_honor",
+      "name": "Aruba Divison Di Honor",
       "group": "Soccer"
     },
     {
@@ -1391,8 +1396,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_australian_championship",
-      "name": "Australian Championship",
+      "key": "soccer_austria_bundesliga_corners",
+      "name": "Austria Bundesliga Corners",
       "group": "Soccer"
     },
     {
@@ -1401,28 +1406,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_austria_regional_league",
-      "name": "Austria Regional League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_austria_regionalliga_north",
-      "name": "Austria Regionalliga North",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_austria_regionalliga_ost",
       "name": "Austria Regionalliga Ost",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_austria_regionalliga_west",
-      "name": "Austria Regionalliga West",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_austria_womens_cup",
-      "name": "Austria Womens Cup",
       "group": "Soccer"
     },
     {
@@ -1451,6 +1436,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_belgium_division_1_women",
+      "name": "Belgium Division 1 Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_belgium_first_amateur_division",
       "name": "Belgium First Amateur Division",
       "group": "Soccer"
@@ -1463,6 +1453,16 @@
     {
       "key": "soccer_belgium_pro_league",
       "name": "Belgium Pro League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_pro_league_corners",
+      "name": "Belgium Pro League Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_super_league",
+      "name": "Belgium Super League",
       "group": "Soccer"
     },
     {
@@ -1481,11 +1481,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_bosnia_and_herzegovina_1st_league",
-      "name": "Bosnia and Herzegovina 1st League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_bosnia_and_herzegovina_premier_liga",
       "name": "Bosnia and Herzegovina Premier Liga",
       "group": "Soccer"
@@ -1501,8 +1496,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_brazil_carioca_a2_u20",
-      "name": "Brazil Carioca A2 U20",
+      "key": "soccer_botswana_premier_league",
+      "name": "Botswana Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_campeonato_pernambucano",
+      "name": "Brazil Campeonato Pernambucano",
       "group": "Soccer"
     },
     {
@@ -1526,6 +1526,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_copa_goias_u20",
+      "name": "Brazil Copa Goias U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_copa_parana",
       "name": "Brazil Copa Parana",
       "group": "Soccer"
@@ -1536,8 +1541,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_copa_santa_catarina_u20",
+      "name": "Brazil Copa Santa Catarina U20",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_copa_sul_u20",
+      "name": "Brazil Copa Sul U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_cup",
       "name": "Brazil Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_cup_women",
+      "name": "Brazil Cup Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_goiano_3",
+      "name": "Brazil Goiano 3",
       "group": "Soccer"
     },
     {
@@ -1546,13 +1571,38 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_mineiro_3",
+      "name": "Brazil Mineiro 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_mineiro_women",
+      "name": "Brazil Mineiro Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_pernambucano",
       "name": "Brazil Pernambucano",
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_potiguar_2",
+      "name": "Brazil Potiguar 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_sergipano_2",
       "name": "Brazil Sergipano 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_serie_a",
+      "name": "Brazil Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_serie_b_corners",
+      "name": "Brazil Serie B Corners",
       "group": "Soccer"
     },
     {
@@ -1576,18 +1626,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_caf_champions_league_women",
-      "name": "Caf Champions League Women",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_caf_super_cup",
       "name": "Caf Super Cup",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_cambodia_premier_league",
-      "name": "Cambodia Premier League",
       "group": "Soccer"
     },
     {
@@ -1606,6 +1646,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_chile_primera_division_corners",
+      "name": "Chile Primera Division Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_chile_primera_division_women",
       "name": "Chile Primera Division Women",
       "group": "Soccer"
@@ -1613,11 +1658,6 @@
     {
       "key": "soccer_chile_segunda_division",
       "name": "Chile Segunda Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_china_league_one",
-      "name": "China League One",
       "group": "Soccer"
     },
     {
@@ -1631,8 +1671,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_chinese_taipei_mulan_football_league_women",
-      "name": "Chinese Taipei Mulan Football League Women",
+      "key": "soccer_china_super_league_corners",
+      "name": "China Super League Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_colombia_primera_a_corners",
+      "name": "Colombia Primera A Corners",
       "group": "Soccer"
     },
     {
@@ -1651,13 +1696,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_croatia_2_nl",
-      "name": "Croatia 2 Nl",
+      "key": "soccer_copa_del_rey",
+      "name": "Copa Del Rey",
       "group": "Soccer"
     },
     {
-      "key": "soccer_croatia_3_nl",
-      "name": "Croatia 3 Nl",
+      "key": "soccer_costa_rica_ascenso",
+      "name": "Costa Rica Ascenso",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_costa_rica_liga_de_ascenso",
+      "name": "Costa Rica Liga de Ascenso",
       "group": "Soccer"
     },
     {
@@ -1676,18 +1726,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_cyprus_2nd_division",
-      "name": "Cyprus 2nd Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_cyprus_division_1",
       "name": "Cyprus Division 1",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_czech_republic_1_liga_women",
-      "name": "Czech Republic 1 Liga Women",
       "group": "Soccer"
     },
     {
@@ -1701,13 +1741,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_first_league",
-      "name": "Czech Republic First League",
+      "key": "soccer_czech_republic_first_liga",
+      "name": "Czech Republic First Liga",
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_first_liga",
-      "name": "Czech Republic First Liga",
+      "key": "soccer_czech_republic_first_liga_corners",
+      "name": "Czech Republic First Liga Corners",
       "group": "Soccer"
     },
     {
@@ -1716,23 +1756,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_u19_league",
-      "name": "Czech Republic U19 League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_denmark_1st_division",
-      "name": "Denmark 1st Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_denmark_2nd_division",
       "name": "Denmark 2nd Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_denmark_3rd_division",
-      "name": "Denmark 3rd Division",
       "group": "Soccer"
     },
     {
@@ -1751,13 +1776,23 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_denmark_u19_league",
-      "name": "Denmark U19 League",
+      "key": "soccer_dominican_republic_liga_dominicana_de_futbol",
+      "name": "Dominican Republic Liga Dominicana de Futbol",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_dominican_republic_liga_mayor",
+      "name": "Dominican Republic Liga Mayor",
       "group": "Soccer"
     },
     {
       "key": "soccer_ecuador_serie_a",
       "name": "Ecuador Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ecuador_serie_a_corners",
+      "name": "Ecuador Serie A Corners",
       "group": "Soccer"
     },
     {
@@ -1776,6 +1811,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_el_salvador_reserve_league",
+      "name": "El Salvador Reserve League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_el_salvador_reserve_league_u20",
+      "name": "El Salvador Reserve League U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_efl_cup",
       "name": "England EFL Cup",
       "group": "Soccer"
@@ -1788,6 +1833,16 @@
     {
       "key": "soccer_england_fa_cup",
       "name": "England FA Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_fa_cup_corners",
+      "name": "England FA Cup Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_fa_cup_women",
+      "name": "England FA Cup Women",
       "group": "Soccer"
     },
     {
@@ -1806,11 +1861,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_england_isthmian_premier_division",
-      "name": "England Isthmian Premier Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_england_isthmian_premier_league",
       "name": "England Isthmian Premier League",
       "group": "Soccer"
@@ -1826,8 +1876,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_league_one",
+      "name": "England League One",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_league_two",
+      "name": "England League Two",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_national_league",
       "name": "England National League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_national_league_cup_women",
+      "name": "England National League Cup Women",
       "group": "Soccer"
     },
     {
@@ -1846,13 +1911,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_england_northern_premier_league",
-      "name": "England Northern Premier League",
+      "key": "soccer_england_premier_league_2_u21",
+      "name": "England Premier League 2 U21",
       "group": "Soccer"
     },
     {
-      "key": "soccer_england_premier_league_2_u21",
-      "name": "England Premier League 2 U21",
+      "key": "soccer_england_premier_league_bookings",
+      "name": "England Premier League Bookings",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_premier_league_corners",
+      "name": "England Premier League Corners",
       "group": "Soccer"
     },
     {
@@ -1871,8 +1941,28 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_estonia_meistriliiga",
-      "name": "Estonia Meistriliiga",
+      "key": "soccer_england_women_super_league_2",
+      "name": "England Women Super League 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_women_super_league_corners",
+      "name": "England Women Super League Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_english_league_a_2025_26",
+      "name": "English League A 2025 26",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_euro_league_2026",
+      "name": "Euro League 2026",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_fai_cup",
+      "name": "Fai Cup",
       "group": "Soccer"
     },
     {
@@ -1886,13 +1976,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_france_ligue_2",
-      "name": "France Ligue 2",
+      "key": "soccer_france_ligue_1_bookings",
+      "name": "France Ligue 1 Bookings",
       "group": "Soccer"
     },
     {
-      "key": "soccer_france_ligue_3",
-      "name": "France Ligue 3",
+      "key": "soccer_france_ligue_1_corners",
+      "name": "France Ligue 1 Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_ligue_2",
+      "name": "France Ligue 2",
       "group": "Soccer"
     },
     {
@@ -1906,16 +2001,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_france_u19_league",
-      "name": "France U19 League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_georgia_erovnuli_liga",
-      "name": "Georgia Erovnuli Liga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_georgia_erovnuli_liga_2",
       "name": "Georgia Erovnuli Liga 2",
       "group": "Soccer"
@@ -1926,13 +2011,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_germany_3_liga_corners",
+      "name": "Germany 3 Liga Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_germany_bundesliga_2",
       "name": "Germany Bundesliga 2",
       "group": "Soccer"
     },
     {
-      "key": "soccer_germany_bundesliga_u19",
-      "name": "Germany Bundesliga U19",
+      "key": "soccer_germany_bundesliga_bookings",
+      "name": "Germany Bundesliga Bookings",
       "group": "Soccer"
     },
     {
@@ -1956,13 +2046,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_germany_regionalliga_south_west",
-      "name": "Germany Regionalliga South West",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_germany_regionalliga_west",
-      "name": "Germany Regionalliga West",
+      "key": "soccer_global_cup_2026",
+      "name": "Global Cup 2026",
       "group": "Soccer"
     },
     {
@@ -1971,18 +2056,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_greece_super_league_2_u19",
-      "name": "Greece Super League 2 U19",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_greece_super_league_u19",
-      "name": "Greece Super League U19",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_greece_super_league_women",
-      "name": "Greece Super League Women",
+      "key": "soccer_greece_super_league_corners",
+      "name": "Greece Super League Corners",
       "group": "Soccer"
     },
     {
@@ -1991,8 +2066,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_guatemala_primera_division_de_ascenso",
+      "name": "Guatemala Primera Division de Ascenso",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_honduras_liga_de_ascenso",
+      "name": "Honduras Liga de Ascenso",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_honduras_liga_nacional",
       "name": "Honduras Liga Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_honduras_reserve_league",
+      "name": "Honduras Reserve League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_hong_kong_1st_division",
+      "name": "Hong Kong 1st Division",
       "group": "Soccer"
     },
     {
@@ -2001,18 +2096,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_hungary_nb2",
-      "name": "Hungary Nb2",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_hungary_nb_1",
       "name": "Hungary Nb 1",
       "group": "Soccer"
     },
     {
-      "key": "soccer_hungary_nb_1_women",
-      "name": "Hungary Nb 1 Women",
+      "key": "soccer_hungary_nb_1_corners",
+      "name": "Hungary Nb 1 Corners",
       "group": "Soccer"
     },
     {
@@ -2026,31 +2116,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_hungary_nb_i",
-      "name": "Hungary Nb I",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_hungary_u19_league",
-      "name": "Hungary U19 League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_india_i_league",
-      "name": "India I League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_india_i_league_3",
-      "name": "India I League 3",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_india_super_league",
-      "name": "India Super League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_indonesia_championship",
       "name": "Indonesia Championship",
       "group": "Soccer"
@@ -2061,13 +2126,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_indonesia_liga_2",
-      "name": "Indonesia Liga 2",
+      "key": "soccer_indonesia_super_league",
+      "name": "Indonesia Super League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_indonesia_super_league",
-      "name": "Indonesia Super League",
+      "key": "soccer_indonesia_super_league_corners",
+      "name": "Indonesia Super League Corners",
       "group": "Soccer"
     },
     {
@@ -2076,8 +2141,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_ireland_leinster_senior_league",
-      "name": "Ireland Leinster Senior League",
+      "key": "soccer_ireland_fai_cup",
+      "name": "Ireland Fai Cup",
       "group": "Soccer"
     },
     {
@@ -2096,8 +2161,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_italy_primavera_2_u19",
-      "name": "Italy Primavera 2 U19",
+      "key": "soccer_italy_eccellenza",
+      "name": "Italy Eccellenza",
       "group": "Soccer"
     },
     {
@@ -2106,13 +2171,23 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_italy_primavera_4_u19",
-      "name": "Italy Primavera 4 U19",
+      "key": "soccer_italy_serie_a_bookings",
+      "name": "Italy Serie A Bookings",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_a_corners",
+      "name": "Italy Serie A Corners",
       "group": "Soccer"
     },
     {
       "key": "soccer_italy_serie_a_women",
       "name": "Italy Serie A Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_b_corners",
+      "name": "Italy Serie B Corners",
       "group": "Soccer"
     },
     {
@@ -2126,13 +2201,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_italy_serie_c_group_b_corners",
+      "name": "Italy Serie C Group B Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_italy_serie_c_group_c",
       "name": "Italy Serie C Group C",
       "group": "Soccer"
     },
     {
+      "key": "soccer_italy_serie_c_group_c_corners",
+      "name": "Italy Serie C Group C Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_italy_serie_d",
       "name": "Italy Serie D",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_jamaica_premier_league",
+      "name": "Jamaica Premier League",
       "group": "Soccer"
     },
     {
@@ -2143,6 +2233,16 @@
     {
       "key": "soccer_japan_j3_league",
       "name": "Japan J3 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j_league_2",
+      "name": "Japan J League 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j_league_3",
+      "name": "Japan J League 3",
       "group": "Soccer"
     },
     {
@@ -2166,21 +2266,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_kazakhstan_cup",
-      "name": "Kazakhstan Cup",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_kenya_premier_league",
-      "name": "Kenya Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_kenya_premier_league_women",
-      "name": "Kenya Premier League Women",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_korea_kleague1",
       "name": "Korea Kleague1",
       "group": "Soccer"
@@ -2201,6 +2286,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_korea_republic_k_league_2_corners",
+      "name": "Korea Republic K League 2 Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_kosovo_superliga",
       "name": "Kosovo Superliga",
       "group": "Soccer"
@@ -2211,23 +2301,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_latvia_1_division",
-      "name": "Latvia 1 Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_latvia_1st_liga",
-      "name": "Latvia 1st Liga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_latvia_virsliga",
       "name": "Latvia Virsliga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_lebanon_premier_league",
-      "name": "Lebanon Premier League",
       "group": "Soccer"
     },
     {
@@ -2241,11 +2316,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_lithuania_1_lyga",
-      "name": "Lithuania 1 Lyga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_lithuania_a_lyga",
       "name": "Lithuania A Lyga",
       "group": "Soccer"
@@ -2256,8 +2326,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_malawi_league_women",
-      "name": "Malawi League Women",
+      "key": "soccer_luxembourg_ligue_1_women",
+      "name": "Luxembourg Ligue 1 Women",
       "group": "Soccer"
     },
     {
@@ -2276,13 +2346,43 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_mauritania_ligue_1",
+      "name": "Mauritania Ligue 1",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_mexico_liga_de_expansi_n_mx",
       "name": "Mexico Liga de Expansi N Mx",
       "group": "Soccer"
     },
     {
+      "key": "soccer_mexico_liga_de_expansi_n_mx_corners",
+      "name": "Mexico Liga de Expansi N Mx Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_de_expansion_mx",
+      "name": "Mexico Liga de Expansion Mx",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_mx_corners",
+      "name": "Mexico Liga Mx Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_mexico_liga_premier",
       "name": "Mexico Liga Premier",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_premier_serie_a",
+      "name": "Mexico Liga Premier Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_premier_serie_b",
+      "name": "Mexico Liga Premier Serie B",
       "group": "Soccer"
     },
     {
@@ -2293,6 +2393,11 @@
     {
       "key": "soccer_mexico_segunda_division",
       "name": "Mexico Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_u19_league",
+      "name": "Mexico U19 League",
       "group": "Soccer"
     },
     {
@@ -2321,21 +2426,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_mozambique_mocambola",
-      "name": "Mozambique Mocambola",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_myanmar_national_league_u20",
-      "name": "Myanmar National League U20",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_national",
-      "name": "National",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_nations_league_matches",
       "name": "Nations League Matches",
       "group": "Soccer"
@@ -2343,6 +2433,11 @@
     {
       "key": "soccer_netherlands_derde_divisie",
       "name": "Netherlands Derde Divisie",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_eredivisie_corners",
+      "name": "Netherlands Eredivisie Corners",
       "group": "Soccer"
     },
     {
@@ -2361,18 +2456,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_new_zealand_national_womens_league",
+      "name": "New Zealand National Womens League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_new_zealand_premiership",
+      "name": "New Zealand Premiership",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_nir_ifa_premiership",
       "name": "Nir Ifa Premiership",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_north_macedonia_1st_league",
-      "name": "North Macedonia 1st League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_north_macedonia_2nd_league",
-      "name": "North Macedonia 2nd League",
       "group": "Soccer"
     },
     {
@@ -2396,23 +2491,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_norway_toppserien",
-      "name": "Norway Toppserien",
+      "key": "soccer_norway_1st_division_corners",
+      "name": "Norway 1st Division Corners",
       "group": "Soccer"
     },
     {
-      "key": "soccer_norway_toppserien_women",
-      "name": "Norway Toppserien Women",
+      "key": "soccer_norway_eliteserien_corners",
+      "name": "Norway Eliteserien Corners",
       "group": "Soccer"
     },
     {
       "key": "soccer_panama_liga_panamena",
       "name": "Panama Liga Panamena",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_panama_liga_prom",
-      "name": "Panama Liga Prom",
       "group": "Soccer"
     },
     {
@@ -2426,8 +2516,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_paraguay_division_profesional_corners",
+      "name": "Paraguay Division Profesional Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_peru_liga_1",
       "name": "Peru Liga 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_peru_liga_1_corners",
+      "name": "Peru Liga 1 Corners",
       "group": "Soccer"
     },
     {
@@ -2441,8 +2541,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_poland_1st_liga_women",
-      "name": "Poland 1st Liga Women",
+      "key": "soccer_poland_1st_liga_corners",
+      "name": "Poland 1st Liga Corners",
       "group": "Soccer"
     },
     {
@@ -2461,28 +2561,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_poland_ekstraklasa_corners",
+      "name": "Poland Ekstraklasa Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_poland_ekstraliga_women",
       "name": "Poland Ekstraliga Women",
       "group": "Soccer"
     },
     {
-      "key": "soccer_poland_i_liga",
-      "name": "Poland I Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_poland_ii_liga",
-      "name": "Poland Ii Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_poland_iii_liga",
-      "name": "Poland Iii Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_poland_u19_league",
-      "name": "Poland U19 League",
+      "key": "soccer_portugal_championship_u23",
+      "name": "Portugal Championship U23",
       "group": "Soccer"
     },
     {
@@ -2496,8 +2586,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_portugal_liga_2_corners",
+      "name": "Portugal Liga 2 Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_portugal_liga_3",
       "name": "Portugal Liga 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_primeira_liga_corners",
+      "name": "Portugal Primeira Liga Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_segunda_liga",
+      "name": "Portugal Segunda Liga",
       "group": "Soccer"
     },
     {
@@ -2506,8 +2611,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_portugal_u23_championship",
+      "name": "Portugal U23 Championship",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_primera_division_rfef",
       "name": "Primera Division RFEF",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_puerto_rico_national_league",
+      "name": "Puerto Rico National League",
       "group": "Soccer"
     },
     {
@@ -2516,18 +2631,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_regionalliga",
-      "name": "Regionalliga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_romania_liga_1",
       "name": "Romania Liga 1",
       "group": "Soccer"
     },
     {
-      "key": "soccer_romania_liga_2",
-      "name": "Romania Liga 2",
+      "key": "soccer_romania_liga_1_corners",
+      "name": "Romania Liga 1 Corners",
       "group": "Soccer"
     },
     {
@@ -2536,13 +2646,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_russia_first_league_corners",
+      "name": "Russia First League Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_russia_premier_league",
       "name": "Russia Premier League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_russia_supreme_division_women",
-      "name": "Russia Supreme Division Women",
+      "key": "soccer_russia_premier_league_corners",
+      "name": "Russia Premier League Corners",
       "group": "Soccer"
     },
     {
@@ -2551,8 +2666,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_san_marino_campionato",
-      "name": "San Marino Campionato",
+      "key": "soccer_saint_kitts_and_nevis_premier_league",
+      "name": "Saint Kitts and Nevis Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_saint_kitts_nevis_premier_league",
+      "name": "Saint Kitts Nevis Premier League",
       "group": "Soccer"
     },
     {
@@ -2581,8 +2701,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_scotland_regional_cup",
-      "name": "Scotland Regional Cup",
+      "key": "soccer_scotland_premier_league_women",
+      "name": "Scotland Premier League Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_scotland_premiership_corners",
+      "name": "Scotland Premiership Corners",
       "group": "Soccer"
     },
     {
@@ -2611,13 +2736,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_sierra_leone_premier_league",
-      "name": "Sierra Leone Premier League",
+      "key": "soccer_serie_d",
+      "name": "Serie D",
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovakia_1_league",
-      "name": "Slovakia 1 League",
+      "key": "soccer_sierra_leone_premier_league",
+      "name": "Sierra Leone Premier League",
       "group": "Soccer"
     },
     {
@@ -2628,11 +2753,6 @@
     {
       "key": "soccer_slovakia_3_liga",
       "name": "Slovakia 3 Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_slovakia_liga_i_women",
-      "name": "Slovakia Liga I Women",
       "group": "Soccer"
     },
     {
@@ -2651,18 +2771,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovenia_division_2",
-      "name": "Slovenia Division 2",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_slovenia_prva_liga",
       "name": "Slovenia Prva Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_south_africa_1st_division",
-      "name": "South Africa 1st Division",
       "group": "Soccer"
     },
     {
@@ -2676,18 +2786,23 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_south_africa_super_league_women",
-      "name": "South Africa Super League Women",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_south_korea_k_league_2",
-      "name": "South Korea K League 2",
+      "key": "soccer_south_korea_k_league_4",
+      "name": "South Korea K League 4",
       "group": "Soccer"
     },
     {
       "key": "soccer_spain_copa_del_rey",
       "name": "Spain Copa Del Rey",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_la_liga_bookings",
+      "name": "Spain La Liga Bookings",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_la_liga_corners",
+      "name": "Spain La Liga Corners",
       "group": "Soccer"
     },
     {
@@ -2706,13 +2821,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_spain_primera_federacion_women",
-      "name": "Spain Primera Federacion Women",
+      "key": "soccer_spain_regional_leagues",
+      "name": "Spain Regional Leagues",
       "group": "Soccer"
     },
     {
-      "key": "soccer_spain_regional_leagues",
-      "name": "Spain Regional Leagues",
+      "key": "soccer_spain_segunda_division_corners",
+      "name": "Spain Segunda Division Corners",
       "group": "Soccer"
     },
     {
@@ -2731,6 +2846,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_suriname_major_league",
+      "name": "Suriname Major League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_allsvenskan_corners",
+      "name": "Sweden Allsvenskan Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_sweden_damallsvenskan",
       "name": "Sweden Damallsvenskan",
       "group": "Soccer"
@@ -2741,23 +2866,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_sweden_division_1_sodra",
-      "name": "Sweden Division 1 Sodra",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_sweden_division_2",
-      "name": "Sweden Division 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_sweden_elitettan",
-      "name": "Sweden Elitettan",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_sweden_elitettan_women",
-      "name": "Sweden Elitettan Women",
+      "key": "soccer_sweden_division_1_norra",
+      "name": "Sweden Division 1 Norra",
       "group": "Soccer"
     },
     {
@@ -2781,6 +2891,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_switzerland_nationalliga_b_women",
+      "name": "Switzerland Nationalliga B Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_switzerland_promotion_league",
       "name": "Switzerland Promotion League",
       "group": "Soccer"
@@ -2791,33 +2906,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_switzerland_u19_elite",
-      "name": "Switzerland U19 Elite",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_tercera_division_rfef",
-      "name": "Tercera Division RFEF",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_thailand_division_2",
-      "name": "Thailand Division 2",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_thailand_league_1",
       "name": "Thailand League 1",
       "group": "Soccer"
     },
     {
-      "key": "soccer_thailand_league_2",
-      "name": "Thailand League 2",
+      "key": "soccer_thailand_league_1_corners",
+      "name": "Thailand League 1 Corners",
       "group": "Soccer"
     },
     {
-      "key": "soccer_thailand_league_3",
-      "name": "Thailand League 3",
+      "key": "soccer_thailand_league_2",
+      "name": "Thailand League 2",
       "group": "Soccer"
     },
     {
@@ -2831,11 +2931,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_tunisia_league_2",
-      "name": "Tunisia League 2",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_tunisia_ligue_1",
       "name": "Tunisia Ligue 1",
       "group": "Soccer"
@@ -2846,38 +2941,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_turkey_1st_league_corners",
+      "name": "Turkey 1st League Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_turkey_2nd_league",
       "name": "Turkey 2nd League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_turkey_3rd_league",
-      "name": "Turkey 3rd League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_turkey_super_lig_u19",
-      "name": "Turkey Super Lig U19",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_turkey_tff_first_league",
-      "name": "Turkey Tff First League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_turkey_tff_second_league",
-      "name": "Turkey Tff Second League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_turkey_tff_third_league",
-      "name": "Turkey Tff Third League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_turkey_u19_league",
-      "name": "Turkey U19 League",
+      "key": "soccer_turkey_super_league_corners",
+      "name": "Turkey Super League Corners",
       "group": "Soccer"
     },
     {
@@ -2898,6 +2973,11 @@
     {
       "key": "soccer_uae_pro_league",
       "name": "UAE Pro League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_pro_league_corners",
+      "name": "UAE Pro League Corners",
       "group": "Soccer"
     },
     {
@@ -2936,18 +3016,23 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_uganda_premier_league",
-      "name": "Uganda Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_ukraine_persha_liga",
-      "name": "Ukraine Persha Liga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_uruguay_primera_division",
       "name": "Uruguay Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_major_league_soccer_bookings",
+      "name": "USA Major League Soccer Bookings",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_major_league_soccer_corners",
+      "name": "USA Major League Soccer Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_mls_next_pro_league",
+      "name": "USA MLS Next Pro League",
       "group": "Soccer"
     },
     {
@@ -2966,6 +3051,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_usa_usl_championship_corners",
+      "name": "USA USL Championship Corners",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_usa_usl_league_one",
       "name": "USA USL League One",
       "group": "Soccer"
@@ -2973,11 +3063,6 @@
     {
       "key": "soccer_usa_usl_super_league_women",
       "name": "USA USL Super League Women",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_uzbekistan_pfl",
-      "name": "Uzbekistan Pfl",
       "group": "Soccer"
     },
     {
@@ -2991,13 +3076,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_vietnam_v_league",
-      "name": "Vietnam V League",
+      "key": "soccer_venezuela_segunda_division",
+      "name": "Venezuela Segunda Division",
       "group": "Soccer"
     },
     {
-      "key": "soccer_vietnam_v_league_2",
-      "name": "Vietnam V League 2",
+      "key": "soccer_vietnam_v_league",
+      "name": "Vietnam V League",
       "group": "Soccer"
     },
     {
@@ -3021,8 +3106,18 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_charlottesville_va_2026",
+      "name": "ATP Challenger Charlottesville Va 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_costa_do_sauipe",
       "name": "ATP Challenger Costa Do Sauipe",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_salvador_2026",
+      "name": "ATP Challenger Salvador 2026",
       "group": "Tennis"
     },
     {
@@ -3031,53 +3126,48 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_taipei_2026",
-      "name": "ATP Challenger Taipei 2026",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_atp_challenger_taranto",
-      "name": "ATP Challenger Taranto",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_atp_challenger_taranto_2026",
-      "name": "ATP Challenger Taranto 2026",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_atp_challenger_villa_maria",
       "name": "ATP Challenger Villa Maria",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_antalya_tur",
-      "name": "ITF M15 Antalya TUR",
+      "key": "tennis_atp_challenger_villa_maria_2026",
+      "name": "ATP Challenger Villa Maria 2026",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_fergana_uzb",
-      "name": "ITF M15 Fergana UZB",
+      "key": "tennis_itf_m15_hilton_head_island_usa",
+      "name": "ITF M15 Hilton Head Island USA",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_monastir_tun",
-      "name": "ITF M15 Monastir TUN",
+      "key": "tennis_itf_m15_pembroke_ber",
+      "name": "ITF M15 Pembroke Ber",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_sharm_elsheikh_egy",
-      "name": "ITF M15 Sharm Elsheikh EGY",
+      "key": "tennis_itf_m15_salvador_bra",
+      "name": "ITF M15 Salvador BRA",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_heraklion_gre",
-      "name": "ITF M25 Heraklion GRE",
+      "key": "tennis_itf_m15_san_gregorio_di_catania_ita",
+      "name": "ITF M15 San Gregorio Di Catania ITA",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_valencia_esp",
-      "name": "ITF M25 Valencia ESP",
+      "key": "tennis_itf_m15_trois_rivi_res_can",
+      "name": "ITF M15 Trois Rivi Res CAN",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_guadalajara_mex",
+      "name": "ITF M25 Guadalajara MEX",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_harlingen_usa",
+      "name": "ITF M25 Harlingen USA",
       "group": "Tennis"
     },
     {
@@ -3096,13 +3186,8 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_heraklion",
-      "name": "ITF Men Heraklion",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_men_hilton_head_island",
-      "name": "ITF Men Hilton Head Island",
+      "key": "tennis_itf_men_maanshan",
+      "name": "ITF Men Maanshan",
       "group": "Tennis"
     },
     {
@@ -3111,73 +3196,38 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_pembroke",
-      "name": "ITF Men Pembroke",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_men_salvador",
-      "name": "ITF Men Salvador",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_men_san_gregorio_di_catania",
-      "name": "ITF Men San Gregorio Di Catania",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_men_trois_rivieres",
       "name": "ITF Men Trois Rivieres",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_valencia",
-      "name": "ITF Men Valencia",
+      "key": "tennis_itf_w15_hilton_head_island_usa",
+      "name": "ITF W15 Hilton Head Island USA",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w100_incheon_kor",
-      "name": "ITF W100 Incheon KOR",
+      "key": "tennis_itf_w15_neuqu_n_arg",
+      "name": "ITF W15 Neuqu N ARG",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_antalya_tur",
-      "name": "ITF W15 Antalya TUR",
+      "key": "tennis_itf_w35_orlando_usa",
+      "name": "ITF W35 Orlando USA",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_maanshan_chn",
-      "name": "ITF W15 Maanshan CHN",
+      "key": "tennis_itf_w50_huamantla_mex",
+      "name": "ITF W50 Huamantla MEX",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_monastir_tun",
-      "name": "ITF W15 Monastir TUN",
+      "key": "tennis_itf_w75_petange_lux",
+      "name": "ITF W75 Petange Lux",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_sharm_elsheikh_egy",
-      "name": "ITF W15 Sharm Elsheikh EGY",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w35_liberec_cze",
-      "name": "ITF W35 Liberec CZE",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w50_heraklion_gre",
-      "name": "ITF W50 Heraklion GRE",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_women_heraklion",
-      "name": "ITF Women Heraklion",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_women_hilton_head_island",
-      "name": "ITF Women Hilton Head Island",
+      "key": "tennis_itf_women_hamamatsu",
+      "name": "ITF Women Hamamatsu",
       "group": "Tennis"
     },
     {
@@ -3186,18 +3236,13 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_women_liberec",
-      "name": "ITF Women Liberec",
+      "key": "tennis_itf_women_incheon",
+      "name": "ITF Women Incheon",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_women_monastir",
-      "name": "ITF Women Monastir",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_women_neuquen",
-      "name": "ITF Women Neuquen",
+      "key": "tennis_itf_women_maanshan",
+      "name": "ITF Women Maanshan",
       "group": "Tennis"
     },
     {
@@ -3211,11 +3256,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_women_szabolcsveresmart",
-      "name": "ITF Women Szabolcsveresmart",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_other",
       "name": "Tennis (other competitions)",
       "group": "Tennis"
@@ -3223,6 +3263,11 @@
     {
       "key": "tennis_utr",
       "name": "UTR",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_wta_125k_cali",
+      "name": "WTA 125k Cali",
       "group": "Tennis"
     },
     {
@@ -3236,6 +3281,11 @@
       "group": "Volleyball"
     },
     {
+      "key": "volleyball_austria_avl_women",
+      "name": "Austria Avl Women",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_austria_bundesliga_2",
       "name": "Austria Bundesliga 2",
       "group": "Volleyball"
@@ -3243,6 +3293,11 @@
     {
       "key": "volleyball_austria_bundesliga_2_women",
       "name": "Austria Bundesliga 2 Women",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_belgium_euromillions_league",
+      "name": "Belgium Euromillions League",
       "group": "Volleyball"
     },
     {
@@ -3261,28 +3316,18 @@
       "group": "Volleyball"
     },
     {
+      "key": "volleyball_croatia_super_liga_women",
+      "name": "Croatia Super Liga Women",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_czech_republic_extraliga",
       "name": "Czech Republic Extraliga",
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_czech_republic_extraliga_women",
-      "name": "Czech Republic Extraliga Women",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_denmark_volleyligaen_women",
-      "name": "Denmark Volleyligaen Women",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_finland_mestaruusliiga",
-      "name": "Finland Mestaruusliiga",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_finland_mestaruusliiga_women",
-      "name": "Finland Mestaruusliiga Women",
+      "key": "volleyball_denmark_volleyligaen",
+      "name": "Denmark Volleyligaen",
       "group": "Volleyball"
     },
     {
@@ -3301,8 +3346,8 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_germany_cup_women",
-      "name": "Germany Cup Women",
+      "key": "volleyball_germany_bundesliga_2",
+      "name": "Germany Bundesliga 2",
       "group": "Volleyball"
     },
     {
@@ -3326,16 +3371,6 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_italy_serie_a2",
-      "name": "Italy Serie A2",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_italy_serie_a2_women",
-      "name": "Italy Serie A2 Women",
-      "group": "Volleyball"
-    },
-    {
       "key": "volleyball_netherlands_eredivisie",
       "name": "Netherlands Eredivisie",
       "group": "Volleyball"
@@ -3346,18 +3381,13 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_norway_eliteserien_women",
-      "name": "Norway Eliteserien Women",
+      "key": "volleyball_peru_liga_nacional_women",
+      "name": "Peru Liga Nacional Women",
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_philippines_premier_volleyball_league_women",
-      "name": "Philippines Premier Volleyball League Women",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_poland_liga_1",
-      "name": "Poland Liga 1",
+      "key": "volleyball_poland_liga_1_women",
+      "name": "Poland Liga 1 Women",
       "group": "Volleyball"
     },
     {
@@ -3371,6 +3401,26 @@
       "group": "Volleyball"
     },
     {
+      "key": "volleyball_portugal_a2",
+      "name": "Portugal A2",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_portugal_a2_women",
+      "name": "Portugal A2 Women",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_portugal_first_division",
+      "name": "Portugal First Division",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_portugal_nacional_women",
+      "name": "Portugal Nacional Women",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_russia_super_league",
       "name": "Russia Super League",
       "group": "Volleyball"
@@ -3381,23 +3431,18 @@
       "group": "Volleyball"
     },
     {
+      "key": "volleyball_spain_superliga",
+      "name": "Spain Superliga",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_spain_superliga_women",
+      "name": "Spain Superliga Women",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_sweden_division_1_women",
       "name": "Sweden Division 1 Women",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_sweden_elitserien",
-      "name": "Sweden Elitserien",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_sweden_elitserien_women",
-      "name": "Sweden Elitserien Women",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_switzerland_nla",
-      "name": "Switzerland Nla",
       "group": "Volleyball"
     },
     {
@@ -3406,13 +3451,13 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_turkey_efeler_league",
-      "name": "Turkey Efeler League",
+      "key": "volleyball_uruguay_division_a",
+      "name": "Uruguay Division A",
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_vietnam_premier_league",
-      "name": "Vietnam Premier League",
+      "key": "volleyball_uruguay_primera",
+      "name": "Uruguay Primera",
       "group": "Volleyball"
     }
   ],
@@ -16487,6 +16532,2000 @@
       "commence_time_reported": true,
       "sport_name": "Spain Segunda Feb",
       "sport_group": "Basketball"
+    },
+    {
+      "id": "7ea41b0e834f124e72a32d3fbd600cce",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T13:45:00Z",
+      "home_team": "Jagiellonia Białystok",
+      "away_team": "GKS Katowice",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Białystok",
+                  "price": 2.05
+                },
+                {
+                  "name": "GKS Katowice",
+                  "price": 2.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087649618,
+          "stale_seconds": 261.71
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Białystok",
+                  "price": 2.16
+                },
+                {
+                  "name": "GKS Katowice",
+                  "price": 3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794087649612,
+          "stale_seconds": 261.72
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:40:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Bialystok",
+                  "price": 2.2
+                },
+                {
+                  "name": "GKS Katowice",
+                  "price": 2.96
+                },
+                {
+                  "name": "Draw",
+                  "price": 4
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.917,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Bialystok",
+                  "price": 1.943,
+                  "point": -0.25
+                },
+                {
+                  "name": "GKS Katowice",
+                  "price": 1.926,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087614000,
+          "stale_seconds": 297.33
+        }
+      ],
+      "canonical_event_id": "ba41ee13e1bc5f2b",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "a4a2397df4a0cba7",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T13:45:00Z",
+      "home_team": "Jagiellonia Bialystok (Corners)",
+      "away_team": "GKS Katowice (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:45:03Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:01:11Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:01:11Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Bialystok (Corners)",
+                  "price": 1.893,
+                  "point": -1.5
+                },
+                {
+                  "name": "GKS Katowice (Corners)",
+                  "price": 1.826,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794077103000,
+          "stale_seconds": 10808.33
+        }
+      ],
+      "canonical_event_id": "a4a2397df4a0cba7",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "16d5202960bde487",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T19:15:00Z",
+      "home_team": "Lech Poznan (Corners)",
+      "away_team": "Zaglebie Lubin (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:45:03Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:47:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 10.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 10.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:47:59Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznan (Corners)",
+                  "price": 1.82,
+                  "point": -3.5
+                },
+                {
+                  "name": "Zaglebie Lubin (Corners)",
+                  "price": 1.901,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794077103000,
+          "stale_seconds": 10808.33
+        }
+      ],
+      "canonical_event_id": "16d5202960bde487",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "8b17a5b97dcac9ed93baaffa655a03a2",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T19:15:00Z",
+      "home_team": "Lech Poznań",
+      "away_team": "Zagłębie Lubin",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznań",
+                  "price": 1.417
+                },
+                {
+                  "name": "Zagłębie Lubin",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087649618,
+          "stale_seconds": 261.71
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznań",
+                  "price": 1.476
+                },
+                {
+                  "name": "Zagłębie Lubin",
+                  "price": 6.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794087649612,
+          "stale_seconds": 261.72
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznan",
+                  "price": 1.521
+                },
+                {
+                  "name": "Zaglebie Lubin",
+                  "price": 5.63
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.72
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.847,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 2.01,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznan",
+                  "price": 1.847,
+                  "point": -1
+                },
+                {
+                  "name": "Zaglebie Lubin",
+                  "price": 2.03,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2156.33
+        }
+      ],
+      "canonical_event_id": "2123bf54f2fc0834",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "ba3fbcedc1a616b5",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T16:30:00Z",
+      "home_team": "Legia Warsaw (Corners)",
+      "away_team": "Rakow Czestochowa (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:45:03Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:47:59Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:47:59Z",
+              "outcomes": [
+                {
+                  "name": "Legia Warsaw (Corners)",
+                  "price": 1.813,
+                  "point": -1.5
+                },
+                {
+                  "name": "Rakow Czestochowa (Corners)",
+                  "price": 1.909,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794077103000,
+          "stale_seconds": 10808.33
+        }
+      ],
+      "canonical_event_id": "ba3fbcedc1a616b5",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "51ec02cb98a844e97d2c6f2edb368f8b",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T16:30:00Z",
+      "home_team": "Legia Warszawa",
+      "away_team": "Raków Częstochowa",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Legia Warszawa",
+                  "price": 1.735
+                },
+                {
+                  "name": "Raków Częstochowa",
+                  "price": 3.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087649618,
+          "stale_seconds": 261.71
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:40:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:49Z",
+              "outcomes": [
+                {
+                  "name": "Legia Warszawa",
+                  "price": 1.826
+                },
+                {
+                  "name": "Raków Częstochowa",
+                  "price": 4.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794087649612,
+          "stale_seconds": 261.72
+        }
+      ],
+      "canonical_event_id": "c16fd6290244307c",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e0d331bfd253e182c278755eb9caa1fa",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "Ekstraklasa",
+      "commence_time": "2026-11-08T16:30:00Z",
+      "home_team": "Legia Warsaw",
+      "away_team": "Rakow Czestochowa",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:16:36Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:16:36Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.1,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.763,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:16:36Z",
+              "outcomes": [
+                {
+                  "name": "Legia Warsaw",
+                  "price": 1.654,
+                  "point": -0.25
+                },
+                {
+                  "name": "Rakow Czestochowa",
+                  "price": 2.31,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086196000,
+          "stale_seconds": 1715.33
+        }
+      ],
+      "canonical_event_id": "c84d481edfd3dc63",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "c661970a7a1d9ced",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "soccer_poland_ekstraklasa_corners",
+      "commence_time": "2026-11-08T13:45:00Z",
+      "home_team": "Jagiellonia Bialystok (Corners)",
+      "away_team": "GKS Katowice (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:40:14Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Jagiellonia Bialystok (Corners)",
+                  "price": 1.893,
+                  "point": -1.5
+                },
+                {
+                  "name": "GKS Katowice (Corners)",
+                  "price": 1.826,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087614000,
+          "stale_seconds": 297.33
+        }
+      ],
+      "canonical_event_id": "c661970a7a1d9ced",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b180f4652149689c",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "soccer_poland_ekstraklasa_corners",
+      "commence_time": "2026-11-08T19:15:00Z",
+      "home_team": "Lech Poznan (Corners)",
+      "away_team": "Zaglebie Lubin (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 10.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 10.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Lech Poznan (Corners)",
+                  "price": 1.82,
+                  "point": -3.5
+                },
+                {
+                  "name": "Zaglebie Lubin (Corners)",
+                  "price": 1.901,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2156.33
+        }
+      ],
+      "canonical_event_id": "b180f4652149689c",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "3f1e6422d764fc08",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "sport_title": "soccer_poland_ekstraklasa_corners",
+      "commence_time": "2026-11-08T16:30:00Z",
+      "home_team": "Legia Warsaw (Corners)",
+      "away_team": "Rakow Czestochowa (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Legia Warsaw (Corners)",
+                  "price": 1.813,
+                  "point": -1.5
+                },
+                {
+                  "name": "Rakow Czestochowa (Corners)",
+                  "price": 1.909,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2156.33
+        }
+      ],
+      "canonical_event_id": "3f1e6422d764fc08",
+      "commence_time_reported": true,
+      "sport_name": "Ekstraklasa",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "118228cf0435847c0b46ac8226242ad6",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Estrela da Amadora",
+      "away_team": "Benfica",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:35:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:35:26Z",
+              "outcomes": [
+                {
+                  "name": "CF Estrela",
+                  "price": 11
+                },
+                {
+                  "name": "Benfica",
+                  "price": 1.179
+                },
+                {
+                  "name": "Draw",
+                  "price": 6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087326168,
+          "stale_seconds": 589.09
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:12:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:12:17Z",
+              "outcomes": [
+                {
+                  "name": "CF Estrela",
+                  "price": 11
+                },
+                {
+                  "name": "Benfica",
+                  "price": 1.16
+                },
+                {
+                  "name": "Draw",
+                  "price": 6
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085937112,
+          "stale_seconds": 1978.14
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:11:56Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Estrela da Amadora",
+                  "price": 11.63
+                },
+                {
+                  "name": "Benfica",
+                  "price": 1.219
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.15
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.04,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.826,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Estrela da Amadora",
+                  "price": 2.06,
+                  "point": 1.75
+                },
+                {
+                  "name": "Benfica",
+                  "price": 1.82,
+                  "point": -1.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085916000,
+          "stale_seconds": 1999.26
+        }
+      ],
+      "canonical_event_id": "1fbf7c429d8c0a34",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e0cb5796401bbbdd1420ed1334b40bb9",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Estoril",
+      "away_team": "Marítimo Funchal",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:35:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:35:26Z",
+              "outcomes": [
+                {
+                  "name": "Estoril",
+                  "price": 1.885
+                },
+                {
+                  "name": "Marítimo Funchal",
+                  "price": 3.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087326169,
+          "stale_seconds": 589.09
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:40:22Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:40:22Z",
+              "outcomes": [
+                {
+                  "name": "Estoril",
+                  "price": 1.917
+                },
+                {
+                  "name": "Marítimo Funchal",
+                  "price": 3.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087622345,
+          "stale_seconds": 292.91
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Estoril",
+                  "price": 2.12
+                },
+                {
+                  "name": "Maritimo",
+                  "price": 3.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.53
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.943,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Estoril",
+                  "price": 1.833,
+                  "point": -0.25
+                },
+                {
+                  "name": "Maritimo",
+                  "price": 2.06,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2160.26
+        }
+      ],
+      "canonical_event_id": "556b87647d1e50bb",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "29f92fb6b8a65300",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Estoril (Corners)",
+      "away_team": "Maritimo (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:41:02Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Estoril (Corners)",
+                  "price": 1.943,
+                  "point": -1
+                },
+                {
+                  "name": "Maritimo (Corners)",
+                  "price": 1.82,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794076862000,
+          "stale_seconds": 11053.26
+        }
+      ],
+      "canonical_event_id": "29f92fb6b8a65300",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7d769f36e45fe55d",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Estrela da Amadora (Corners)",
+      "away_team": "Benfica (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:14:16Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Estrela da Amadora (Corners)",
+                  "price": 1.885,
+                  "point": 4
+                },
+                {
+                  "name": "Benfica (Corners)",
+                  "price": 1.885,
+                  "point": -4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794075256000,
+          "stale_seconds": 12659.26
+        }
+      ],
+      "canonical_event_id": "7d769f36e45fe55d",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d607dfd1ab2658efaf1bde7dc781d531",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Nacional da Madeira",
+      "away_team": "Academico de Viseu",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T20:57:29Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Nacional da Madeira",
+                  "price": 2.95
+                },
+                {
+                  "name": "Academico de Viseu",
+                  "price": 2.48
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.28
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.04,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.813,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Nacional da Madeira",
+                  "price": 2.11,
+                  "point": 0
+                },
+                {
+                  "name": "Academico de Viseu",
+                  "price": 1.769,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085049000,
+          "stale_seconds": 2866.26
+        }
+      ],
+      "canonical_event_id": "a646ff60c5e0d83b",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "dadff8cc63a4388076a699946d8a39c8",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Rio Ave",
+      "away_team": "S.C. Braga",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:35:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:35:26Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave",
+                  "price": 5.6
+                },
+                {
+                  "name": "S.C. Braga",
+                  "price": 1.476
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087326168,
+          "stale_seconds": 589.09
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:18:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:18:51Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave",
+                  "price": 5.6
+                },
+                {
+                  "name": "S.C. Braga",
+                  "price": 1.455
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086331757,
+          "stale_seconds": 1583.5
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:11:56Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave",
+                  "price": 6.1
+                },
+                {
+                  "name": "Braga",
+                  "price": 1.549
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.32
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.833,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.05,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave",
+                  "price": 1.943,
+                  "point": 1
+                },
+                {
+                  "name": "Braga",
+                  "price": 1.943,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085916000,
+          "stale_seconds": 1999.26
+        }
+      ],
+      "canonical_event_id": "d59765d2b012a9ff",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5c5366d6f45741083c8fe00d80d9f2d1",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Santa Clara",
+      "away_team": "Gil Vicente",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Santa Clara",
+                  "price": 2.3
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 3.62
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.08
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.862,
+                  "point": 2
+                },
+                {
+                  "name": "Under",
+                  "price": 2.01,
+                  "point": 2
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Santa Clara",
+                  "price": 1.943,
+                  "point": -0.25
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.943,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2160.26
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:18:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:18:51Z",
+              "outcomes": [
+                {
+                  "name": "Santa Clara",
+                  "price": 2.02
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 3.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.95
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086331757,
+          "stale_seconds": 1583.5
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:35:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:35:26Z",
+              "outcomes": [
+                {
+                  "name": "Santa Clara",
+                  "price": 2.05
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 3.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087326168,
+          "stale_seconds": 589.09
+        }
+      ],
+      "canonical_event_id": "2af1250a076f3494",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "e6884a926d73e40e929cf1b620579d21",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T18:00:00Z",
+      "home_team": "Vitoria Guimarães",
+      "away_team": "FC Porto",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T21:18:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:18:51Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimarães",
+                  "price": 5.5
+                },
+                {
+                  "name": "FC Porto",
+                  "price": 1.465
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086331757,
+          "stale_seconds": 1583.5
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T21:35:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:35:26Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimarães",
+                  "price": 5.6
+                },
+                {
+                  "name": "FC Porto",
+                  "price": 1.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087326168,
+          "stale_seconds": 589.09
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:24:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T21:24:17Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimaraes",
+                  "price": 5.47
+                },
+                {
+                  "name": "Porto",
+                  "price": 1.61
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.23
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.18,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.725,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimaraes",
+                  "price": 1.806,
+                  "point": 1
+                },
+                {
+                  "name": "Porto",
+                  "price": 2.1,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086657000,
+          "stale_seconds": 1258.26
+        }
+      ],
+      "canonical_event_id": "702bf58566a4b492",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "beb6154f4c84664e",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T18:00:00Z",
+      "home_team": "Vitoria Guimaraes (Corners)",
+      "away_team": "Porto (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T18:41:02Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:11:56Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimaraes (Corners)",
+                  "price": 1.971,
+                  "point": 1
+                },
+                {
+                  "name": "Porto (Corners)",
+                  "price": 1.794,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794076862000,
+          "stale_seconds": 11053.26
+        }
+      ],
+      "canonical_event_id": "beb6154f4c84664e",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "096b54e9250d8bfb",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "Liga Portugal",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Rio Ave (Corners)",
+      "away_team": "Braga (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T20:57:29Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T20:57:29Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave (Corners)",
+                  "price": 1.885,
+                  "point": 3
+                },
+                {
+                  "name": "Braga (Corners)",
+                  "price": 1.885,
+                  "point": -3
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085049000,
+          "stale_seconds": 2866.26
+        }
+      ],
+      "canonical_event_id": "096b54e9250d8bfb",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "9a9e264b4ebf89bf",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Estoril (Corners)",
+      "away_team": "Maritimo (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:25:09Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.813,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Estoril (Corners)",
+                  "price": 1.943,
+                  "point": -1
+                },
+                {
+                  "name": "Maritimo (Corners)",
+                  "price": 1.82,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086709000,
+          "stale_seconds": 1206.26
+        }
+      ],
+      "canonical_event_id": "9a9e264b4ebf89bf",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "c8fd2727ca63d776",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Estrela da Amadora (Corners)",
+      "away_team": "Benfica (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:25:09Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Estrela da Amadora (Corners)",
+                  "price": 1.885,
+                  "point": 4
+                },
+                {
+                  "name": "Benfica (Corners)",
+                  "price": 1.885,
+                  "point": -4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086709000,
+          "stale_seconds": 1206.26
+        }
+      ],
+      "canonical_event_id": "c8fd2727ca63d776",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d9607e7c4a7660b6a3c85bc707fcbfc2",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Nacional da Madeira (Corners)",
+      "away_team": "Academico de Viseu (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:09:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.926,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:09:15Z",
+              "outcomes": [
+                {
+                  "name": "Nacional da Madeira (Corners)",
+                  "price": 1.901,
+                  "point": -0.5
+                },
+                {
+                  "name": "Academico de Viseu (Corners)",
+                  "price": 1.862,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794085755000,
+          "stale_seconds": 2160.26
+        }
+      ],
+      "canonical_event_id": "75eb0495a7fbddf1",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4c92705aa33f18ab",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T20:30:00Z",
+      "home_team": "Rio Ave (Corners)",
+      "away_team": "Braga (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:24:17Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:24:17Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:24:17Z",
+              "outcomes": [
+                {
+                  "name": "Rio Ave (Corners)",
+                  "price": 1.885,
+                  "point": 3
+                },
+                {
+                  "name": "Braga (Corners)",
+                  "price": 1.885,
+                  "point": -3
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086657000,
+          "stale_seconds": 1258.26
+        }
+      ],
+      "canonical_event_id": "4c92705aa33f18ab",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cd455134a759dce5d754bd2f69dd3bda",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T15:30:00Z",
+      "home_team": "Santa Clara (Corners)",
+      "away_team": "Gil Vicente (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:40:14Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Santa Clara (Corners)",
+                  "price": 1.901,
+                  "point": -1
+                },
+                {
+                  "name": "Gil Vicente (Corners)",
+                  "price": 1.862,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794087614000,
+          "stale_seconds": 301.26
+        }
+      ],
+      "canonical_event_id": "8dd413cbcda1c686",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "268d5a844420b3f6",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "sport_title": "soccer_portugal_primeira_liga_corners",
+      "commence_time": "2026-11-08T18:00:00Z",
+      "home_team": "Vitoria Guimaraes (Corners)",
+      "away_team": "Porto (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T21:25:09Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T21:25:09Z",
+              "outcomes": [
+                {
+                  "name": "Vitoria Guimaraes (Corners)",
+                  "price": 1.971,
+                  "point": 1
+                },
+                {
+                  "name": "Porto (Corners)",
+                  "price": 1.794,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794086709000,
+          "stale_seconds": 1206.26
+        }
+      ],
+      "canonical_event_id": "268d5a844420b3f6",
+      "commence_time_reported": true,
+      "sport_name": "Liga Portugal",
+      "sport_group": "Soccer"
     }
   ],
   "errors": []
