@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T19:19:46.786Z",
+  "generated_at": "2026-11-07T05:52:38.673Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 409,
     "updated_this_run": [
-      "soccer_greece_super_league",
-      "soccer_hungary_nb1"
+      "soccer_ireland_premier_division",
+      "soccer_italy_serie_a"
     ],
     "region": "eu",
     "markets": [
@@ -11254,6 +11254,3393 @@
       "canonical_event_id": "c448f86909684675",
       "commence_time_reported": true,
       "sport_name": "Greece Super League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7b926b83ef052481c227401a874d9827",
+      "sport_key": "soccer_ireland_premier_division",
+      "sport_title": "Ireland Premier Division",
+      "commence_time": "2026-11-07T17:30:00Z",
+      "home_team": "Drogheda United",
+      "away_team": "UC Dublin",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:50:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:50:38Z",
+              "outcomes": [
+                {
+                  "name": "Drogheda United",
+                  "price": 1.676
+                },
+                {
+                  "name": "UC Dublin",
+                  "price": 3.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030638573,
+          "stale_seconds": 118.32
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:50:39Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:50:39Z",
+              "outcomes": [
+                {
+                  "name": "Drogheda United",
+                  "price": 1.82
+                },
+                {
+                  "name": "UC Dublin",
+                  "price": 3.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030639086,
+          "stale_seconds": 117.81
+        }
+      ],
+      "canonical_event_id": "fd38021d71d4386b",
+      "commence_time_reported": true,
+      "sport_name": "Ireland Premier Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "f51df339cc9342c663c339e7bf33efb3",
+      "sport_key": "soccer_ireland_premier_division",
+      "sport_title": "Ireland Premier Division",
+      "commence_time": "2026-11-07T17:30:00Z",
+      "home_team": "Drogheda United",
+      "away_team": "University College Dublin",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T04:05:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T04:05:14Z",
+              "outcomes": [
+                {
+                  "name": "Drogheda United",
+                  "price": 1.787
+                },
+                {
+                  "name": "University College Dublin",
+                  "price": 4.19
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.06
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:03:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.962,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:03:43Z",
+              "outcomes": [
+                {
+                  "name": "Drogheda United",
+                  "price": 2.01,
+                  "point": -0.75
+                },
+                {
+                  "name": "University College Dublin",
+                  "price": 1.862,
+                  "point": 0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794024314000,
+          "stale_seconds": 6442.9
+        }
+      ],
+      "canonical_event_id": "4c07b30c4f67197f",
+      "commence_time_reported": true,
+      "sport_name": "Ireland Premier Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "59912870e10fe49c7e5e93cfc78534d4",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Cagliari",
+      "away_team": "Frosinone",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari",
+                  "price": 2.96
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 2.31
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.935,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari",
+                  "price": 1.885,
+                  "point": 0.25
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 2.02,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari",
+                  "price": 2.7
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:37Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari",
+                  "price": 2.75
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 2.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "5adcd47d4beae1ad",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7a3e72f73714b19459abda9daf7c44df",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Cagliari (Bookings)",
+      "away_team": "Frosinone (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari (Bookings)",
+                  "price": 2.32
+                },
+                {
+                  "name": "Frosinone (Bookings)",
+                  "price": 2.49
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.01
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.11,
+                  "point": 4.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.741,
+                  "point": 4.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari (Bookings)",
+                  "price": 1.806,
+                  "point": 0
+                },
+                {
+                  "name": "Frosinone (Bookings)",
+                  "price": 1.943,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "e6ca060b7269e14f",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4c691f63e5a3cd31e5267e1e2ebb6ee6",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Cagliari (Corners)",
+      "away_team": "Frosinone (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.709,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 2.12,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Cagliari (Corners)",
+                  "price": 1.901,
+                  "point": 0
+                },
+                {
+                  "name": "Frosinone (Corners)",
+                  "price": 1.893,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "157a014dc6ffcfc1",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d18e5503fdde9cc8cb224ebe53f03063",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T17:00:00Z",
+      "home_team": "Parma",
+      "away_team": "Bologna",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 4.69
+                },
+                {
+                  "name": "Bologna",
+                  "price": 1.833
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.06,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.84,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 1.855,
+                  "point": 0.75
+                },
+                {
+                  "name": "Bologna",
+                  "price": 2.04,
+                  "point": -0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 4.1
+                },
+                {
+                  "name": "Bologna",
+                  "price": 1.806
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:37Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 4.3
+                },
+                {
+                  "name": "Bologna",
+                  "price": 1.847
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "0bd23cce91d05d87",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "94167d7ffb996028279b020973d37305",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T17:00:00Z",
+      "home_team": "Parma (Bookings)",
+      "away_team": "Bologna (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Parma (Bookings)",
+                  "price": 2.54
+                },
+                {
+                  "name": "Bologna (Bookings)",
+                  "price": 2.36
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.77
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Parma (Bookings)",
+                  "price": 1.943,
+                  "point": 0
+                },
+                {
+                  "name": "Bologna (Bookings)",
+                  "price": 1.8,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "065f4b6bf8d7b604",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1a9e77520ee7a37f9cc185d498916232",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T19:45:00Z",
+      "home_team": "Roma",
+      "away_team": "Sassuolo",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Roma",
+                  "price": 1.299
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 9.44
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.28
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Roma",
+                  "price": 1.971,
+                  "point": -1.75
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 1.901,
+                  "point": 1.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Roma",
+                  "price": 1.26
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 8
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:43:24Z",
+              "outcomes": [
+                {
+                  "name": "Roma",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "1a3e344cc148f992",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "1ba374861431968fff3cfcff2c922abb",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T19:45:00Z",
+      "home_team": "Roma (Bookings)",
+      "away_team": "Sassuolo (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Roma (Bookings)",
+                  "price": 3.37
+                },
+                {
+                  "name": "Sassuolo (Bookings)",
+                  "price": 1.943
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.68
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Roma (Bookings)",
+                  "price": 1.806,
+                  "point": 0.5
+                },
+                {
+                  "name": "Sassuolo (Bookings)",
+                  "price": 1.943,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "2cfcb8363e0bd5c3",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d5fb8e29899df62d6bed97928e4537fc",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Torino",
+      "away_team": "Lecce",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Torino",
+                  "price": 1.84
+                },
+                {
+                  "name": "Lecce",
+                  "price": 4.61
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.67
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.952,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Torino",
+                  "price": 1.847,
+                  "point": -0.5
+                },
+                {
+                  "name": "Lecce",
+                  "price": 2.07,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Torino",
+                  "price": 1.735
+                },
+                {
+                  "name": "Lecce",
+                  "price": 4.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:37Z",
+              "outcomes": [
+                {
+                  "name": "Torino",
+                  "price": 1.775
+                },
+                {
+                  "name": "Lecce",
+                  "price": 4.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "d4849969bd93e5dd",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "70b2e2e6ad2ea0c68f2a44887ec22041",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Torino (Bookings)",
+      "away_team": "Lecce (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Torino (Bookings)",
+                  "price": 3.44
+                },
+                {
+                  "name": "Lecce (Bookings)",
+                  "price": 2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.41
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.725,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2.14,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Torino (Bookings)",
+                  "price": 1.752,
+                  "point": 0.5
+                },
+                {
+                  "name": "Lecce (Bookings)",
+                  "price": 2,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "5799cf6e34f1450b",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "9ae8a1a3c05ee43b04b881b5a1e6346e",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "Torino (Corners)",
+      "away_team": "Lecce (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T03:31:08Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Torino (Corners)",
+                  "price": 1.862,
+                  "point": -1
+                },
+                {
+                  "name": "Lecce (Corners)",
+                  "price": 1.935,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794022268000,
+          "stale_seconds": 8490.59
+        }
+      ],
+      "canonical_event_id": "de5ddc4a34a1b0c4",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "60b7729f4fef9996e1a423da64ec8816",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Fiorentina",
+      "away_team": "Juventus",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina",
+                  "price": 3.51
+                },
+                {
+                  "name": "Juventus",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.57
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.04,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.855,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina",
+                  "price": 2.04,
+                  "point": 0.25
+                },
+                {
+                  "name": "Juventus",
+                  "price": 1.855,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T04:28:56Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina",
+                  "price": 3.4
+                },
+                {
+                  "name": "Juventus",
+                  "price": 1.926
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina",
+                  "price": 3.55
+                },
+                {
+                  "name": "Juventus",
+                  "price": 1.971
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "d9e6aec96b38d78b",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "12d8e59d7789c1598cb7e1075a388597",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Fiorentina (Bookings)",
+      "away_team": "Juventus (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina (Bookings)",
+                  "price": 2.26
+                },
+                {
+                  "name": "Juventus (Bookings)",
+                  "price": 2.54
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.96
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.746,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 2.09,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina (Bookings)",
+                  "price": 1.758,
+                  "point": 0
+                },
+                {
+                  "name": "Juventus (Bookings)",
+                  "price": 1.98,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "c18d3a5e140a9773",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "58b7563ff849c5a832a468dfa72ce92b",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T19:45:00Z",
+      "home_team": "Fiorentina (Corners)",
+      "away_team": "Juventus (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T04:31:30Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:47:09Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.826,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:47:09Z",
+              "outcomes": [
+                {
+                  "name": "Fiorentina (Corners)",
+                  "price": 1.862,
+                  "point": 1
+                },
+                {
+                  "name": "Juventus (Corners)",
+                  "price": 1.935,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794025890000,
+          "stale_seconds": 4868.59
+        }
+      ],
+      "canonical_event_id": "8a2135229c1348a4",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "05346078751e51ba17d5611e0580075a",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Genoa",
+      "away_team": "AC Milan",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Genoa",
+                  "price": 4.79
+                },
+                {
+                  "name": "AC Milan",
+                  "price": 1.847
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 2.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.99,
+                  "point": 2.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Genoa",
+                  "price": 2.07,
+                  "point": 0.5
+                },
+                {
+                  "name": "AC Milan",
+                  "price": 1.847,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Genoa",
+                  "price": 4.1
+                },
+                {
+                  "name": "AC Milan",
+                  "price": 1.746
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:40:14Z",
+              "outcomes": [
+                {
+                  "name": "Genoa",
+                  "price": 4.3
+                },
+                {
+                  "name": "AC Milan",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "7c96b181a28c29fb",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5922dbfe047f3a1187d00eab02d6ba68",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Genoa (Bookings)",
+      "away_team": "AC Milan (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Genoa (Bookings)",
+                  "price": 2.75
+                },
+                {
+                  "name": "AC Milan (Bookings)",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.86
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Genoa (Bookings)",
+                  "price": 2.13,
+                  "point": 0
+                },
+                {
+                  "name": "AC Milan (Bookings)",
+                  "price": 1.654,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "4fa8a624d0395e78",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "96a2733cf35870a53742e09779313a79",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "home_team": "Inter",
+      "away_team": "Como",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Inter",
+                  "price": 1.787
+                },
+                {
+                  "name": "Como",
+                  "price": 3.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Inter",
+                  "price": 1.826
+                },
+                {
+                  "name": "Como",
+                  "price": 3.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Internazionale",
+                  "price": 1.926
+                },
+                {
+                  "name": "Como",
+                  "price": 3.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.17
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Internazionale",
+                  "price": 1.926,
+                  "point": -0.5
+                },
+                {
+                  "name": "Como",
+                  "price": 1.98,
+                  "point": 0.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "f13c03edc1161ea2",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7469c42a6bfe7a0ac4de5a23652f1e92",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "home_team": "Internazionale (Bookings)",
+      "away_team": "Como (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Internazionale (Bookings)",
+                  "price": 2.93
+                },
+                {
+                  "name": "Como (Bookings)",
+                  "price": 2.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.719,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 2.13,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Internazionale (Bookings)",
+                  "price": 1.671,
+                  "point": 0.5
+                },
+                {
+                  "name": "Como (Bookings)",
+                  "price": 2.1,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "cf632bcef112980d",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "c5d0e53ee972858cb0a1ddde69686d55",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "home_team": "Internazionale (Corners)",
+      "away_team": "Como (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T02:00:30Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.84,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.99,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Internazionale (Corners)",
+                  "price": 1.99,
+                  "point": -2
+                },
+                {
+                  "name": "Como (Corners)",
+                  "price": 1.794,
+                  "point": 2
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794016830000,
+          "stale_seconds": 13928.59
+        }
+      ],
+      "canonical_event_id": "47fa280aa414ca1f",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "89d3bd983076c3dcad49f2668a05b866",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Monza",
+      "away_team": "Atalanta",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:16:50Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 3.32
+                },
+                {
+                  "name": "Atalanta",
+                  "price": 2.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.89
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.11,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.781,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 2.05,
+                  "point": 0.25
+                },
+                {
+                  "name": "Atalanta",
+                  "price": 1.847,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794028610000,
+          "stale_seconds": 2148.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 3.15
+                },
+                {
+                  "name": "Atalanta",
+                  "price": 1.971
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:30:38Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 3.25
+                },
+                {
+                  "name": "Atalanta",
+                  "price": 2.04
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "db9be00880b4ef9c",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "37e37cc600383046adbffc5e91bca901",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Monza (Bookings)",
+      "away_team": "Atalanta (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Monza (Bookings)",
+                  "price": 2.47
+                },
+                {
+                  "name": "Atalanta (Bookings)",
+                  "price": 2.47
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.05,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.775,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Monza (Bookings)",
+                  "price": 1.862,
+                  "point": 0
+                },
+                {
+                  "name": "Atalanta (Bookings)",
+                  "price": 1.862,
+                  "point": 0
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "1f4bc11f65b71be4",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "6d268f8bd21f73c2ed48d99e16cf14d4",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Monza (Corners)",
+      "away_team": "Atalanta (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T03:46:07Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.03,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.8,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Monza (Corners)",
+                  "price": 1.826,
+                  "point": 0.5
+                },
+                {
+                  "name": "Atalanta (Corners)",
+                  "price": 1.962,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794023167000,
+          "stale_seconds": 7591.59
+        }
+      ],
+      "canonical_event_id": "f023ef5b62439ccd",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "37433ee0f503b5d329e70e3d675a0908",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T11:30:00Z",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:32:01Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 2.37
+                },
+                {
+                  "name": "Lazio",
+                  "price": 3.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.61
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.935,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 2.06,
+                  "point": -0.25
+                },
+                {
+                  "name": "Lazio",
+                  "price": 1.855,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029521000,
+          "stale_seconds": 1237.59
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:22:32Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 2.12
+                },
+                {
+                  "name": "Lazio",
+                  "price": 2.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-07T05:51:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:43:24Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 2.2
+                },
+                {
+                  "name": "Lazio",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030692052,
+          "stale_seconds": 66.54
+        }
+      ],
+      "canonical_event_id": "4df19bdc313c4d5e",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "5009219bb4ce2e544d8f01c1bb9a940b",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T11:30:00Z",
+      "home_team": "Napoli (Bookings)",
+      "away_team": "Lazio (Bookings)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Napoli (Bookings)",
+                  "price": 3.17
+                },
+                {
+                  "name": "Lazio (Bookings)",
+                  "price": 1.877
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.11
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.735,
+                  "point": 4
+                },
+                {
+                  "name": "Under",
+                  "price": 2.1,
+                  "point": 4
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Napoli (Bookings)",
+                  "price": 1.847,
+                  "point": 0.5
+                },
+                {
+                  "name": "Lazio (Bookings)",
+                  "price": 1.877,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "8216f5d1a95a9194",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cc574e1a57094c4d960eb47de84a45c1",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "home_team": "Como",
+      "away_team": "Cagliari",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:16:50Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Como",
+                  "price": 1.33
+                },
+                {
+                  "name": "Cagliari",
+                  "price": 8.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.43
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.943,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.893,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Como",
+                  "price": 1.99,
+                  "point": -1.5
+                },
+                {
+                  "name": "Cagliari",
+                  "price": 1.87,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794028610000,
+          "stale_seconds": 2148.59
+        }
+      ],
+      "canonical_event_id": "4558e91d98466731",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "47c5e6146beddc95a2fd77f7b733ec30",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "home_team": "Lazio",
+      "away_team": "Lecce",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:32:01Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Lazio",
+                  "price": 1.353
+                },
+                {
+                  "name": "Lecce",
+                  "price": 8.21
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.16
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Lazio",
+                  "price": 2.04,
+                  "point": -1.5
+                },
+                {
+                  "name": "Lecce",
+                  "price": 1.813,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029521000,
+          "stale_seconds": 1237.59
+        }
+      ],
+      "canonical_event_id": "ddefcd111080f091",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "6b054e023d42ffae85c6a0e6c5ce0db5",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-21T19:45:00Z",
+      "home_team": "Napoli",
+      "away_team": "Torino",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:57Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 1.437
+                },
+                {
+                  "name": "Torino",
+                  "price": 6.83
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.73
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.862,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.971,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:57Z",
+              "outcomes": [
+                {
+                  "name": "Napoli",
+                  "price": 1.98,
+                  "point": -1.25
+                },
+                {
+                  "name": "Torino",
+                  "price": 1.877,
+                  "point": 1.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030417000,
+          "stale_seconds": 341.59
+        }
+      ],
+      "canonical_event_id": "7c95d715c3bb88c5",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "775f3ddb5ce5f146c5b50576bca29d79",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-21T17:00:00Z",
+      "home_team": "Parma",
+      "away_team": "Roma",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:01:45Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:01:45Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 6.99
+                },
+                {
+                  "name": "Roma",
+                  "price": 1.413
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.91
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:16:50Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.775,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.06,
+                  "point": 2.75
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:01:45Z",
+              "outcomes": [
+                {
+                  "name": "Parma",
+                  "price": 1.952,
+                  "point": 1.25
+                },
+                {
+                  "name": "Roma",
+                  "price": 1.885,
+                  "point": -1.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794027705000,
+          "stale_seconds": 3053.59
+        }
+      ],
+      "canonical_event_id": "1cbcb01f403a432e",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "aff74d1687ef1cbe867b9624f982a295",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-22T17:00:00Z",
+      "home_team": "AC Milan",
+      "away_team": "Frosinone",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "AC Milan",
+                  "price": 1.559
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 5.21
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.55
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.935,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "AC Milan",
+                  "price": 1.87,
+                  "point": -1
+                },
+                {
+                  "name": "Frosinone",
+                  "price": 1.98,
+                  "point": 1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "5928daf0c08aa1a6",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "161d6de2e096a4984cfdb4a6f46b3eb9",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-22T19:45:00Z",
+      "home_team": "Atalanta",
+      "away_team": "Inter",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Atalanta",
+                  "price": 4.75
+                },
+                {
+                  "name": "Internazionale",
+                  "price": 1.617
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.48
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.03,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.8,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Atalanta",
+                  "price": 1.84,
+                  "point": 1
+                },
+                {
+                  "name": "Internazionale",
+                  "price": 2,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "84f7016ba03f9a33",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "bc2931ef27c1be93076f5b72ba3b68e7",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-22T14:00:00Z",
+      "home_team": "Bologna",
+      "away_team": "Udinese",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:32:01Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Bologna",
+                  "price": 1.763
+                },
+                {
+                  "name": "Udinese",
+                  "price": 4.69
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.71
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Bologna",
+                  "price": 1.99,
+                  "point": -0.75
+                },
+                {
+                  "name": "Udinese",
+                  "price": 1.847,
+                  "point": 0.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029521000,
+          "stale_seconds": 1237.59
+        }
+      ],
+      "canonical_event_id": "6a5c082a565579a8",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "667791efaff6b74819c820cd4d12da7f",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-22T11:30:00Z",
+      "home_team": "Juventus",
+      "away_team": "Venezia",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Juventus",
+                  "price": 1.341
+                },
+                {
+                  "name": "Venezia",
+                  "price": 8.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.37
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.04,
+                  "point": 3
+                },
+                {
+                  "name": "Under",
+                  "price": 1.813,
+                  "point": 3
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Juventus",
+                  "price": 2.03,
+                  "point": -1.5
+                },
+                {
+                  "name": "Venezia",
+                  "price": 1.833,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "0b1f41a8f057ff76",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "052763cb636a4e3b9959f491e9478c98",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-22T14:00:00Z",
+      "home_team": "Sassuolo",
+      "away_team": "Genoa",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:32:01Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Sassuolo",
+                  "price": 2.41
+                },
+                {
+                  "name": "Genoa",
+                  "price": 2.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.43
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 2.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Sassuolo",
+                  "price": 2.09,
+                  "point": -0.25
+                },
+                {
+                  "name": "Genoa",
+                  "price": 1.787,
+                  "point": 0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029521000,
+          "stale_seconds": 1237.59
+        }
+      ],
+      "canonical_event_id": "cdc14ba22f7aa74b",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "849f108bb76a3cf137593329d07b4679",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-23T19:45:00Z",
+      "home_team": "Monza",
+      "away_team": "Fiorentina",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 3.56
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 1.99
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.76
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.24,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.654,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Monza",
+                  "price": 1.862,
+                  "point": 0.5
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 2,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "0602d434e46604e8",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "79206854d0cf7d333d02ce227c04d4ef",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T14:00:00Z",
+      "home_team": "Genoa (Corners)",
+      "away_team": "AC Milan (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.806,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Genoa (Corners)",
+                  "price": 1.971,
+                  "point": 1
+                },
+                {
+                  "name": "AC Milan (Corners)",
+                  "price": 1.826,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "d8bd428b5144d6ba",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "861ffd8a0635d0ec1cc1d8f553cfff82",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-08T11:30:00Z",
+      "home_team": "Napoli (Corners)",
+      "away_team": "Lazio (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:46:58Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.971,
+                  "point": 9.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.855,
+                  "point": 9.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:46:58Z",
+              "outcomes": [
+                {
+                  "name": "Napoli (Corners)",
+                  "price": 1.935,
+                  "point": -1.5
+                },
+                {
+                  "name": "Lazio (Corners)",
+                  "price": 1.862,
+                  "point": 1.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030418000,
+          "stale_seconds": 340.59
+        }
+      ],
+      "canonical_event_id": "f8188f19f4480753",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4ebf53d86596825bc697071e04c39519",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T17:00:00Z",
+      "home_team": "Parma (Corners)",
+      "away_team": "Bologna (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:32:01Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.98,
+                  "point": 9
+                },
+                {
+                  "name": "Under",
+                  "price": 1.847,
+                  "point": 9
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:32:01Z",
+              "outcomes": [
+                {
+                  "name": "Parma (Corners)",
+                  "price": 1.877,
+                  "point": 1
+                },
+                {
+                  "name": "Bologna (Corners)",
+                  "price": 1.926,
+                  "point": -1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029521000,
+          "stale_seconds": 1237.59
+        }
+      ],
+      "canonical_event_id": "c5f79000f4db5917",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "57fda5e0ef8432b5f852fffe399a0c22",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "Serie A",
+      "commence_time": "2026-11-07T19:45:00Z",
+      "home_team": "Roma (Corners)",
+      "away_team": "Sassuolo (Corners)",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:31:54Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 10
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 10
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:31:54Z",
+              "outcomes": [
+                {
+                  "name": "Roma (Corners)",
+                  "price": 1.847,
+                  "point": -3.5
+                },
+                {
+                  "name": "Sassuolo (Corners)",
+                  "price": 1.943,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029514000,
+          "stale_seconds": 1244.59
+        }
+      ],
+      "canonical_event_id": "a5c6c9bec2ea6c41",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "19515f67b9d92bc78dee82ee5b19932a",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "soccer_italy_serie_a_women",
+      "commence_time": "2026-11-07T14:00:00Z",
+      "home_team": "AC Milan",
+      "away_team": "Internazionale",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T03:40:51Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T03:40:51Z",
+              "outcomes": [
+                {
+                  "name": "AC Milan",
+                  "price": 2.71
+                },
+                {
+                  "name": "Internazionale",
+                  "price": 2.26
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794022851000,
+          "stale_seconds": 7907.59
+        }
+      ],
+      "canonical_event_id": "03722cc0f45cb200",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "6a8322c81bfee6c01834748a7e987736",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "soccer_italy_serie_a_women",
+      "commence_time": "2026-11-07T11:30:00Z",
+      "home_team": "Como 1907",
+      "away_team": "Roma",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:27:13Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:27:13Z",
+              "outcomes": [
+                {
+                  "name": "Como 1907",
+                  "price": 3.16
+                },
+                {
+                  "name": "Roma",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.06
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:27:13Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.775,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:27:13Z",
+              "outcomes": [
+                {
+                  "name": "Como 1907",
+                  "price": 1.909,
+                  "point": 0.5
+                },
+                {
+                  "name": "Roma",
+                  "price": 1.82,
+                  "point": -0.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794029233000,
+          "stale_seconds": 1525.59
+        }
+      ],
+      "canonical_event_id": "a87004deefdbab9b",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "fb05141108d5c4bfb74ae6c1452ce81b",
+      "sport_key": "soccer_italy_serie_a",
+      "sport_title": "soccer_italy_serie_a_women",
+      "commence_time": "2026-11-07T17:00:00Z",
+      "home_team": "Juventus",
+      "away_team": "Sassuolo",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-07T05:42:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-07T05:42:42Z",
+              "outcomes": [
+                {
+                  "name": "Juventus",
+                  "price": 1.211
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 9.28
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.45
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-07T05:42:42Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.98,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.8,
+                  "point": 3.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-07T05:42:42Z",
+              "outcomes": [
+                {
+                  "name": "Juventus",
+                  "price": 1.781,
+                  "point": -1.75
+                },
+                {
+                  "name": "Sassuolo",
+                  "price": 2,
+                  "point": 1.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794030162000,
+          "stale_seconds": 596.59
+        }
+      ],
+      "canonical_event_id": "76a9807cf544a9f0",
+      "commence_time_reported": true,
+      "sport_name": "Serie A",
       "sport_group": "Soccer"
     }
   ],
