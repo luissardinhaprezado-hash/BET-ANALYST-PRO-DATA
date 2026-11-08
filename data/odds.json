@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T05:55:13.272Z",
+  "generated_at": "2026-11-08T13:17:14.734Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 692,
+    "active_sports": 726,
     "updated_this_run": [
-      "soccer_colombia_primera_a",
-      "soccer_costa_rica_primera_division"
+      "soccer_switzerland_super_league_women",
+      "soccer_tercera_division_rfef"
     ],
     "region": "eu",
     "markets": [
@@ -476,24 +476,9 @@
       "group": "Disc Golf"
     },
     {
-      "key": "americanfootball_cfl",
-      "name": "CFL",
-      "group": "American Football"
-    },
-    {
       "key": "americanfootball_other",
       "name": "American Football (other competitions)",
       "group": "American Football"
-    },
-    {
-      "key": "baseball_korea_professional_baseball",
-      "name": "Korea Professional Baseball",
-      "group": "Baseball"
-    },
-    {
-      "key": "baseball_mexican_pacific_league",
-      "name": "Mexican Pacific League",
-      "group": "Baseball"
     },
     {
       "key": "basketball_aba_adriatic_league",
@@ -626,11 +611,6 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_el_salvador_liga_mayor_de_baloncesto",
-      "name": "El Salvador Liga Mayor de Baloncesto",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_estonian_latvian_basketball_league",
       "name": "Estonian Latvian Basketball League",
       "group": "Basketball"
@@ -746,11 +726,6 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_japan_b_league_next",
-      "name": "Japan B League Next",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_japan_b_league_one",
       "name": "Japan B League One",
       "group": "Basketball"
@@ -796,23 +771,8 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_mexico_liga_abe",
-      "name": "Mexico Liga Abe",
-      "group": "Basketball"
-    },
-    {
-      "key": "basketball_mexico_liga_abe_women",
-      "name": "Mexico Liga Abe Women",
-      "group": "Basketball"
-    },
-    {
       "key": "basketball_morocco_basketball_league",
       "name": "Morocco Basketball League",
-      "group": "Basketball"
-    },
-    {
-      "key": "basketball_new_zealand_nbl_women",
-      "name": "New Zealand NBL Women",
       "group": "Basketball"
     },
     {
@@ -826,13 +786,13 @@
       "group": "Basketball"
     },
     {
-      "key": "basketball_paraguay_lncf_women",
-      "name": "Paraguay Lncf Women",
+      "key": "basketball_philippines_ncaa",
+      "name": "Philippines NCAA",
       "group": "Basketball"
     },
     {
-      "key": "basketball_philippines_ncaa",
-      "name": "Philippines NCAA",
+      "key": "basketball_philippines_pba_governors_cup",
+      "name": "Philippines Pba Governors Cup",
       "group": "Basketball"
     },
     {
@@ -976,19 +936,39 @@
       "group": "Basketball"
     },
     {
+      "key": "basketball_uruguay_tercera_de_ascenso",
+      "name": "Uruguay Tercera de Ascenso",
+      "group": "Basketball"
+    },
+    {
       "key": "boxing_boxing_matches",
       "name": "Boxing Matches",
       "group": "Boxing"
     },
     {
-      "key": "cricket_new_zealand_ford_trophy",
-      "name": "New Zealand Ford Trophy",
+      "key": "cricket_international_twenty20_matches_women",
+      "name": "International Twenty20 Matches Women",
+      "group": "Cricket"
+    },
+    {
+      "key": "cricket_south_africa_t20_challenge",
+      "name": "South Africa T20 Challenge",
       "group": "Cricket"
     },
     {
       "key": "cricket_wbbl",
       "name": "Wbbl",
       "group": "Cricket"
+    },
+    {
+      "key": "esports_call_of_duty_monster_launch_invitational",
+      "name": "Call of Duty Monster Launch Invitational",
+      "group": "Esports"
+    },
+    {
+      "key": "esports_cs2_cct_european_series_14_qualifier",
+      "name": "CS2 CCT European Series 14 Qualifier",
+      "group": "Esports"
     },
     {
       "key": "esports_cs2_dach_cs_masters",
@@ -1036,23 +1016,18 @@
       "group": "Esports"
     },
     {
-      "key": "esports_league_of_legends_lck_as_academy_league",
-      "name": "League of Legends LCK As Academy League",
-      "group": "Esports"
-    },
-    {
       "key": "esports_league_of_legends_world_championship",
       "name": "League of Legends World Championship",
       "group": "Esports"
     },
     {
-      "key": "esports_rainbow_six_blast_r6_major_osaka",
-      "name": "Rainbow Six Blast R6 Major Osaka",
+      "key": "esports_mobile_legends_mpl_indonesia",
+      "name": "Mobile Legends Mpl Indonesia",
       "group": "Esports"
     },
     {
-      "key": "esports_rainbow_six_siege",
-      "name": "Rainbow Six Siege",
+      "key": "esports_rainbow_six_blast_r6_major_osaka",
+      "name": "Rainbow Six Blast R6 Major Osaka",
       "group": "Esports"
     },
     {
@@ -1063,11 +1038,6 @@
     {
       "key": "golf_other",
       "name": "Golf (other competitions)",
-      "group": "Golf"
-    },
-    {
-      "key": "golf_pga_world_wide_technology_championship_3rd_round",
-      "name": "PGA World Wide Technology Championship 3rd Round",
       "group": "Golf"
     },
     {
@@ -1106,18 +1076,8 @@
       "group": "Ice Hockey"
     },
     {
-      "key": "hockey_czech_republic_extraliga_u20",
-      "name": "Czech Republic Extraliga U20",
-      "group": "Ice Hockey"
-    },
-    {
       "key": "hockey_denmark_metal_ligaen",
       "name": "Denmark Metal Ligaen",
-      "group": "Ice Hockey"
-    },
-    {
-      "key": "hockey_europe_alps_hockey_league",
-      "name": "Europe Alps Hockey League",
       "group": "Ice Hockey"
     },
     {
@@ -1131,18 +1091,8 @@
       "group": "Ice Hockey"
     },
     {
-      "key": "hockey_finland_sm_liiga",
-      "name": "Finland Sm Liiga",
-      "group": "Ice Hockey"
-    },
-    {
       "key": "hockey_france_ligue_magnus",
       "name": "France Ligue Magnus",
-      "group": "Ice Hockey"
-    },
-    {
-      "key": "hockey_latvia_latvian_hockey_league",
-      "name": "Latvia Latvian Hockey League",
       "group": "Ice Hockey"
     },
     {
@@ -1186,16 +1136,6 @@
       "group": "Ice Hockey"
     },
     {
-      "key": "mma",
-      "name": "Mixed Martial Arts (all competitions)",
-      "group": "Mixed Martial Arts"
-    },
-    {
-      "key": "mma_ufc",
-      "name": "UFC",
-      "group": "Mixed Martial Arts"
-    },
-    {
       "key": "motorsports",
       "name": "Motorsports (all competitions)",
       "group": "Motorsports"
@@ -1204,6 +1144,16 @@
       "key": "other_esports",
       "name": "Esports",
       "group": "Other"
+    },
+    {
+      "key": "soccer_albania_1st_division",
+      "name": "Albania 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_albania_superliga",
+      "name": "Albania Superliga",
+      "group": "Soccer"
     },
     {
       "key": "soccer_algeria_1st_division",
@@ -1231,8 +1181,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_argentina_copa_argentina",
-      "name": "Argentina Copa Argentina",
+      "key": "soccer_angola_girabola",
+      "name": "Angola Girabola",
       "group": "Soccer"
     },
     {
@@ -1246,8 +1196,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_argentina_liga_pro_corners",
-      "name": "Argentina Liga Pro Corners",
+      "key": "soccer_argentina_primera_c",
+      "name": "Argentina Primera C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_primera_c_metropolitana",
+      "name": "Argentina Primera C Metropolitana",
       "group": "Soccer"
     },
     {
@@ -1256,13 +1211,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_armenia_premier_league",
-      "name": "Armenia Premier League",
+      "key": "soccer_argentina_torneo_federal",
+      "name": "Argentina Torneo Federal",
       "group": "Soccer"
     },
     {
-      "key": "soccer_aruba_divison_di_honor",
-      "name": "Aruba Divison Di Honor",
+      "key": "soccer_argentina_torneo_federal_a",
+      "name": "Argentina Torneo Federal A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_armenia_premier_league",
+      "name": "Armenia Premier League",
       "group": "Soccer"
     },
     {
@@ -1271,28 +1231,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_australia_a_league_bookings",
-      "name": "Australia A League Bookings",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_australia_a_league_corners",
-      "name": "Australia A League Corners",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_australia_a_league_women",
       "name": "Australia A League Women",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_australia_championship",
-      "name": "Australia Championship",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_australia_championship_corners",
-      "name": "Australia Championship Corners",
       "group": "Soccer"
     },
     {
@@ -1361,6 +1301,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_bolivia_copa_simon_bolivar",
+      "name": "Bolivia Copa Simon Bolivar",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_bolivia_primera_division",
       "name": "Bolivia Primera Division",
       "group": "Soccer"
@@ -1371,8 +1316,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_bosnia_and_herzegovina_1st_league",
+      "name": "Bosnia and Herzegovina 1st League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_bosnia_and_herzegovina_premier_liga",
       "name": "Bosnia and Herzegovina Premier Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bosnia_herzegovina_premier_liga",
+      "name": "Bosnia Herzegovina Premier Liga",
       "group": "Soccer"
     },
     {
@@ -1381,8 +1336,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_campeonato_sergipano_a2",
+      "name": "Brazil Campeonato Sergipano A2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_copa_do_brasil",
       "name": "Brazil Copa Do Brasil",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_copa_santa_catarina",
+      "name": "Brazil Copa Santa Catarina",
       "group": "Soccer"
     },
     {
@@ -1393,6 +1358,21 @@
     {
       "key": "soccer_brazil_cup_women",
       "name": "Brazil Cup Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_mineiro_3",
+      "name": "Brazil Mineiro 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_paulista_women_u20",
+      "name": "Brazil Paulista Women U20",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_pernambucano",
+      "name": "Brazil Pernambucano",
       "group": "Soccer"
     },
     {
@@ -1436,11 +1416,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_burkina_faso_superdivision",
-      "name": "Burkina Faso Superdivision",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_caf_champions_league_women",
       "name": "Caf Champions League Women",
       "group": "Soccer"
@@ -1456,6 +1431,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_cameroon_elite_one",
+      "name": "Cameroon Elite One",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_chile_primera_division",
       "name": "Chile Primera Division",
       "group": "Soccer"
@@ -1463,6 +1443,11 @@
     {
       "key": "soccer_chile_primera_division_corners",
       "name": "Chile Primera Division Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_primera_division_women",
+      "name": "Chile Primera Division Women",
       "group": "Soccer"
     },
     {
@@ -1501,8 +1486,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_colombia_primera_b",
-      "name": "Colombia Primera B",
+      "key": "soccer_colombia_u20_league",
+      "name": "Colombia U20 League",
       "group": "Soccer"
     },
     {
@@ -1523,6 +1508,21 @@
     {
       "key": "soccer_costa_rica_ascenso",
       "name": "Costa Rica Ascenso",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_1_hnl_women",
+      "name": "Croatia 1 Hnl Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_3_nl",
+      "name": "Croatia 3 Nl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_first_league",
+      "name": "Croatia First League",
       "group": "Soccer"
     },
     {
@@ -1548,6 +1548,11 @@
     {
       "key": "soccer_cyprus_1st_division_women",
       "name": "Cyprus 1st Division Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_cyprus_2nd_division",
+      "name": "Cyprus 2nd Division",
       "group": "Soccer"
     },
     {
@@ -1596,13 +1601,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_u19",
-      "name": "Czech Republic U19",
+      "key": "soccer_czech_republic_u19_league",
+      "name": "Czech Republic U19 League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_u19_league",
-      "name": "Czech Republic U19 League",
+      "key": "soccer_denmark_1st_division",
+      "name": "Denmark 1st Division",
       "group": "Soccer"
     },
     {
@@ -1613,6 +1618,11 @@
     {
       "key": "soccer_denmark_division_1",
       "name": "Denmark Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_division_1_women",
+      "name": "Denmark Division 1 Women",
       "group": "Soccer"
     },
     {
@@ -1656,8 +1666,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_el_salvador_reserve_league",
-      "name": "El Salvador Reserve League",
+      "key": "soccer_el_salvador_reserve_league_u20",
+      "name": "El Salvador Reserve League U20",
       "group": "Soccer"
     },
     {
@@ -1726,8 +1736,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_national_league_division_1_women",
+      "name": "England National League Division 1 Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_national_league_premier_women",
       "name": "England National League Premier Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_national_league_south",
+      "name": "England National League South",
       "group": "Soccer"
     },
     {
@@ -1753,6 +1773,16 @@
     {
       "key": "soccer_england_premier_league_corners",
       "name": "England Premier League Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_premier_league_cup_u21",
+      "name": "England Premier League Cup U21",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_professional_development_league_u21",
+      "name": "England Professional Development League U21",
       "group": "Soccer"
     },
     {
@@ -1891,6 +1921,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ghana_premier_league",
+      "name": "Ghana Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_global_cup_2026",
       "name": "Global Cup 2026",
       "group": "Soccer"
@@ -1898,6 +1933,11 @@
     {
       "key": "soccer_greece_gamma_ethniki",
       "name": "Greece Gamma Ethniki",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_greece_league_u19",
+      "name": "Greece League U19",
       "group": "Soccer"
     },
     {
@@ -1941,23 +1981,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_hong_kong_1st_division",
-      "name": "Hong Kong 1st Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_hong_kong_hkfa_1_division",
       "name": "Hong Kong Hkfa 1 Division",
       "group": "Soccer"
     },
     {
-      "key": "soccer_hong_kong_hkfa_2_division",
-      "name": "Hong Kong Hkfa 2 Division",
+      "key": "soccer_hong_kong_premier_league",
+      "name": "Hong Kong Premier League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_hong_kong_premier_league",
-      "name": "Hong Kong Premier League",
+      "key": "soccer_hungary_nb3",
+      "name": "Hungary Nb3",
       "group": "Soccer"
     },
     {
@@ -2116,53 +2151,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ivory_coast_ligue_1",
+      "name": "Ivory Coast Ligue 1",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_jamaica_premier_league",
       "name": "Jamaica Premier League",
       "group": "Soccer"
     },
     {
-      "key": "soccer_japan_football_league",
-      "name": "Japan Football League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_j2_league_corners",
-      "name": "Japan J2 League Corners",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_j3_league",
-      "name": "Japan J3 League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_j_league_2",
-      "name": "Japan J League 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_j_league_3",
-      "name": "Japan J League 3",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_j_league_corners",
-      "name": "Japan J League Corners",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_women_empowerment_league",
-      "name": "Japan Women Empowerment League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_jordan_premier_league",
-      "name": "Jordan Premier League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_jordan_pro_league",
       "name": "Jordan Pro League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_jordan_u21_federation_shield",
+      "name": "Jordan U21 Federation Shield",
       "group": "Soccer"
     },
     {
@@ -2181,28 +2186,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_korea_republic_k4_league",
-      "name": "Korea Republic K4 League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_korea_republic_k_league_1",
       "name": "Korea Republic K League 1",
       "group": "Soccer"
     },
     {
-      "key": "soccer_korea_republic_k_league_1_corners",
-      "name": "Korea Republic K League 1 Corners",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_korea_republic_k_league_2",
       "name": "Korea Republic K League 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_korea_republic_k_league_2_corners",
-      "name": "Korea Republic K League 2 Corners",
       "group": "Soccer"
     },
     {
@@ -2236,6 +2226,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_leinster_senior_league",
+      "name": "Leinster Senior League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_liberia_first_divison",
+      "name": "Liberia First Divison",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_ligue_1",
       "name": "Ligue 1",
       "group": "Soccer"
@@ -2251,8 +2251,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_malawi_league_women",
+      "name": "Malawi League Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_malawi_premiership",
+      "name": "Malawi Premiership",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_malaysia_fa_cup",
       "name": "Malaysia FA Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mali_premiere_division",
+      "name": "Mali Premiere Division",
       "group": "Soccer"
     },
     {
@@ -2263,6 +2278,16 @@
     {
       "key": "soccer_malta_premier_league",
       "name": "Malta Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mauritania_premier_league",
+      "name": "Mauritania Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_league_u19",
+      "name": "Mexico League U19",
       "group": "Soccer"
     },
     {
@@ -2291,11 +2316,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_mexico_liga_premier_serie_a",
-      "name": "Mexico Liga Premier Serie A",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_mexico_liga_tdp",
       "name": "Mexico Liga Tdp",
       "group": "Soccer"
@@ -2306,8 +2326,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_mexico_u19_league",
+      "name": "Mexico U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_u21_league",
+      "name": "Mexico U21 League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_moldova_divizia_nationala",
       "name": "Moldova Divizia Nationala",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_montenegro_druga_liga",
+      "name": "Montenegro Druga Liga",
       "group": "Soccer"
     },
     {
@@ -2323,6 +2358,11 @@
     {
       "key": "soccer_morocco_botola_pro",
       "name": "Morocco Botola Pro",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_morocco_division_1_women",
+      "name": "Morocco Division 1 Women",
       "group": "Soccer"
     },
     {
@@ -2356,23 +2396,33 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_new_zealand_national_league",
-      "name": "New Zealand National League",
+      "key": "soccer_nicaragua_segunda_division",
+      "name": "Nicaragua Segunda Division",
       "group": "Soccer"
     },
     {
-      "key": "soccer_new_zealand_national_womens_league",
-      "name": "New Zealand National Womens League",
+      "key": "soccer_nigeria_npfl",
+      "name": "Nigeria Npfl",
       "group": "Soccer"
     },
     {
-      "key": "soccer_new_zealand_premiership",
-      "name": "New Zealand Premiership",
+      "key": "soccer_nigeria_premier_league",
+      "name": "Nigeria Premier League",
       "group": "Soccer"
     },
     {
       "key": "soccer_north_macedonia_1st_league",
       "name": "North Macedonia 1st League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_north_macedonia_1st_league_women",
+      "name": "North Macedonia 1st League Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_north_macedonia_first_league",
+      "name": "North Macedonia First League",
       "group": "Soccer"
     },
     {
@@ -2393,6 +2443,11 @@
     {
       "key": "soccer_norway_eliteserien_corners",
       "name": "Norway Eliteserien Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_oberliga",
+      "name": "Oberliga",
       "group": "Soccer"
     },
     {
@@ -2428,6 +2483,11 @@
     {
       "key": "soccer_peru_primera_division",
       "name": "Peru Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_peru_primera_division_women",
+      "name": "Peru Primera Division Women",
       "group": "Soccer"
     },
     {
@@ -2471,6 +2531,21 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_poland_i_liga",
+      "name": "Poland I Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_ii_liga",
+      "name": "Poland Ii Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_iv_liga",
+      "name": "Poland Iv Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_poland_u19_league",
       "name": "Poland U19 League",
       "group": "Soccer"
@@ -2483,6 +2558,16 @@
     {
       "key": "soccer_portugal_campeonato_de_portugal_prio",
       "name": "Portugal Campeonato de Portugal Prio",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_campeonato_nacional_ii",
+      "name": "Portugal Campeonato Nacional Ii",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_championship_u19",
+      "name": "Portugal Championship U19",
       "group": "Soccer"
     },
     {
@@ -2546,6 +2631,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_regional_league",
+      "name": "Regional League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_regionalliga",
+      "name": "Regionalliga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_romania_liga_1",
       "name": "Romania Liga 1",
       "group": "Soccer"
@@ -2553,6 +2648,11 @@
     {
       "key": "soccer_romania_liga_1_corners",
       "name": "Romania Liga 1 Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_romania_liga_1_women",
+      "name": "Romania Liga 1 Women",
       "group": "Soccer"
     },
     {
@@ -2586,18 +2686,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_rwanda_national_league",
-      "name": "Rwanda National League",
+      "key": "soccer_rwanda_premier_league",
+      "name": "Rwanda Premier League",
       "group": "Soccer"
     },
     {
       "key": "soccer_saff_championship",
       "name": "Saff Championship",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_saint_kitts_and_nevis_premier_league",
-      "name": "Saint Kitts and Nevis Premier League",
       "group": "Soccer"
     },
     {
@@ -2641,8 +2736,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_senegal_ligue_1",
+      "name": "Senegal Ligue 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_senegal_ligue_2",
+      "name": "Senegal Ligue 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_serbia_prva_liga",
       "name": "Serbia Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serbia_super_liga_women",
+      "name": "Serbia Super Liga Women",
       "group": "Soccer"
     },
     {
@@ -2696,6 +2806,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_slovenia_division_2",
+      "name": "Slovenia Division 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_slovenia_league_women",
       "name": "Slovenia League Women",
       "group": "Soccer"
@@ -2711,8 +2826,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_solomon_islands_s_league",
-      "name": "Solomon Islands S League",
+      "key": "soccer_slovenia_u19_league",
+      "name": "Slovenia U19 League",
       "group": "Soccer"
     },
     {
@@ -2731,18 +2846,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_south_korea_k_league_1",
-      "name": "South Korea K League 1",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_south_korea_k_league_2",
       "name": "South Korea K League 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_south_korea_k_league_4",
-      "name": "South Korea K League 4",
       "group": "Soccer"
     },
     {
@@ -2806,6 +2911,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_spain_tercera_federacion_women",
+      "name": "Spain Tercera Federacion Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_spain_u19_league",
       "name": "Spain U19 League",
       "group": "Soccer"
@@ -2861,6 +2971,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_switzerland_erste_liga",
+      "name": "Switzerland Erste Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_nationalliga_b_women",
+      "name": "Switzerland Nationalliga B Women",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_switzerland_promotion_league",
       "name": "Switzerland Promotion League",
       "group": "Soccer"
@@ -2873,6 +2993,11 @@
     {
       "key": "soccer_switzerland_super_league_corners",
       "name": "Switzerland Super League Corners",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_super_league_women",
+      "name": "Switzerland Super League Women",
       "group": "Soccer"
     },
     {
@@ -2921,6 +3046,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_tunisia_league_2",
+      "name": "Tunisia League 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_turkey_1st_league",
       "name": "Turkey 1st League",
       "group": "Soccer"
@@ -2953,6 +3083,11 @@
     {
       "key": "soccer_turkey_tff_second_league",
       "name": "Turkey Tff Second League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_u19_league",
+      "name": "Turkey U19 League",
       "group": "Soccer"
     },
     {
@@ -3031,6 +3166,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_uruguay_campeonato_femenino",
+      "name": "Uruguay Campeonato Femenino",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uruguay_cup",
       "name": "Uruguay Cup",
       "group": "Soccer"
@@ -3041,13 +3181,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_usa_major_league_soccer_bookings",
-      "name": "USA Major League Soccer Bookings",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_usa_major_league_soccer_corners",
-      "name": "USA Major League Soccer Corners",
+      "key": "soccer_usa_mls_next_pro",
+      "name": "USA MLS Next Pro",
       "group": "Soccer"
     },
     {
@@ -3066,18 +3201,18 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_usa_usl_championship",
-      "name": "USA USL Championship",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_usa_usl_championship_corners",
-      "name": "USA USL Championship Corners",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_usa_usl_league_one",
       "name": "USA USL League One",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_usl_super_league",
+      "name": "USA USL Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_usl_super_league_women",
+      "name": "USA USL Super League Women",
       "group": "Soccer"
     },
     {
@@ -3088,6 +3223,11 @@
     {
       "key": "soccer_venezuela_primera_division",
       "name": "Venezuela Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_vietnam_second_division",
+      "name": "Vietnam Second Division",
       "group": "Soccer"
     },
     {
@@ -3111,11 +3251,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_brisbane_qualifiers",
-      "name": "ATP Challenger Brisbane Qualifiers",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_atp_challenger_charlottesville",
       "name": "ATP Challenger Charlottesville",
       "group": "Tennis"
@@ -3123,6 +3258,11 @@
     {
       "key": "tennis_atp_challenger_costa_do_sauipe",
       "name": "ATP Challenger Costa Do Sauipe",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_hersonissos_2026",
+      "name": "ATP Challenger Hersonissos 2026",
       "group": "Tennis"
     },
     {
@@ -3136,18 +3276,13 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_matsuyama_2026",
-      "name": "ATP Challenger Matsuyama 2026",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_atp_challenger_matsuyama_qualifiers",
-      "name": "ATP Challenger Matsuyama Qualifiers",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_atp_challenger_monastir_qualifiers",
       "name": "ATP Challenger Monastir Qualifiers",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_orleans_2026",
+      "name": "ATP Challenger Orleans 2026",
       "group": "Tennis"
     },
     {
@@ -3156,13 +3291,18 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_taipei",
-      "name": "ATP Challenger Taipei",
+      "key": "tennis_atp_challenger_taipei_2026",
+      "name": "ATP Challenger Taipei 2026",
       "group": "Tennis"
     },
     {
       "key": "tennis_atp_challenger_taranto",
       "name": "ATP Challenger Taranto",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_taranto_2026",
+      "name": "ATP Challenger Taranto 2026",
       "group": "Tennis"
     },
     {
@@ -3176,8 +3316,8 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_fergana_uzb",
-      "name": "ITF M15 Fergana UZB",
+      "key": "tennis_itf_m15_antalya_tur",
+      "name": "ITF M15 Antalya TUR",
       "group": "Tennis"
     },
     {
@@ -3186,13 +3326,28 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_maanshan_chn",
-      "name": "ITF M15 Maanshan CHN",
+      "key": "tennis_itf_m15_monastir_tun",
+      "name": "ITF M15 Monastir TUN",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_fergana",
-      "name": "ITF Men Fergana",
+      "key": "tennis_itf_m15_san_gregorio_di_catania_ita",
+      "name": "ITF M15 San Gregorio Di Catania ITA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_sharm_elsheikh_egy",
+      "name": "ITF M15 Sharm Elsheikh EGY",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_heraklion_gre",
+      "name": "ITF M25 Heraklion GRE",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_valencia_esp",
+      "name": "ITF M25 Valencia ESP",
       "group": "Tennis"
     },
     {
@@ -3211,8 +3366,8 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_maanshan",
-      "name": "ITF Men Maanshan",
+      "key": "tennis_itf_men_kuala_lumpur",
+      "name": "ITF Men Kuala Lumpur",
       "group": "Tennis"
     },
     {
@@ -3231,38 +3386,43 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_men_trois_rivieres",
-      "name": "ITF Men Trois Rivieres",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_men_valencia",
       "name": "ITF Men Valencia",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w100_incheon_kor",
-      "name": "ITF W100 Incheon KOR",
+      "key": "tennis_itf_w15_antalya_tur",
+      "name": "ITF W15 Antalya TUR",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_maanshan_chn",
-      "name": "ITF W15 Maanshan CHN",
+      "key": "tennis_itf_w15_neuqu_n_arg",
+      "name": "ITF W15 Neuqu N ARG",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w35_orlando_usa",
-      "name": "ITF W35 Orlando USA",
+      "key": "tennis_itf_w15_sharm_elsheikh_egy",
+      "name": "ITF W15 Sharm Elsheikh EGY",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_szabolcsveresmart_hun",
+      "name": "ITF W15 Szabolcsveresmart HUN",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w35_liberec_cze",
+      "name": "ITF W35 Liberec CZE",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w50_heraklion_gre",
+      "name": "ITF W50 Heraklion GRE",
       "group": "Tennis"
     },
     {
       "key": "tennis_itf_w75_brisbane_aus_q",
       "name": "ITF W75 Brisbane Aus Q",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_women_hamamatsu",
-      "name": "ITF Women Hamamatsu",
       "group": "Tennis"
     },
     {
@@ -3281,18 +3441,8 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_women_incheon",
-      "name": "ITF Women Incheon",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_women_liberec",
       "name": "ITF Women Liberec",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_women_maanshan",
-      "name": "ITF Women Maanshan",
       "group": "Tennis"
     },
     {
@@ -3336,13 +3486,33 @@
       "group": "Tennis"
     },
     {
+      "key": "volleyball_austria_cup_women",
+      "name": "Austria Cup Women",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_belgium_euromillions_league",
+      "name": "Belgium Euromillions League",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_belgium_liga_a_women",
+      "name": "Belgium Liga A Women",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_brazil_superliga_women",
       "name": "Brazil Superliga Women",
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_denmark_volleyligaen_women",
-      "name": "Denmark Volleyligaen Women",
+      "key": "volleyball_croatia_super_liga",
+      "name": "Croatia Super Liga",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_croatia_super_liga_women",
+      "name": "Croatia Super Liga Women",
       "group": "Volleyball"
     },
     {
@@ -3356,8 +3526,18 @@
       "group": "Volleyball"
     },
     {
+      "key": "volleyball_germany_bundesliga_2",
+      "name": "Germany Bundesliga 2",
+      "group": "Volleyball"
+    },
+    {
       "key": "volleyball_germany_cup_women",
       "name": "Germany Cup Women",
+      "group": "Volleyball"
+    },
+    {
+      "key": "volleyball_germany_dvv_cup",
+      "name": "Germany Dvv Cup",
       "group": "Volleyball"
     },
     {
@@ -3391,23 +3571,13 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_japan_sv_league",
-      "name": "Japan Sv League",
-      "group": "Volleyball"
-    },
-    {
-      "key": "volleyball_japan_sv_league_women",
-      "name": "Japan Sv League Women",
-      "group": "Volleyball"
-    },
-    {
       "key": "volleyball_netherlands_eredivisie",
       "name": "Netherlands Eredivisie",
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_netherlands_eredivisie_women",
-      "name": "Netherlands Eredivisie Women",
+      "key": "volleyball_norway_eliteserien_women",
+      "name": "Norway Eliteserien Women",
       "group": "Volleyball"
     },
     {
@@ -3436,8 +3606,8 @@
       "group": "Volleyball"
     },
     {
-      "key": "volleyball_south_korea_v_league_women",
-      "name": "South Korea V League Women",
+      "key": "volleyball_spain_regional_league_women",
+      "name": "Spain Regional League Women",
       "group": "Volleyball"
     },
     {
@@ -19892,6 +20062,80 @@
       "canonical_event_id": "e1f495cc1ccc3bd0",
       "commence_time_reported": true,
       "sport_name": "Costa Rica Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "381b0812ebc121377fec3c879d8d811c",
+      "sport_key": "soccer_switzerland_super_league_women",
+      "sport_title": "soccer_switzerland_super_league_women",
+      "commence_time": "2026-11-08T13:30:00Z",
+      "home_team": "Aarau",
+      "away_team": "Yverdon",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-11-08T12:47:03Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-08T12:47:03Z",
+              "outcomes": [
+                {
+                  "name": "Aarau",
+                  "price": 2.84
+                },
+                {
+                  "name": "Yverdon",
+                  "price": 1.99
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.98
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-08T12:55:27Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.03,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.709,
+                  "point": 3.25
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-08T12:47:03Z",
+              "outcomes": [
+                {
+                  "name": "Aarau",
+                  "price": 1.952,
+                  "point": 0.25
+                },
+                {
+                  "name": "Yverdon",
+                  "price": 1.794,
+                  "point": -0.25
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794142023000,
+          "stale_seconds": 1806.64
+        }
+      ],
+      "canonical_event_id": "f22e0d6ea16e23ce",
+      "commence_time_reported": true,
+      "sport_name": "Switzerland Super League Women",
       "sport_group": "Soccer"
     }
   ],
