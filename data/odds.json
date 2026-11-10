@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T22:16:37.177Z",
+  "generated_at": "2026-11-10T07:10:55.517Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "soccer_scotland_premiership",
-      "soccer_serbia_super_liga"
+      "soccer_spain_segunda_division",
+      "soccer_sweden_allsvenskan"
     ],
     "region": "eu",
     "markets": [
@@ -16966,6 +16966,550 @@
       "canonical_event_id": "f22e0d6ea16e23ce",
       "commence_time_reported": true,
       "sport_name": "Switzerland Super League Women",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "6828465b0e10e185a4a1e5f667349291",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "home_team": "AIK",
+      "away_team": "Degerfors IF",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "AIK",
+                  "price": 1.971
+                },
+                {
+                  "name": "Degerfors IF",
+                  "price": 3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "AIK",
+                  "price": 2.07
+                },
+                {
+                  "name": "Degerfors IF",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "72f5a7f5e8a95ec9",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "2c139e4fa59e0a05fc7ac3e7994b1693",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-21T16:30:00Z",
+      "home_team": "GAIS",
+      "away_team": "Västerås SK FK",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "GAIS",
+                  "price": 1.806
+                },
+                {
+                  "name": "Västerås SK FK",
+                  "price": 3.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "GAIS",
+                  "price": 1.885
+                },
+                {
+                  "name": "Västerås SK FK",
+                  "price": 3.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "1bd2ce9a8602d101",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7ddb49483a1c43f0c908b229ef9dfc04",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "home_team": "Mjällby AIF",
+      "away_team": "Malmö FF",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "Mjällby AIF",
+                  "price": 3
+                },
+                {
+                  "name": "Malmö FF",
+                  "price": 2.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "Mjällby AIF",
+                  "price": 3.15
+                },
+                {
+                  "name": "Malmö FF",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "0451b3741ad1f037",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "528b9b031360afe1c3822580a6cd8a5a",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-22T13:00:00Z",
+      "home_team": "BK Häcken",
+      "away_team": "IF Elfsborg",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "BK Häcken",
+                  "price": 1.758
+                },
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "BK Häcken",
+                  "price": 1.826
+                },
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "3a00ef4e93c3bbd8",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "9ea616d417a216c6bd9a2df44982b742",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-22T15:30:00Z",
+      "home_team": "IF Brommapojkarna",
+      "away_team": "Halmstads BK",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "IF Brommapojkarna",
+                  "price": 2
+                },
+                {
+                  "name": "Halmstads BK",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "IF Brommapojkarna",
+                  "price": 2.08
+                },
+                {
+                  "name": "Halmstads BK",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "525856d74174dd2a",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "74950373caeda636fb8d4b58494b6a1a",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-22T13:00:00Z",
+      "home_team": "IK Sirius FK",
+      "away_team": "Djurgårdens IF",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "IK Sirius FK",
+                  "price": 2.2
+                },
+                {
+                  "name": "Djurgårdens IF",
+                  "price": 2.63
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:43Z",
+              "outcomes": [
+                {
+                  "name": "IK Sirius FK",
+                  "price": 2.32
+                },
+                {
+                  "name": "Djurgårdens IF",
+                  "price": 2.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294643085,
+          "stale_seconds": 12.36
+        }
+      ],
+      "canonical_event_id": "5ff7555372fc2b17",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "559f84014ba1a2ca43090e90ebcd774b",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "home_team": "Hammarby IF",
+      "away_team": "IFK Göteborg",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "Hammarby IF",
+                  "price": 1.2
+                },
+                {
+                  "name": "IFK Göteborg",
+                  "price": 9.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "Hammarby IF",
+                  "price": 1.25
+                },
+                {
+                  "name": "IFK Göteborg",
+                  "price": 10.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        }
+      ],
+      "canonical_event_id": "85b893470d9647d1",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "075507ea0775b5da27107fdfb05985ae",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "sport_title": "Allsvenskan",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "home_team": "Örgryte IS",
+      "away_team": "Kalmar FF",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "Örgryte IS",
+                  "price": 3.05
+                },
+                {
+                  "name": "Kalmar FF",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-10T07:10:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-10T07:10:42Z",
+              "outcomes": [
+                {
+                  "name": "Örgryte IS",
+                  "price": 3.25
+                },
+                {
+                  "name": "Kalmar FF",
+                  "price": 2.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794294642235,
+          "stale_seconds": 13.21
+        }
+      ],
+      "canonical_event_id": "2f28c0ea2a9d8a89",
+      "commence_time_reported": true,
+      "sport_name": "Allsvenskan",
       "sport_group": "Soccer"
     }
   ],
