@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T06:06:15.958Z",
+  "generated_at": "2026-11-11T14:12:05.451Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "table_tennis_tt_elite_series",
-      "table_tennis_tt_cup"
+      "table_tennis_tt_cup_women",
+      "table_tennis_setka_cup"
     ],
     "region": "eu",
     "markets": [
