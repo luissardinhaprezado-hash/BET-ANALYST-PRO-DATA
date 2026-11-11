@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T19:40:50.123Z",
+  "generated_at": "2026-11-11T06:06:15.958Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "soccer_ukraine_premier_league",
-      "soccer_other"
+      "table_tennis_tt_elite_series",
+      "table_tennis_tt_cup"
     ],
     "region": "eu",
     "markets": [
