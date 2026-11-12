@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T14:12:05.451Z",
+  "generated_at": "2026-11-12T00:37:03.900Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "table_tennis_tt_cup_women",
-      "table_tennis_setka_cup"
+      "baseball_mlb",
+      "americanfootball_nfl"
     ],
     "region": "eu",
     "markets": [
@@ -56666,6 +56666,2410 @@
       "commence_time_reported": true,
       "sport_name": "Other Soccer",
       "sport_group": "Soccer"
+    },
+    {
+      "id": "063a47e24ee699be73f725fd15c303c3",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-13T01:15:00Z",
+      "home_team": "New York Giants",
+      "away_team": "Washington Commanders",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 1.714
+                },
+                {
+                  "name": "Washington Commanders",
+                  "price": 2.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2,
+                  "point": 41.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.833,
+                  "point": 41.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 1.909,
+                  "point": -2.5
+                },
+                {
+                  "name": "Washington Commanders",
+                  "price": 1.909,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 1.599
+                },
+                {
+                  "name": "Washington Commanders",
+                  "price": 1.87
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:36:04Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 1.746
+                },
+                {
+                  "name": "Washington Commanders",
+                  "price": 2.17
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "05944c5a63f7a642",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "489f1621ec78856750d43b0d59981c5c",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T21:05:00Z",
+      "home_team": "Arizona Cardinals",
+      "away_team": "Los Angeles Rams",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 4.65
+                },
+                {
+                  "name": "Los Angeles Rams",
+                  "price": 1.208
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.935,
+                  "point": 39.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.885,
+                  "point": 39.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 1.917,
+                  "point": 9.5
+                },
+                {
+                  "name": "Los Angeles Rams",
+                  "price": 1.901,
+                  "point": -9.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 3.8
+                },
+                {
+                  "name": "Los Angeles Rams",
+                  "price": 1.11
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 4.25
+                },
+                {
+                  "name": "Los Angeles Rams",
+                  "price": 1.22
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "5b5848e56c61a2ca",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "b680763b71d9f2fc7418882a21098d84",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "Atlanta Falcons",
+      "away_team": "Kansas City Chiefs",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Atlanta Falcons",
+                  "price": 2.53
+                },
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.546
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 46.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 46.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Atlanta Falcons",
+                  "price": 1.877,
+                  "point": 3.5
+                },
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.943,
+                  "point": -3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Atlanta Falcons",
+                  "price": 2.28
+                },
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.377
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Atlanta Falcons",
+                  "price": 2.58
+                },
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.556
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "fbeb39678b027814",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "0c47ed15562dd4ac024cfc48457d415c",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "Cleveland Browns",
+      "away_team": "Houston Texans",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Cleveland Browns",
+                  "price": 2.95
+                },
+                {
+                  "name": "Houston Texans",
+                  "price": 1.417
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 41.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 41.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Cleveland Browns",
+                  "price": 1.952,
+                  "point": 4.5
+                },
+                {
+                  "name": "Houston Texans",
+                  "price": 1.87,
+                  "point": -4.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Cleveland Browns",
+                  "price": 2.6
+                },
+                {
+                  "name": "Houston Texans",
+                  "price": 1.29
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Cleveland Browns",
+                  "price": 2.95
+                },
+                {
+                  "name": "Houston Texans",
+                  "price": 1.444
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "c4df8574fed97bd4",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "947cb68ceb30617dcdf475ae7e5ee53a",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T21:25:00Z",
+      "home_team": "Dallas Cowboys",
+      "away_team": "San Francisco 49ers",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 2.75
+                },
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.476
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.855,
+                  "point": 55.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.971,
+                  "point": 55.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 1.847,
+                  "point": 4.5
+                },
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.98,
+                  "point": -4.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 2.43
+                },
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.328
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 2.75
+                },
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.488
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "f95eca6dff9d9dff",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "79c67cbcf92dad7473f6d89aa11d173e",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T14:30:00Z",
+      "home_team": "Detroit Lions",
+      "away_team": "New England Patriots",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.645
+                },
+                {
+                  "name": "New England Patriots",
+                  "price": 2.3
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2,
+                  "point": 51.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.833,
+                  "point": 51.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.833,
+                  "point": -2.5
+                },
+                {
+                  "name": "New England Patriots",
+                  "price": 2,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.455
+                },
+                {
+                  "name": "New England Patriots",
+                  "price": 2.08
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:36:04Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.617
+                },
+                {
+                  "name": "New England Patriots",
+                  "price": 2.3
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "f305b0c583c05cb2",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "d4ee8c27620cacebee8924ed3f5a32c7",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "Green Bay Packers",
+      "away_team": "Minnesota Vikings",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Green Bay Packers",
+                  "price": 1.592
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 2.44
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.87,
+                  "point": 41.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.952,
+                  "point": 41.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Green Bay Packers",
+                  "price": 2.04,
+                  "point": -3.5
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 1.806,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Green Bay Packers",
+                  "price": 1.476
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 2.05
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:36:04Z",
+              "outcomes": [
+                {
+                  "name": "Green Bay Packers",
+                  "price": 1.667
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 2.32
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "c024a54929396598",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "fd85671ee955896f7a29c2d0b07c3996",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "Indianapolis Colts",
+      "away_team": "Miami Dolphins",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 1.476
+                },
+                {
+                  "name": "Miami Dolphins",
+                  "price": 2.75
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 37.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 37.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 1.855,
+                  "point": -3.5
+                },
+                {
+                  "name": "Miami Dolphins",
+                  "price": 1.971,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 1.35
+                },
+                {
+                  "name": "Miami Dolphins",
+                  "price": 2.38
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 1.488
+                },
+                {
+                  "name": "Miami Dolphins",
+                  "price": 2.63
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "e76e0cf9d136b123",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "ebe9ad48a3f59aa68154121bb8f87066",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T21:05:00Z",
+      "home_team": "Las Vegas Raiders",
+      "away_team": "Seattle Seahawks",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 3.4
+                },
+                {
+                  "name": "Seattle Seahawks",
+                  "price": 1.333
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 40.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 40.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 1.909,
+                  "point": 6.5
+                },
+                {
+                  "name": "Seattle Seahawks",
+                  "price": 1.909,
+                  "point": -6.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 2.9
+                },
+                {
+                  "name": "Seattle Seahawks",
+                  "price": 1.22
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 3.45
+                },
+                {
+                  "name": "Seattle Seahawks",
+                  "price": 1.35
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "601be931928a1c6a",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "59c53f5b1895228fcb7dbd2bf7623b0d",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "New Orleans Saints",
+      "away_team": "Carolina Panthers",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "New Orleans Saints",
+                  "price": 1.714
+                },
+                {
+                  "name": "Carolina Panthers",
+                  "price": 2.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 48.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.917,
+                  "point": 48.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "New Orleans Saints",
+                  "price": 1.909,
+                  "point": -2.5
+                },
+                {
+                  "name": "Carolina Panthers",
+                  "price": 1.909,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "New Orleans Saints",
+                  "price": 1.571
+                },
+                {
+                  "name": "Carolina Panthers",
+                  "price": 1.877
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:36:04Z",
+              "outcomes": [
+                {
+                  "name": "New Orleans Saints",
+                  "price": 1.758
+                },
+                {
+                  "name": "Carolina Panthers",
+                  "price": 2.08
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "c20cf4e13adaed7e",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "2400bba9077c583f2ef1247ab08179ae",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "New York Jets",
+      "away_team": "Buffalo Bills",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "New York Jets",
+                  "price": 4.5
+                },
+                {
+                  "name": "Buffalo Bills",
+                  "price": 1.222
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.847,
+                  "point": 50.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.98,
+                  "point": 50.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "New York Jets",
+                  "price": 1.935,
+                  "point": 7.5
+                },
+                {
+                  "name": "Buffalo Bills",
+                  "price": 1.885,
+                  "point": -7.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "New York Jets",
+                  "price": 3.9
+                },
+                {
+                  "name": "Buffalo Bills",
+                  "price": 1.1
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "New York Jets",
+                  "price": 4.6
+                },
+                {
+                  "name": "Buffalo Bills",
+                  "price": 1.23
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "69cd5abf73db66da",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "6865fbff63887ea358d6cb404a31394c",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-15T18:00:00Z",
+      "home_team": "Tennessee Titans",
+      "away_team": "Jacksonville Jaguars",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Tennessee Titans",
+                  "price": 5.25
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.174
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 46.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 46.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Tennessee Titans",
+                  "price": 1.893,
+                  "point": 10.5
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.926,
+                  "point": -10.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Tennessee Titans",
+                  "price": 4.6
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.06
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Tennessee Titans",
+                  "price": 5.3
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.16
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "40cf9c590f8c7437",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "a825aa5dee9dd59e23c6cefdb1b8e4a3",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-16T01:20:00Z",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Pittsburgh Steelers",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.535
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 2.57
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 49.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 49.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.935,
+                  "point": -3.5
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 1.885,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.364
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 2.3
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.549
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 2.6
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "d3b1a5540b6de84f",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "1496c551934e89987c403002b5659a85",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-17T01:15:00Z",
+      "home_team": "Baltimore Ravens",
+      "away_team": "Los Angeles Chargers",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T00:36:26Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:02Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 1.455
+                },
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 2.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T00:36:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 38.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.917,
+                  "point": 38.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T00:35:44Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 1.952,
+                  "point": -4.5
+                },
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 1.87,
+                  "point": 4.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443786904,
+          "stale_seconds": 36.93
+        },
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 1.328
+                },
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 2.43
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 1.5
+                },
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 2.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "aae49ea1f13ab42a",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "720753abb9fd4706a1498bf0e2fa8426",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-20T01:15:00Z",
+      "home_team": "Houston Texans",
+      "away_team": "Indianapolis Colts",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Houston Texans",
+                  "price": 1.09
+                },
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 4
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Houston Texans",
+                  "price": 1.2
+                },
+                {
+                  "name": "Indianapolis Colts",
+                  "price": 4.75
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "04c368e35487822e",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "81f6b459be570461aa960a7d4f0c5055",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Buffalo Bills",
+      "away_team": "Miami Dolphins",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Buffalo Bills",
+                  "price": 1.05
+                },
+                {
+                  "name": "Miami Dolphins",
+                  "price": 10.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "b58eb08f9b3b0a53",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "e21e35e72a427cb642ea475b7c290739",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Carolina Panthers",
+      "away_team": "Baltimore Ravens",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Carolina Panthers",
+                  "price": 1.637
+                },
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 1.806
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Carolina Panthers",
+                  "price": 1.82
+                },
+                {
+                  "name": "Baltimore Ravens",
+                  "price": 2.02
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "9cde649e7b2b4b2b",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "979fae80fe2cd95099eaee2e62140486",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Chicago Bears",
+      "away_team": "New Orleans Saints",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Chicago Bears",
+                  "price": 1.1
+                },
+                {
+                  "name": "New Orleans Saints",
+                  "price": 3.95
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Chicago Bears",
+                  "price": 1.2
+                },
+                {
+                  "name": "New Orleans Saints",
+                  "price": 4.7
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "cb1cb7dbfbe554fc",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "5d5048bdb35454ff82b35aa3a825f746",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Dallas Cowboys",
+      "away_team": "Tennessee Titans",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 1.11
+                },
+                {
+                  "name": "Tennessee Titans",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Dallas Cowboys",
+                  "price": 1.208
+                },
+                {
+                  "name": "Tennessee Titans",
+                  "price": 4.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "a95fe308a161cdf9",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "32f22390a6d71615c6bf824e2333fa33",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T21:25:00Z",
+      "home_team": "Denver Broncos",
+      "away_team": "Las Vegas Raiders",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Denver Broncos",
+                  "price": 1.149
+                },
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Denver Broncos",
+                  "price": 1.26
+                },
+                {
+                  "name": "Las Vegas Raiders",
+                  "price": 3.95
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "8bd1d8bf43e37ce4",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "02d615f8d9ba386d63bc4fad254618a7",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Detroit Lions",
+      "away_team": "Tampa Bay Buccaneers",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.4
+                },
+                {
+                  "name": "Tampa Bay Buccaneers",
+                  "price": 2.23
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Lions",
+                  "price": 1.513
+                },
+                {
+                  "name": "Tampa Bay Buccaneers",
+                  "price": 2.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "554546569f0d57f1",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "2b965c3dc5e168590b46c023c5a80dcc",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Arizona Cardinals",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.01
+                },
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 5.8
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Kansas City Chiefs",
+                  "price": 1.09
+                },
+                {
+                  "name": "Arizona Cardinals",
+                  "price": 7.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "1845109b331cebc4",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "182c897739fe5cda89ac507ee049a77a",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T21:05:00Z",
+      "home_team": "Los Angeles Chargers",
+      "away_team": "New York Jets",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 1.637
+                },
+                {
+                  "name": "New York Jets",
+                  "price": 1.8
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Los Angeles Chargers",
+                  "price": 1.82
+                },
+                {
+                  "name": "New York Jets",
+                  "price": 2
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "03c1aeeb45f53ac1",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "d6d5acb4832815a8b77152870bdeb176",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T21:25:00Z",
+      "home_team": "New York Giants",
+      "away_team": "Jacksonville Jaguars",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 2.65
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.267
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "New York Giants",
+                  "price": 3
+                },
+                {
+                  "name": "Jacksonville Jaguars",
+                  "price": 1.408
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "2d2cdc87ea7327b5",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "866ad8d02965bc42abe5c2a62d2e567b",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-22T18:00:00Z",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Pittsburgh Steelers",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Philadelphia Eagles",
+                  "price": 2.4
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 1.339
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Philadelphia Eagles",
+                  "price": 2.7
+                },
+                {
+                  "name": "Pittsburgh Steelers",
+                  "price": 1.476
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "ca237d7dfa6298e1",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "921121ed633f26eb111fa0ac29e6074c",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-23T01:20:00Z",
+      "home_team": "San Francisco 49ers",
+      "away_team": "Minnesota Vikings",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.339
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 2.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "San Francisco 49ers",
+                  "price": 1.476
+                },
+                {
+                  "name": "Minnesota Vikings",
+                  "price": 2.7
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "d4246e2705b83980",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
+    },
+    {
+      "id": "3b4d3f9e0dca0331b565c2e94ae9036d",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2026-11-24T01:15:00Z",
+      "home_team": "Washington Commanders",
+      "away_team": "Cincinnati Bengals",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:34Z",
+              "outcomes": [
+                {
+                  "name": "Washington Commanders",
+                  "price": 2.4
+                },
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.339
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-12T00:36:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T00:35:35Z",
+              "outcomes": [
+                {
+                  "name": "Washington Commanders",
+                  "price": 2.7
+                },
+                {
+                  "name": "Cincinnati Bengals",
+                  "price": 1.476
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1794443765956,
+          "stale_seconds": 57.88
+        }
+      ],
+      "canonical_event_id": "afcf5a27daa27d28",
+      "commence_time_reported": true,
+      "sport_name": "NFL",
+      "sport_group": "American Football"
     }
   ],
   "errors": []
