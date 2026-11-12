@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T00:37:03.900Z",
+  "generated_at": "2026-11-12T15:05:53.148Z",
   "source": "ParlayAPI",
   "coverage": {
     "active_sports": 92,
     "updated_this_run": [
-      "baseball_mlb",
-      "americanfootball_nfl"
+      "basketball_wnba",
+      "basketball_ncaab"
     ],
     "region": "eu",
     "markets": [
@@ -59070,6 +59070,1593 @@
       "commence_time_reported": true,
       "sport_name": "NFL",
       "sport_group": "American Football"
+    },
+    {
+      "id": "0eaecc70e6192fd8de9b5c5c1ce2dbd9",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-12T23:00:00Z",
+      "home_team": "Bradley",
+      "away_team": "Coppin State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:05:07Z",
+              "outcomes": [
+                {
+                  "name": "Bradley",
+                  "price": 1.143
+                },
+                {
+                  "name": "Coppin State",
+                  "price": 6
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 135.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 135.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Bradley",
+                  "price": 1.952,
+                  "point": -12.5
+                },
+                {
+                  "name": "Coppin State",
+                  "price": 1.87,
+                  "point": 12.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "dd268f06c65ee469",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "8c380997c4cd6e4a347d97b55e119015",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-12T20:00:00Z",
+      "home_team": "George Mason",
+      "away_team": "Kansas City",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "George Mason",
+                  "price": 1.05
+                },
+                {
+                  "name": "Kansas City",
+                  "price": 11
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.885,
+                  "point": 140.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.935,
+                  "point": 140.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "George Mason",
+                  "price": 1.87,
+                  "point": -15.5
+                },
+                {
+                  "name": "Kansas City",
+                  "price": 1.952,
+                  "point": 15.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "37cda52f9b0ca4fc",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "b02f792bf40670a2b642777a72d2d992",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-12T23:30:00Z",
+      "home_team": "Penn State",
+      "away_team": "Mercyhurst",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Penn State",
+                  "price": 1.012
+                },
+                {
+                  "name": "Mercyhurst",
+                  "price": 19
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 149.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 149.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Penn State",
+                  "price": 1.87,
+                  "point": -20.5
+                },
+                {
+                  "name": "Mercyhurst",
+                  "price": 1.952,
+                  "point": 20.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "04360afc7b260a2e",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "ab819541c05ca0a2138bdc2e11a5c960",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-12T23:00:00Z",
+      "home_team": "UMBC",
+      "away_team": "Morgan State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:05:07Z",
+              "outcomes": [
+                {
+                  "name": "UMBC",
+                  "price": 1.357
+                },
+                {
+                  "name": "Morgan State",
+                  "price": 3.3
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 165.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 165.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "UMBC",
+                  "price": 1.909,
+                  "point": -6.5
+                },
+                {
+                  "name": "Morgan State",
+                  "price": 1.909,
+                  "point": 6.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "74be57c582c76523",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "052f037e8196b8d8ca05c766f398e183",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T01:00:00Z",
+      "home_team": "Alabama A&M",
+      "away_team": "West Florida",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Alabama A&M",
+                  "price": 1.323
+                },
+                {
+                  "name": "West Florida",
+                  "price": 3.5
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.901,
+                  "point": 148.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.917,
+                  "point": 148.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Alabama A&M",
+                  "price": 1.952,
+                  "point": -7.5
+                },
+                {
+                  "name": "West Florida",
+                  "price": 1.87,
+                  "point": 7.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "31f4bc4e937ff562",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "f6222bbd576d608cde49e43a536b119e",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T02:00:00Z",
+      "home_team": "BYU",
+      "away_team": "Montana State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "BYU",
+                  "price": 1.01
+                },
+                {
+                  "name": "Montana State",
+                  "price": 26
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 164.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 164.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "BYU",
+                  "price": 1.935,
+                  "point": -23.5
+                },
+                {
+                  "name": "Montana State",
+                  "price": 1.885,
+                  "point": 23.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "6fb8fbee842e5200",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "3ba72d0a6e54fa7e922f8eaf1bbe794c",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Bowling Green",
+      "away_team": "Niagara",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Bowling Green",
+                  "price": 1.059
+                },
+                {
+                  "name": "Niagara",
+                  "price": 10.5
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 145.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 145.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Bowling Green",
+                  "price": 1.909,
+                  "point": -14.5
+                },
+                {
+                  "name": "Niagara",
+                  "price": 1.909,
+                  "point": 14.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "7a36f2230c35bed2",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "d741566e1c97fbacf9e9d5f4d8006b77",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Brown",
+      "away_team": "Canisius",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Brown",
+                  "price": 1.083
+                },
+                {
+                  "name": "Canisius",
+                  "price": 8.5
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.962,
+                  "point": 138.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.862,
+                  "point": 138.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Brown",
+                  "price": 1.877,
+                  "point": -12.5
+                },
+                {
+                  "name": "Canisius",
+                  "price": 1.943,
+                  "point": 12.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "139e7baed8b41249",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "cb9dca8be56a55850873ec6f46b1f6c7",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "High Point",
+      "away_team": "Southern Utah",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "High Point",
+                  "price": 1.005
+                },
+                {
+                  "name": "Southern Utah",
+                  "price": 29
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 156.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 156.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "High Point",
+                  "price": 1.909,
+                  "point": -23.5
+                },
+                {
+                  "name": "Southern Utah",
+                  "price": 1.909,
+                  "point": 23.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "d3c2561ea01f684f",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "7d8ef640f0059edf2efc3a5ea2363de9",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Howard",
+      "away_team": "Stetson",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Howard",
+                  "price": 1.167
+                },
+                {
+                  "name": "Stetson",
+                  "price": 5.5
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 150.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 150.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Howard",
+                  "price": 1.909,
+                  "point": -10.5
+                },
+                {
+                  "name": "Stetson",
+                  "price": 1.909,
+                  "point": 10.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "833c39c2dce8ec34",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "c6e00a900e3ef67cbd604dc5b49710f4",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T01:00:00Z",
+      "home_team": "Minnesota",
+      "away_team": "Southern University",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota",
+                  "price": 1.002
+                },
+                {
+                  "name": "Southern University",
+                  "price": 34
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 142.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 142.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota",
+                  "price": 1.909,
+                  "point": -25.5
+                },
+                {
+                  "name": "Southern University",
+                  "price": 1.909,
+                  "point": 25.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "eb4437a89b7abf20",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "5192fc80bdfc28d84fdf6848b14280e6",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Purdue Fort Wayne",
+      "away_team": "Western Michigan",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Purdue Fort Wayne",
+                  "price": 2.43
+                },
+                {
+                  "name": "Western Michigan",
+                  "price": 1.595
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 153.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 153.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Purdue Fort Wayne",
+                  "price": 1.935,
+                  "point": 3.5
+                },
+                {
+                  "name": "Western Michigan",
+                  "price": 1.885,
+                  "point": -3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "d84cacc12aadceb8",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "26e7b27cfab26cd6debae29c64b24dba",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Rhode Island",
+      "away_team": "Maryland-Eastern Shore",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Rhode Island",
+                  "price": 1.002
+                },
+                {
+                  "name": "Maryland-Eastern Shore",
+                  "price": 34
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 138.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 138.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Rhode Island",
+                  "price": 1.87,
+                  "point": -25.5
+                },
+                {
+                  "name": "Maryland-Eastern Shore",
+                  "price": 1.952,
+                  "point": 25.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "5c42f12d0b23ed77",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "b34d10cf72e1e7df90e93226ec5ed75f",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Sacred Heart",
+      "away_team": "Central Connecticut State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Sacred Heart",
+                  "price": 1.488
+                },
+                {
+                  "name": "Central Connecticut State",
+                  "price": 2.7
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 146.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 146.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Sacred Heart",
+                  "price": 1.87,
+                  "point": -4.5
+                },
+                {
+                  "name": "Central Connecticut State",
+                  "price": 1.952,
+                  "point": 4.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "5f04395572e0e79b",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "5219deb863d22d9f2a70560f939e467c",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T03:00:00Z",
+      "home_team": "San Jose State",
+      "away_team": "UC Riverside",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "San Jose State",
+                  "price": 1.25
+                },
+                {
+                  "name": "UC Riverside",
+                  "price": 4.2
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 152.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 152.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "San Jose State",
+                  "price": 1.885,
+                  "point": -8.5
+                },
+                {
+                  "name": "UC Riverside",
+                  "price": 1.935,
+                  "point": 8.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "f724a57b0808dbb1",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "e328a66b80ebcb63d38da5d6e7761b3b",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T01:00:00Z",
+      "home_team": "South Alabama",
+      "away_team": "Loyola Marymount",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "South Alabama",
+                  "price": 1.952
+                },
+                {
+                  "name": "Loyola Marymount",
+                  "price": 1.87
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.952,
+                  "point": 142.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.87,
+                  "point": 142.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "South Alabama",
+                  "price": 1.833,
+                  "point": 1.5
+                },
+                {
+                  "name": "Loyola Marymount",
+                  "price": 2,
+                  "point": -1.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "171537195b4fcc84",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "ce3daa1c2b9ffef3141a3f5186c89911",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T01:00:00Z",
+      "home_team": "Southern Illinois",
+      "away_team": "Richmond",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Southern Illinois",
+                  "price": 2.42
+                },
+                {
+                  "name": "Richmond",
+                  "price": 1.599
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.943,
+                  "point": 152.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.877,
+                  "point": 152.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Southern Illinois",
+                  "price": 1.917,
+                  "point": 3.5
+                },
+                {
+                  "name": "Richmond",
+                  "price": 1.901,
+                  "point": -3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "39344aff0bae777f",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "94abc719f25cbc414c7b812dca8ae6ef",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T01:00:00Z",
+      "home_team": "Texas A&M",
+      "away_team": "Oklahoma State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Texas A&M",
+                  "price": 1.278
+                },
+                {
+                  "name": "Oklahoma State",
+                  "price": 3.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 178.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 178.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Texas A&M",
+                  "price": 1.909,
+                  "point": -7.5
+                },
+                {
+                  "name": "Oklahoma State",
+                  "price": 1.909,
+                  "point": 7.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "eafef7b6a6ccd430",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "3f57d0da27869bbf1140c935437b9587",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Towson",
+      "away_team": "Loyola Maryland",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Towson",
+                  "price": 1.077
+                },
+                {
+                  "name": "Loyola Maryland",
+                  "price": 9
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 133.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 133.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Towson",
+                  "price": 1.909,
+                  "point": -13.5
+                },
+                {
+                  "name": "Loyola Maryland",
+                  "price": 1.909,
+                  "point": 13.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "d8ce2e312c37292c",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "47c8cd80b336023790471f225d8fa157",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T02:00:00Z",
+      "home_team": "UTEP",
+      "away_team": "New Mexico State",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "UTEP",
+                  "price": 1.455
+                },
+                {
+                  "name": "New Mexico State",
+                  "price": 2.8
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.909,
+                  "point": 142.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.909,
+                  "point": 142.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "UTEP",
+                  "price": 1.962,
+                  "point": -5.5
+                },
+                {
+                  "name": "New Mexico State",
+                  "price": 1.862,
+                  "point": 5.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "266cfbfb187be633",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "ab3c02b60deeaa0f159b660b25246562",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "Western Illinois",
+      "away_team": "Cal State Bakersfield",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Western Illinois",
+                  "price": 4.55
+                },
+                {
+                  "name": "Cal State Bakersfield",
+                  "price": 1.217
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 147.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 147.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Western Illinois",
+                  "price": 1.901,
+                  "point": 9.5
+                },
+                {
+                  "name": "Cal State Bakersfield",
+                  "price": 1.917,
+                  "point": -9.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "23fd86f47367571d",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "a1d87bb04c55a92e1d162e4e8b0bc6d1",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-12T23:30:00Z",
+      "home_team": "Indiana",
+      "away_team": "Tennessee Tech",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "Indiana",
+                  "price": 1.001
+                },
+                {
+                  "name": "Tennessee Tech",
+                  "price": 26
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.893,
+                  "point": 169.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.926,
+                  "point": 169.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "Indiana",
+                  "price": 1.847,
+                  "point": -24.5
+                },
+                {
+                  "name": "Tennessee Tech",
+                  "price": 1.98,
+                  "point": 24.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "7bb241b65549efe0",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
+    },
+    {
+      "id": "72b59da5ac0d7e16d67c8cb59686fd2a",
+      "sport_key": "basketball_ncaab",
+      "sport_title": "NCAAB",
+      "commence_time": "2026-11-13T00:00:00Z",
+      "home_team": "West Virginia",
+      "away_team": "Mercer",
+      "bookmakers": [
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-12T15:05:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-12T15:04:00Z",
+              "outcomes": [
+                {
+                  "name": "West Virginia",
+                  "price": 1.001
+                },
+                {
+                  "name": "Mercer",
+                  "price": 26
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-12T15:04:30Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.917,
+                  "point": 151.5
+                },
+                {
+                  "name": "Under",
+                  "price": 1.901,
+                  "point": 151.5
+                }
+              ]
+            },
+            {
+              "key": "spreads",
+              "last_update": "2026-11-12T15:04:12Z",
+              "outcomes": [
+                {
+                  "name": "West Virginia",
+                  "price": 1.935,
+                  "point": -27.5
+                },
+                {
+                  "name": "Mercer",
+                  "price": 1.885,
+                  "point": 27.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794495937496,
+          "stale_seconds": 15.51
+        }
+      ],
+      "canonical_event_id": "0481dc7c9d974005",
+      "commence_time_reported": true,
+      "sport_name": "NCAAB",
+      "sport_group": "Basketball"
     }
   ],
   "errors": []
