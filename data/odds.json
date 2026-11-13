@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T06:34:47.588Z",
+  "generated_at": "2026-11-13T19:36:58.379Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 92,
+    "active_sports": 318,
     "updated_this_run": [
-      "boxing_boxing",
-      "tennis"
+      "soccer_england_premier_league_cup_u21",
+      "soccer_england_southern_premier_league_central"
     ],
     "region": "eu",
     "markets": [
@@ -474,6 +474,1136 @@
       "key": "disc_golf",
       "name": "Disc Golf",
       "group": "Disc Golf"
+    },
+    {
+      "key": "americanfootball_other",
+      "name": "American Football (other competitions)",
+      "group": "American Football"
+    },
+    {
+      "key": "basketball_other",
+      "name": "Basketball (other competitions)",
+      "group": "Basketball"
+    },
+    {
+      "key": "cricket_international_t20",
+      "name": "International T20",
+      "group": "Cricket"
+    },
+    {
+      "key": "cricket_odi",
+      "name": "ODI",
+      "group": "Cricket"
+    },
+    {
+      "key": "cricket_wbbl",
+      "name": "Wbbl",
+      "group": "Cricket"
+    },
+    {
+      "key": "darts_pdc",
+      "name": "Pdc",
+      "group": "Darts"
+    },
+    {
+      "key": "esports_rainbow_six_siege",
+      "name": "Rainbow Six Siege",
+      "group": "Esports"
+    },
+    {
+      "key": "golf_other",
+      "name": "Golf (other competitions)",
+      "group": "Golf"
+    },
+    {
+      "key": "icehockey_sweden_shl",
+      "name": "Sweden Shl",
+      "group": "Ice Hockey"
+    },
+    {
+      "key": "mma",
+      "name": "Mixed Martial Arts (all competitions)",
+      "group": "Mixed Martial Arts"
+    },
+    {
+      "key": "other_esports",
+      "name": "Esports",
+      "group": "Other"
+    },
+    {
+      "key": "soccer_africa_cup_of_nations_qualifiers",
+      "name": "Africa Cup of Nations Qualifiers",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_algeria_1st_division",
+      "name": "Algeria 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_algeria_ligue_1",
+      "name": "Algeria Ligue 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_copa_argentina",
+      "name": "Argentina Copa Argentina",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_cup",
+      "name": "Argentina Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_liga_pro",
+      "name": "Argentina Liga Pro",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_primera_b_metropolitana",
+      "name": "Argentina Primera B Metropolitana",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_primera_c",
+      "name": "Argentina Primera C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_primera_nacional",
+      "name": "Argentina Primera Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_womens_league",
+      "name": "Argentina Womens League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_australia_a_league",
+      "name": "Australia A League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_australia_a_league_women",
+      "name": "Australia A League Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_australia_championship",
+      "name": "Australia Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_australian_championship",
+      "name": "Australian Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_austria_landesliga",
+      "name": "Austria Landesliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bahrain_2nd_division",
+      "name": "Bahrain 2nd Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_first_amateur_division",
+      "name": "Belgium First Amateur Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_reserve_pro_league_u21",
+      "name": "Belgium Reserve Pro League U21",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_reserves_league",
+      "name": "Belgium Reserves League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_campeonato_pernambucano",
+      "name": "Brazil Campeonato Pernambucano",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_copa_do_brasil",
+      "name": "Brazil Copa Do Brasil",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_mineiro_3",
+      "name": "Brazil Mineiro 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_paulista_u20",
+      "name": "Brazil Paulista U20",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_pernambucano",
+      "name": "Brazil Pernambucano",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_serie_a",
+      "name": "Brazil Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bundesliga",
+      "name": "Bundesliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bundesliga_2",
+      "name": "Bundesliga 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bundesliga_3",
+      "name": "Bundesliga 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_caf_africa_cup_of_nations_qualifiers",
+      "name": "Caf Africa Cup of Nations Qualifiers",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_copa_de_la_liga",
+      "name": "Chile Copa de La Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_league_cup",
+      "name": "Chile League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_primera_division",
+      "name": "Chile Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_segunda_division",
+      "name": "Chile Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_china_super_league",
+      "name": "China Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_club_friendlies",
+      "name": "Club Friendlies",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_colombia_cup",
+      "name": "Colombia Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_colombia_primera_b",
+      "name": "Colombia Primera B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_concacaf_nations_league",
+      "name": "Concacaf Nations League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_concacaf_nations_league_b",
+      "name": "Concacaf Nations League B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_conmebol_copa_libertadores",
+      "name": "CONMEBOL Copa Libertadores",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_conmebol_copa_sudamericana",
+      "name": "CONMEBOL Copa Sudamericana",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_copa_del_rey",
+      "name": "Copa Del Rey",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_coppa_italia",
+      "name": "Coppa Italia",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_coupe_de_france",
+      "name": "Coupe de France",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_croatia_cup",
+      "name": "Croatia Croatia Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_cup",
+      "name": "Croatia Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_croatia_hnl",
+      "name": "Croatia Hnl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_2_liga",
+      "name": "Czech Republic 2 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_3_liga",
+      "name": "Czech Republic 3 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_4_liga",
+      "name": "Czech Republic 4 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_fnl",
+      "name": "Czech Republic Fnl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_2nd_division",
+      "name": "Denmark 2nd Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_3rd_division",
+      "name": "Denmark 3rd Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_division_1",
+      "name": "Denmark Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_dfb_pokal",
+      "name": "DFB Pokal",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ecuador_serie_a",
+      "name": "Ecuador Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_egypt_2nd_division_a",
+      "name": "Egypt 2nd Division A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_egypt_2nd_division_b",
+      "name": "Egypt 2nd Division B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_el_salvador_primera_division",
+      "name": "El Salvador Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_elite_international_friendlies",
+      "name": "Elite International Friendlies",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_fa_super_league",
+      "name": "England FA Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_fa_trophy",
+      "name": "England FA Trophy",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_isthmian_premier_league",
+      "name": "England Isthmian Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_league_one",
+      "name": "England League One",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_league_two",
+      "name": "England League Two",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_national_league",
+      "name": "England National League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_northern_premier_league",
+      "name": "England Northern Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_premier_league_cup_u21",
+      "name": "England Premier League Cup U21",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_southern_premier_league_central",
+      "name": "England Southern Premier League Central",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_southern_premier_league_south",
+      "name": "England Southern Premier League South",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_english_league_a_2025_26",
+      "name": "English League A 2025 26",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_euro_league_2026",
+      "name": "Euro League 2026",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_cup",
+      "name": "France Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_division_1_women",
+      "name": "France Division 1 Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_ligue_2",
+      "name": "France Ligue 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_ligue_3",
+      "name": "France Ligue 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_friendlies",
+      "name": "Friendlies",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_friendlies_u20",
+      "name": "Friendlies U20",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_friendlies_u21",
+      "name": "Friendlies U21",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_friendlies_u23",
+      "name": "Friendlies U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_3_liga",
+      "name": "Germany 3 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_bundesliga_2",
+      "name": "Germany Bundesliga 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_regionalliga_bavaria",
+      "name": "Germany Regionalliga Bavaria",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_regionalliga_north",
+      "name": "Germany Regionalliga North",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_regionalliga_south_west",
+      "name": "Germany Regionalliga South West",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ghana_division_1",
+      "name": "Ghana Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_global_cup_2026",
+      "name": "Global Cup 2026",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_guatemala_liga_nacional",
+      "name": "Guatemala Liga Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_india_i_league",
+      "name": "India I League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_india_super_league",
+      "name": "India Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_indonesia_super_league",
+      "name": "Indonesia Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_international_friendlies",
+      "name": "International Friendlies",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_international_friendlies_u23",
+      "name": "International Friendlies U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_c_group_a",
+      "name": "Italy Serie C Group A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_c_group_b",
+      "name": "Italy Serie C Group B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_c_group_c",
+      "name": "Italy Serie C Group C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_empowerment_league",
+      "name": "Japan Empowerment League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_football_league",
+      "name": "Japan Football League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_football_league_cup",
+      "name": "Japan Football League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j3_league",
+      "name": "Japan J3 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j_league_2",
+      "name": "Japan J League 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j_league_3",
+      "name": "Japan J League 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_jordan_1st_division",
+      "name": "Jordan 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_latvia_virsliga",
+      "name": "Latvia Virsliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_liberia_first_divison",
+      "name": "Liberia First Divison",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ligue_1",
+      "name": "Ligue 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ligue_2",
+      "name": "Ligue 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_de_expansion_mx",
+      "name": "Mexico Liga de Expansion Mx",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_mx_femenil",
+      "name": "Mexico Liga Mx Femenil",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_tdp",
+      "name": "Mexico Liga Tdp",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_segunda_division",
+      "name": "Mexico Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_montenegro_prva_liga",
+      "name": "Montenegro Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_nations_league_matches",
+      "name": "Nations League Matches",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_eredivisie_women",
+      "name": "Netherlands Eredivisie Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_tweede_divisie",
+      "name": "Netherlands Tweede Divisie",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_new_zealand_national_league",
+      "name": "New Zealand National League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_new_zealand_premiership",
+      "name": "New Zealand Premiership",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_nigeria_npfl",
+      "name": "Nigeria Npfl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_nigeria_premier_league",
+      "name": "Nigeria Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_nir_ifa_premiership",
+      "name": "Nir Ifa Premiership",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_northern_ireland_championship",
+      "name": "Northern Ireland Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_northern_ireland_premiership",
+      "name": "Northern Ireland Premiership",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_norway_1st_division",
+      "name": "Norway 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_norway_division_2",
+      "name": "Norway Division 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_oberliga",
+      "name": "Oberliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_oman_cup",
+      "name": "Oman Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_oman_federation_cup",
+      "name": "Oman Federation Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_panama_liga_panamena",
+      "name": "Panama Liga Panamena",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_panama_primera_division",
+      "name": "Panama Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_paraguay_copa_paraguay",
+      "name": "Paraguay Copa Paraguay",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_paraguay_division_profesional",
+      "name": "Paraguay Division Profesional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_peru_liga_1",
+      "name": "Peru Liga 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_peru_primera_division",
+      "name": "Peru Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_peru_segunda_division",
+      "name": "Peru Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_1st_liga",
+      "name": "Poland 1st Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_2nd_liga",
+      "name": "Poland 2nd Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_3rd_liga",
+      "name": "Poland 3rd Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_ii_liga",
+      "name": "Poland Ii Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_poland_iii_liga",
+      "name": "Poland Iii Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_championship_u23",
+      "name": "Portugal Championship U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_liga_2",
+      "name": "Portugal Liga 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_segunda_liga",
+      "name": "Portugal Segunda Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_primera_division_rfef",
+      "name": "Primera Division RFEF",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_regionalliga",
+      "name": "Regionalliga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_romania_liga_1",
+      "name": "Romania Liga 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_russia_first_league",
+      "name": "Russia First League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_russia_premier_league",
+      "name": "Russia Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_saff_championship",
+      "name": "Saff Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_scotland_league_one",
+      "name": "Scotland League One",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_scotland_league_two",
+      "name": "Scotland League Two",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_segunda",
+      "name": "Segunda",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serbia_prva_liga",
+      "name": "Serbia Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serie_b",
+      "name": "Serie B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serie_c",
+      "name": "Serie C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serie_d",
+      "name": "Serie D",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sierra_leone_premier_league",
+      "name": "Sierra Leone Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_singapore_sfl_1",
+      "name": "Singapore Sfl 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovakia_2_liga",
+      "name": "Slovakia 2 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovakia_3_liga",
+      "name": "Slovakia 3 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovakia_super_liga",
+      "name": "Slovakia Super Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovenia_2_snl",
+      "name": "Slovenia 2 Snl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovenia_division_2",
+      "name": "Slovenia Division 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovenia_prva_liga",
+      "name": "Slovenia Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_copa_del_rey",
+      "name": "Spain Copa Del Rey",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_primera_division",
+      "name": "Spain Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_primera_federacion",
+      "name": "Spain Primera Federacion",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_segunda_federacion",
+      "name": "Spain Segunda Federacion",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_spain_tercera_division",
+      "name": "Spain Tercera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_superettan",
+      "name": "Sweden Superettan",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_1_liga_classic",
+      "name": "Switzerland 1 Liga Classic",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_promotion_league",
+      "name": "Switzerland Promotion League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_super_league",
+      "name": "Switzerland Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_tercera_division_rfef",
+      "name": "Tercera Division RFEF",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_2nd_league",
+      "name": "Turkey 2nd League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_u20_leagues",
+      "name": "U20 Leagues",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_league_cup",
+      "name": "UAE League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_president_s_cup",
+      "name": "UAE President S Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_pro_league",
+      "name": "UAE Pro League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_u19_league",
+      "name": "UAE U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_conference_league",
+      "name": "UEFA Conference League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_europa_league",
+      "name": "UEFA Europa League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_european_championship_qualifiers_u21",
+      "name": "UEFA European Championship Qualifiers U21",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_european_championship_u19",
+      "name": "UEFA European Championship U19",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_nations_league",
+      "name": "UEFA Nations League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uefa_u19_euro_championship_qualifiers",
+      "name": "UEFA U19 Euro Championship Qualifiers",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uruguay_primera_division",
+      "name": "Uruguay Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uruguay_segunda_division",
+      "name": "Uruguay Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_national_soccer_league",
+      "name": "USA National Soccer League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_usl_championship",
+      "name": "USA USL Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_venezuela_segunda_division",
+      "name": "Venezuela Segunda Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_wales_championship",
+      "name": "Wales Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_wales_cup",
+      "name": "Wales Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_wales_faw_championship",
+      "name": "Wales Faw Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_wales_welsh_cup",
+      "name": "Wales Welsh Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "tennis_atp_challenger_hersonissos_2026",
+      "name": "ATP Challenger Hersonissos 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_knoxville_tn_2026",
+      "name": "ATP Challenger Knoxville Tn 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_lima_2026",
+      "name": "ATP Challenger Lima 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_monastir_2026",
+      "name": "ATP Challenger Monastir 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_orleans_2026",
+      "name": "ATP Challenger Orleans 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_las_palmas_de_gran_canaria_esp",
+      "name": "ITF M15 Las Palmas de Gran Canaria ESP",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_naples_usa",
+      "name": "ITF M15 Naples USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_roldan_arg",
+      "name": "ITF M15 Roldan ARG",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_zamora_mex",
+      "name": "ITF M15 Zamora MEX",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_columbus_usa",
+      "name": "ITF M25 Columbus USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_montreal_can",
+      "name": "ITF M25 Montreal CAN",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_san_gregorio_di_catania_ita",
+      "name": "ITF M25 San Gregorio Di Catania ITA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_santa_cruz_do_sul_bra",
+      "name": "ITF M25 Santa Cruz Do Sul BRA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_vale_do_lobo_por",
+      "name": "ITF M25 Vale Do Lobo POR",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_lincoln_usa",
+      "name": "ITF W15 Lincoln USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_nules_esp",
+      "name": "ITF W15 Nules ESP",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_paris_fra",
+      "name": "ITF W15 Paris FRA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_s_o_carlos_bra",
+      "name": "ITF W15 S O Carlos BRA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w35_weston_usa",
+      "name": "ITF W35 Weston USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_other",
+      "name": "Tennis (other competitions)",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_utr",
+      "name": "UTR",
+      "group": "Tennis"
     }
   ],
   "events": [
@@ -68925,6 +70055,252 @@
       ],
       "sport_name": "Tennis",
       "sport_group": "Tennis"
+    },
+    {
+      "id": "9c7324ff07dfbfc98c3741e47fcf6b31",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Alvechurch",
+      "away_team": "Hitchin Town",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Alvechurch",
+                  "price": 1.549
+                },
+                {
+                  "name": "Hitchin Town",
+                  "price": 4.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "11f8086db11ced12",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "cea349e10d6236bbe424a44acaefb92c",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Anstey Nomads",
+      "away_team": "Worcester",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Anstey Nomads",
+                  "price": 1.699
+                },
+                {
+                  "name": "Worcester",
+                  "price": 4.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "38df5a58babc75f0",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b2b7980d6c9cddc870096d978c907f3c",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Bury Town",
+      "away_team": "Rushall Olympic",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Bury Town",
+                  "price": 2.27
+                },
+                {
+                  "name": "Rushall Olympic",
+                  "price": 2.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "0319564da3491f59",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "0aebcc628e4d4d776297be7d32febf7b",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Leamington",
+      "away_team": "Leiston",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Leamington",
+                  "price": 2.25
+                },
+                {
+                  "name": "Leiston",
+                  "price": 2.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "2c97856136bfc3f3",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "7b31acfcb4edbbf31a88d7799bcff6d1",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Leighton Town",
+      "away_team": "Stratford Town",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Leighton Town",
+                  "price": 3.3
+                },
+                {
+                  "name": "Stratford Town",
+                  "price": 2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "522ed6dba4dcb0c0",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "6021ae483ef9fae04d1a5071aea9ee7a",
+      "sport_key": "soccer_england_southern_premier_league_central",
+      "sport_title": "soccer_england_southern_premier_league_central",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "home_team": "Needham Market",
+      "away_team": "Banbury United",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-13T19:36:30Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-13T19:36:29Z",
+              "outcomes": [
+                {
+                  "name": "Needham Market",
+                  "price": 1.769
+                },
+                {
+                  "name": "Banbury United",
+                  "price": 3.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794598590650,
+          "stale_seconds": 27.64
+        }
+      ],
+      "canonical_event_id": "7374f74f0dba41ca",
+      "commence_time_reported": true,
+      "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
     }
   ],
   "errors": []
