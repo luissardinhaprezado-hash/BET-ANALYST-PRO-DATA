@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T13:29:58.895Z",
+  "generated_at": "2026-11-14T22:19:07.947Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 443,
+    "active_sports": 467,
     "updated_this_run": [
-      "soccer_england_league2",
-      "soccer_epl"
+      "soccer_sweden_elitettan",
+      "soccer_sweden_superettan"
     ],
     "region": "eu",
     "markets": [
@@ -696,6 +696,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_benin_ligue_1",
+      "name": "Benin Ligue 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bolivia_copa_division_profesional",
+      "name": "Bolivia Copa Division Profesional",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_bosnia_and_herzegovina_1st_league",
       "name": "Bosnia and Herzegovina 1st League",
       "group": "Soccer"
@@ -736,6 +746,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_copa_goias_u20",
+      "name": "Brazil Copa Goias U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_copa_santa_catarina",
       "name": "Brazil Copa Santa Catarina",
       "group": "Soccer"
@@ -743,6 +758,11 @@
     {
       "key": "soccer_brazil_mineiro_3",
       "name": "Brazil Mineiro 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_paraense_u20",
+      "name": "Brazil Paraense U20",
       "group": "Soccer"
     },
     {
@@ -783,6 +803,11 @@
     {
       "key": "soccer_bundesliga_u19",
       "name": "Bundesliga U19",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_burkina_faso_premier_league",
+      "name": "Burkina Faso Premier League",
       "group": "Soccer"
     },
     {
@@ -846,6 +871,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_china_league_one",
+      "name": "China League One",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_china_super_league",
       "name": "China Super League",
       "group": "Soccer"
@@ -901,6 +931,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_costa_rica_ascenso",
+      "name": "Costa Rica Ascenso",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_costa_rica_liga_de_ascenso",
       "name": "Costa Rica Liga de Ascenso",
       "group": "Soccer"
@@ -938,6 +973,11 @@
     {
       "key": "soccer_czech_republic_4_liga",
       "name": "Czech Republic 4 Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_first_liga",
+      "name": "Czech Republic First Liga",
       "group": "Soccer"
     },
     {
@@ -1016,6 +1056,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_el_salvador_reserve_league",
+      "name": "El Salvador Reserve League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_elite_international_friendlies",
       "name": "Elite International Friendlies",
       "group": "Soccer"
@@ -1023,6 +1068,11 @@
     {
       "key": "soccer_england_championship_women",
       "name": "England Championship Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_efl_trophy",
+      "name": "England EFL Trophy",
       "group": "Soccer"
     },
     {
@@ -1053,6 +1103,16 @@
     {
       "key": "soccer_england_isthmian_premier_league",
       "name": "England Isthmian Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_league_1",
+      "name": "England League 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_league_2",
+      "name": "England League 2",
       "group": "Soccer"
     },
     {
@@ -1103,6 +1163,11 @@
     {
       "key": "soccer_english_league_a_2025_26",
       "name": "English League A 2025 26",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ethiopia_higher_league",
+      "name": "Ethiopia Higher League",
       "group": "Soccer"
     },
     {
@@ -1221,8 +1286,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_hong_kong_1st_division",
+      "name": "Hong Kong 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_hong_kong_2nd_division",
+      "name": "Hong Kong 2nd Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_hong_kong_league_cup",
       "name": "Hong Kong League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_hungary_nb_1",
+      "name": "Hungary Nb 1",
       "group": "Soccer"
     },
     {
@@ -1311,6 +1391,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_japan_cup",
+      "name": "Japan Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_japan_empowerment_league",
       "name": "Japan Empowerment League",
       "group": "Soccer"
@@ -1393,6 +1478,11 @@
     {
       "key": "soccer_ligue_2",
       "name": "Ligue 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_lithuania_a_lyga",
+      "name": "Lithuania A Lyga",
       "group": "Soccer"
     },
     {
@@ -1596,6 +1686,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_peru_liga_femenina",
+      "name": "Peru Liga Femenina",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_peru_primera_division",
       "name": "Peru Primera Division",
       "group": "Soccer"
@@ -1663,6 +1758,11 @@
     {
       "key": "soccer_primera_division_rfef",
       "name": "Primera Division RFEF",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_puerto_rico_national_football_league",
+      "name": "Puerto Rico National Football League",
       "group": "Soccer"
     },
     {
@@ -1821,6 +1921,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_spain_federation_cup",
+      "name": "Spain Federation Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_spain_primera_division",
       "name": "Spain Primera Division",
       "group": "Soccer"
@@ -1843,6 +1948,11 @@
     {
       "key": "soccer_spain_u19_league",
       "name": "Spain U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_suriname_major_league",
+      "name": "Suriname Major League",
       "group": "Soccer"
     },
     {
@@ -1921,6 +2031,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_turkey_tff_third_league",
+      "name": "Turkey Tff Third League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_u20_leagues",
       "name": "U20 Leagues",
       "group": "Soccer"
@@ -1993,6 +2108,11 @@
     {
       "key": "soccer_uruguay_primera_division",
       "name": "Uruguay Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uruguay_primera_division_amateur",
+      "name": "Uruguay Primera Division Amateur",
       "group": "Soccer"
     },
     {
@@ -70249,6 +70369,129 @@
       "canonical_event_id": "7df7e662653abd10",
       "commence_time_reported": true,
       "sport_name": "EPL",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "272f2de58f56f8c4c64da3206c52877a",
+      "sport_key": "soccer_sweden_superettan",
+      "sport_title": "soccer_sweden_superettan",
+      "commence_time": "2026-11-21T12:00:00Z",
+      "home_team": "Enköpings SK",
+      "away_team": "Örebro SK",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-14T22:17:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T22:17:13Z",
+              "outcomes": [
+                {
+                  "name": "Enköpings SK",
+                  "price": 2.95
+                },
+                {
+                  "name": "Örebro SK",
+                  "price": 2.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794694634862,
+          "stale_seconds": 112.99
+        }
+      ],
+      "canonical_event_id": "5ea76a9b10a831de",
+      "commence_time_reported": true,
+      "sport_name": "Sweden Superettan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "a53fa6469707984a36f6d0eeff70a7b5",
+      "sport_key": "soccer_sweden_superettan",
+      "sport_title": "soccer_sweden_superettan",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "home_team": "Lunds BK",
+      "away_team": "Norrby IF",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-14T22:17:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T22:17:13Z",
+              "outcomes": [
+                {
+                  "name": "Lunds BK",
+                  "price": 2.5
+                },
+                {
+                  "name": "Norrby IF",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794694634862,
+          "stale_seconds": 112.99
+        }
+      ],
+      "canonical_event_id": "6966b1add8a4791d",
+      "commence_time_reported": true,
+      "sport_name": "Sweden Superettan",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "25470f144c97834f126b7235e5f4456f",
+      "sport_key": "soccer_sweden_superettan",
+      "sport_title": "soccer_sweden_superettan",
+      "commence_time": "2026-11-21T12:00:00Z",
+      "home_team": "Östersunds FK",
+      "away_team": "Varbergs BoIS",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-14T22:17:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T22:17:13Z",
+              "outcomes": [
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.23
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 2.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794694634862,
+          "stale_seconds": 112.99
+        }
+      ],
+      "canonical_event_id": "54c6c9ef1d020caf",
+      "commence_time_reported": true,
+      "sport_name": "Sweden Superettan",
       "sport_group": "Soccer"
     }
   ],
