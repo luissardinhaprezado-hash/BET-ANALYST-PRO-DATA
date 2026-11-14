@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T19:36:58.379Z",
+  "generated_at": "2026-11-14T06:12:41.284Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 318,
+    "active_sports": 387,
     "updated_this_run": [
-      "soccer_england_premier_league_cup_u21",
-      "soccer_england_southern_premier_league_central"
+      "soccer_chile_primera_b",
+      "soccer_chile_primera_division"
     ],
     "region": "eu",
     "markets": [
@@ -486,6 +486,11 @@
       "group": "Basketball"
     },
     {
+      "key": "cricket_international",
+      "name": "International",
+      "group": "Cricket"
+    },
+    {
       "key": "cricket_international_t20",
       "name": "International T20",
       "group": "Cricket"
@@ -538,6 +543,11 @@
     {
       "key": "soccer_algeria_1st_division",
       "name": "Algeria 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_algeria_cup",
+      "name": "Algeria Cup",
       "group": "Soccer"
     },
     {
@@ -606,8 +616,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_austria_regional_league",
+      "name": "Austria Regional League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_austria_regionalliga_west",
+      "name": "Austria Regionalliga West",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_bahrain_2nd_division",
       "name": "Bahrain 2nd Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_challenger_pro_league",
+      "name": "Belgium Challenger Pro League",
       "group": "Soccer"
     },
     {
@@ -626,13 +651,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_belgium_super_league",
+      "name": "Belgium Super League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_campeonato_pernambucano",
       "name": "Brazil Campeonato Pernambucano",
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_carioca_u20",
+      "name": "Brazil Carioca U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_copa_do_brasil",
       "name": "Brazil Copa Do Brasil",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_copa_fares_lopes",
+      "name": "Brazil Copa Fares Lopes",
       "group": "Soccer"
     },
     {
@@ -656,6 +696,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_bulgaria_second_league",
+      "name": "Bulgaria Second League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_bundesliga",
       "name": "Bundesliga",
       "group": "Soccer"
@@ -671,8 +716,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_bundesliga_u19",
+      "name": "Bundesliga U19",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_burkina_faso_superdivision",
+      "name": "Burkina Faso Superdivision",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_caf_africa_cup_of_nations_qualifiers",
       "name": "Caf Africa Cup of Nations Qualifiers",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_caf_champions_league_women",
+      "name": "Caf Champions League Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_cameroon_elite_one",
+      "name": "Cameroon Elite One",
       "group": "Soccer"
     },
     {
@@ -683,6 +748,11 @@
     {
       "key": "soccer_chile_league_cup",
       "name": "Chile League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_primera_b",
+      "name": "Chile Primera B",
       "group": "Soccer"
     },
     {
@@ -786,6 +856,21 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_czech_republic_league",
+      "name": "Czech Republic League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_u19",
+      "name": "Czech Republic U19",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_czech_republic_u19_league",
+      "name": "Czech Republic U19 League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_denmark_2nd_division",
       "name": "Denmark 2nd Division",
       "group": "Soccer"
@@ -801,13 +886,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_denmark_elitedivisionen",
+      "name": "Denmark Elitedivisionen",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_dfb_pokal",
       "name": "DFB Pokal",
       "group": "Soccer"
     },
     {
+      "key": "soccer_division_de_honor_juvenil",
+      "name": "Division de Honor Juvenil",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_ecuador_serie_a",
       "name": "Ecuador Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_egypt_2nd_division",
+      "name": "Egypt 2nd Division",
       "group": "Soccer"
     },
     {
@@ -841,6 +941,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_isthmian_premier_division",
+      "name": "England Isthmian Premier Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_isthmian_premier_league",
       "name": "England Isthmian Premier League",
       "group": "Soccer"
@@ -871,6 +976,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_southern_central_league",
+      "name": "England Southern Central League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_southern_premier_league_central",
       "name": "England Southern Premier League Central",
       "group": "Soccer"
@@ -878,6 +988,11 @@
     {
       "key": "soccer_england_southern_premier_league_south",
       "name": "England Southern Premier League South",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_southern_south_league",
+      "name": "England Southern South League",
       "group": "Soccer"
     },
     {
@@ -908,6 +1023,11 @@
     {
       "key": "soccer_france_ligue_3",
       "name": "France Ligue 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_france_u19_league",
+      "name": "France U19 League",
       "group": "Soccer"
     },
     {
@@ -961,13 +1081,38 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ghana_premier_league",
+      "name": "Ghana Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_global_cup_2026",
       "name": "Global Cup 2026",
       "group": "Soccer"
     },
     {
+      "key": "soccer_greece_gamma_ethniki",
+      "name": "Greece Gamma Ethniki",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_greece_super_league_2",
+      "name": "Greece Super League 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_guatemala_liga_nacional",
       "name": "Guatemala Liga Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_hong_kong_league_cup",
+      "name": "Hong Kong League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_hungary_nb_i",
+      "name": "Hungary Nb I",
       "group": "Soccer"
     },
     {
@@ -978,6 +1123,11 @@
     {
       "key": "soccer_india_super_league",
       "name": "India Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_indonesia_liga_1_u20",
+      "name": "Indonesia Liga 1 U20",
       "group": "Soccer"
     },
     {
@@ -996,6 +1146,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_iraq_first_division",
+      "name": "Iraq First Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_italy_serie_c_group_a",
       "name": "Italy Serie C Group A",
       "group": "Soccer"
@@ -1008,6 +1163,16 @@
     {
       "key": "soccer_italy_serie_c_group_c",
       "name": "Italy Serie C Group C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_italy_serie_d",
+      "name": "Italy Serie D",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_jamaica_premier_league",
+      "name": "Jamaica Premier League",
       "group": "Soccer"
     },
     {
@@ -1041,8 +1206,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_japan_league_cup",
+      "name": "Japan League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_regional_league",
+      "name": "Japan Regional League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_jordan_1st_division",
       "name": "Jordan 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_kenya_premier_league",
+      "name": "Kenya Premier League",
       "group": "Soccer"
     },
     {
@@ -1076,6 +1256,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_mexico_liga_premier",
+      "name": "Mexico Liga Premier",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mexico_liga_premier_serie_a",
+      "name": "Mexico Liga Premier Serie A",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_mexico_liga_tdp",
       "name": "Mexico Liga Tdp",
       "group": "Soccer"
@@ -1086,13 +1276,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_montenegro_druga_liga",
+      "name": "Montenegro Druga Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_montenegro_prva_liga",
       "name": "Montenegro Prva Liga",
       "group": "Soccer"
     },
     {
+      "key": "soccer_morocco_botola_2",
+      "name": "Morocco Botola 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_nations_league_matches",
       "name": "Nations League Matches",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_derde_divisie",
+      "name": "Netherlands Derde Divisie",
       "group": "Soccer"
     },
     {
@@ -1241,6 +1446,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_portugal_u19_championship",
+      "name": "Portugal U19 Championship",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_primera_division_rfef",
       "name": "Primera Division RFEF",
       "group": "Soccer"
@@ -1271,6 +1481,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_saudi_arabia_division_2",
+      "name": "Saudi Arabia Division 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_scotland_highland_league",
+      "name": "Scotland Highland League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_scotland_league_one",
       "name": "Scotland League One",
       "group": "Soccer"
@@ -1281,8 +1501,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_scotland_lowland_league",
+      "name": "Scotland Lowland League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_scotland_premier_league",
+      "name": "Scotland Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_segunda",
       "name": "Segunda",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_segunda_division_rfef",
+      "name": "Segunda Division RFEF",
       "group": "Soccer"
     },
     {
@@ -1316,6 +1551,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_slovakia_1_league",
+      "name": "Slovakia 1 League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_slovakia_2_liga",
       "name": "Slovakia 2 Liga",
       "group": "Soccer"
@@ -1336,6 +1576,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_slovenia_3_snl",
+      "name": "Slovenia 3 Snl",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_slovenia_division_2",
       "name": "Slovenia Division 2",
       "group": "Soccer"
@@ -1343,6 +1588,16 @@
     {
       "key": "soccer_slovenia_prva_liga",
       "name": "Slovenia Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_south_africa_reserve_league",
+      "name": "South Africa Reserve League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_south_korea_k_league_1",
+      "name": "South Korea K League 1",
       "group": "Soccer"
     },
     {
@@ -1371,6 +1626,21 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_spain_u19_league",
+      "name": "Spain U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_division_1",
+      "name": "Sweden Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_elitettan",
+      "name": "Sweden Elitettan",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_sweden_superettan",
       "name": "Sweden Superettan",
       "group": "Soccer"
@@ -1378,6 +1648,11 @@
     {
       "key": "soccer_switzerland_1_liga_classic",
       "name": "Switzerland 1 Liga Classic",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_switzerland_challenge_league",
+      "name": "Switzerland Challenge League",
       "group": "Soccer"
     },
     {
@@ -1391,13 +1666,33 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_switzerland_u19_elite",
+      "name": "Switzerland U19 Elite",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_tercera_division_rfef",
       "name": "Tercera Division RFEF",
       "group": "Soccer"
     },
     {
+      "key": "soccer_thailand_division_3",
+      "name": "Thailand Division 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_1st_league",
+      "name": "Turkey 1st League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_turkey_2nd_league",
       "name": "Turkey 2nd League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_tff_second_league",
+      "name": "Turkey Tff Second League",
       "group": "Soccer"
     },
     {
@@ -1456,6 +1751,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ukraine_persha_liga",
+      "name": "Ukraine Persha Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uruguay_primera_division",
       "name": "Uruguay Primera Division",
       "group": "Soccer"
@@ -1473,6 +1773,11 @@
     {
       "key": "soccer_usa_usl_championship",
       "name": "USA USL Championship",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_usl_league_one",
+      "name": "USA USL League One",
       "group": "Soccer"
     },
     {
@@ -1501,6 +1806,11 @@
       "group": "Soccer"
     },
     {
+      "key": "tennis_atp_challenger_brisbane_2026",
+      "name": "ATP Challenger Brisbane 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_hersonissos_2026",
       "name": "ATP Challenger Hersonissos 2026",
       "group": "Tennis"
@@ -1516,6 +1826,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_matsuyama_2026",
+      "name": "ATP Challenger Matsuyama 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_monastir_2026",
       "name": "ATP Challenger Monastir 2026",
       "group": "Tennis"
@@ -1526,8 +1841,23 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_hua_hin_tha",
+      "name": "ITF M15 Hua Hin THA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_kuala_lumpur_mas",
+      "name": "ITF M15 Kuala Lumpur Mas",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_las_palmas_de_gran_canaria_esp",
       "name": "ITF M15 Las Palmas de Gran Canaria ESP",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_maanshan_chn",
+      "name": "ITF M15 Maanshan CHN",
       "group": "Tennis"
     },
     {
@@ -1576,6 +1906,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_w15_maanshan_chn",
+      "name": "ITF W15 Maanshan CHN",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_w15_nules_esp",
       "name": "ITF W15 Nules ESP",
       "group": "Tennis"
@@ -1593,6 +1928,16 @@
     {
       "key": "tennis_itf_w35_weston_usa",
       "name": "ITF W35 Weston USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w50_chihuahua_mex",
+      "name": "ITF W50 Chihuahua MEX",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_brisbane_aus",
+      "name": "ITF W75 Brisbane Aus",
       "group": "Tennis"
     },
     {
@@ -70300,6 +70645,498 @@
       "canonical_event_id": "7374f74f0dba41ca",
       "commence_time_reported": true,
       "sport_name": "England Southern Premier League Central",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "edd34fca5026a8d792b9d316f6c7f17b",
+      "sport_key": "soccer_chile_primera_b",
+      "sport_title": "soccer_chile_primera_b",
+      "commence_time": "2026-11-15T21:00:00Z",
+      "home_team": "Cobreloa Calama",
+      "away_team": "Puerto Montt",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Cobreloa Calama",
+                  "price": 1.51
+                },
+                {
+                  "name": "Puerto Montt",
+                  "price": 5.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 19.6
+        }
+      ],
+      "canonical_event_id": "32b4b351b62349ca",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera B",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4ae87aa9d121a617d560585c91853568",
+      "sport_key": "soccer_chile_primera_b",
+      "sport_title": "soccer_chile_primera_b",
+      "commence_time": "2026-11-15T21:00:00Z",
+      "home_team": "Deportes Magallanes",
+      "away_team": "Deportes Antofagasta",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Deportes Magallanes",
+                  "price": 2.52
+                },
+                {
+                  "name": "Deportes Antofagasta",
+                  "price": 2.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 19.6
+        }
+      ],
+      "canonical_event_id": "57613d755a030403",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera B",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "b840da43979f05ebfa6ebbc95d2a5f90",
+      "sport_key": "soccer_chile_primera_b",
+      "sport_title": "soccer_chile_primera_b",
+      "commence_time": "2026-11-15T23:30:00Z",
+      "home_team": "Deportes Recoleta",
+      "away_team": "Deportes Iquique",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Deportes Recoleta",
+                  "price": 2.62
+                },
+                {
+                  "name": "Deportes Iquique",
+                  "price": 2.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 19.6
+        }
+      ],
+      "canonical_event_id": "8106cf98723ec80d",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera B",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "a14182f9f5920f152a388cbda4dc9261",
+      "sport_key": "soccer_chile_primera_b",
+      "sport_title": "soccer_chile_primera_b",
+      "commence_time": "2026-11-15T15:00:00Z",
+      "home_team": "Santiago Wanderers",
+      "away_team": "Deportes Copiapo",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Santiago Wanderers",
+                  "price": 2.4
+                },
+                {
+                  "name": "Deportes Copiapo",
+                  "price": 2.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 19.6
+        }
+      ],
+      "canonical_event_id": "9a6a1501adde1988",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera B",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d64b9502bb85b08ccd181e686edd88ca",
+      "sport_key": "soccer_chile_primera_b",
+      "sport_title": "soccer_chile_primera_b",
+      "commence_time": "2026-11-15T21:00:00Z",
+      "home_team": "Union San Felipe",
+      "away_team": "Union Espanola",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Union San Felipe",
+                  "price": 2.55
+                },
+                {
+                  "name": "Union Espanola",
+                  "price": 2.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 19.6
+        }
+      ],
+      "canonical_event_id": "38cb97871b379060",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera B",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "ab227a826e626a25f1481f13b0a29b41",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-20T21:00:00Z",
+      "home_team": "Cobresal",
+      "away_team": "Audax Italiano",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Cobresal",
+                  "price": 2.25
+                },
+                {
+                  "name": "Audax Italiano",
+                  "price": 2.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "86e5ffa3cb1683d4",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "30679fe20afe074b4190c5bdc7e9b37f",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-20T23:30:00Z",
+      "home_team": "Palestino",
+      "away_team": "Union La Calera",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Palestino",
+                  "price": 1.752
+                },
+                {
+                  "name": "Union La Calera",
+                  "price": 3.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "4856cb5ad6854659",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d01a2cf2a82fde3f2701cebb83a11b52",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Everton de Vina del Mar",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Coquimbo Unido",
+                  "price": 1.971
+                },
+                {
+                  "name": "Everton de Vina del Mar",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "0ab427fdfc4dd4a7",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4919a575571c4ae83c925e4ea07406f6",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-21T21:00:00Z",
+      "home_team": "O'Higgins",
+      "away_team": "Universidad de Chile",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "O'Higgins",
+                  "price": 3.5
+                },
+                {
+                  "name": "Universidad de Chile",
+                  "price": 1.847
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "b07b213e2fd11889",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "8216ecbf6d00606cdf8e9f2bf40a2c9e",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-21T23:30:00Z",
+      "home_team": "Universidad de Concepcion",
+      "away_team": "Nublense",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Universidad de Concepcion",
+                  "price": 2.45
+                },
+                {
+                  "name": "Nublense",
+                  "price": 2.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.15
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "ff330aff9418578f",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "0db26c7218d7e8f98b081bec2d3bfced",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-22T23:30:00Z",
+      "home_team": "Deportes Limache",
+      "away_team": "Deportes La Serena",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Deportes Limache",
+                  "price": 2.07
+                },
+                {
+                  "name": "Deportes La Serena",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "b59fda6ba2abc125",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "8634c3f5bc9630e2a4dbc18621e1f4dd",
+      "sport_key": "soccer_chile_primera_division",
+      "sport_title": "soccer_chile_primera_division",
+      "commence_time": "2026-11-22T15:00:00Z",
+      "home_team": "Huachipato",
+      "away_team": "Deportes Concepcion",
+      "bookmakers": [
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-14T06:12:20Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-14T06:12:20Z",
+              "outcomes": [
+                {
+                  "name": "Huachipato",
+                  "price": 2.42
+                },
+                {
+                  "name": "Deportes Concepcion",
+                  "price": 2.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.15
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1794636740905,
+          "stale_seconds": 20.28
+        }
+      ],
+      "canonical_event_id": "9b0f951743da1739",
+      "commence_time_reported": true,
+      "sport_name": "Chile Primera Division",
       "sport_group": "Soccer"
     }
   ],
