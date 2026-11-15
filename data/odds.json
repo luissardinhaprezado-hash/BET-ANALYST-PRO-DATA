@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T22:19:07.947Z",
+  "generated_at": "2026-11-15T06:20:24.175Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 467,
+    "active_sports": 481,
     "updated_this_run": [
-      "soccer_sweden_elitettan",
-      "soccer_sweden_superettan"
+      "soccer_england_southern_south_league",
+      "soccer_english_league_a_2025_26"
     ],
     "region": "eu",
     "markets": [
@@ -486,6 +486,11 @@
       "group": "Basketball"
     },
     {
+      "key": "cricket_icc_women_s_emerging_nations_trophy",
+      "name": "Icc Women S Emerging Nations Trophy",
+      "group": "Cricket"
+    },
+    {
       "key": "cricket_international",
       "name": "International",
       "group": "Cricket"
@@ -503,6 +508,11 @@
     {
       "key": "cricket_odi",
       "name": "ODI",
+      "group": "Cricket"
+    },
+    {
+      "key": "cricket_one_day_internationals",
+      "name": "One Day Internationals",
       "group": "Cricket"
     },
     {
@@ -568,6 +578,11 @@
     {
       "key": "soccer_algeria_u20_league",
       "name": "Algeria U20 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_andorra_second_division",
+      "name": "Andorra Second Division",
       "group": "Soccer"
     },
     {
@@ -871,6 +886,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_chile_tercera_division_a",
+      "name": "Chile Tercera Division A",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_china_league_one",
       "name": "China League One",
       "group": "Soccer"
@@ -998,6 +1018,11 @@
     {
       "key": "soccer_czech_republic_u19_league",
       "name": "Czech Republic U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_1st_division",
+      "name": "Denmark 1st Division",
       "group": "Soccer"
     },
     {
@@ -1223,6 +1248,11 @@
     {
       "key": "soccer_friendlies_u23",
       "name": "Friendlies U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_georgia_erovnuli_liga",
+      "name": "Georgia Erovnuli Liga",
       "group": "Soccer"
     },
     {
@@ -1551,6 +1581,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_myanmar_national_league_u20",
+      "name": "Myanmar National League U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_nations_league_matches",
       "name": "Nations League Matches",
       "group": "Soccer"
@@ -1623,6 +1658,11 @@
     {
       "key": "soccer_norway_division_2",
       "name": "Norway Division 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_norway_toppserien",
+      "name": "Norway Toppserien",
       "group": "Soccer"
     },
     {
@@ -1733,6 +1773,11 @@
     {
       "key": "soccer_poland_u19_league",
       "name": "Poland U19 League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_campeonato_de_portugal",
+      "name": "Portugal Campeonato de Portugal",
       "group": "Soccer"
     },
     {
@@ -1858,6 +1903,11 @@
     {
       "key": "soccer_sierra_leone_premier_league",
       "name": "Sierra Leone Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_singapore_nfl_division_1",
+      "name": "Singapore NFL Division 1",
       "group": "Soccer"
     },
     {
@@ -2181,6 +2231,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_kobe_2026",
+      "name": "ATP Challenger Kobe 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_lima_2026",
       "name": "ATP Challenger Lima 2026",
       "group": "Tennis"
@@ -2201,6 +2256,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_sydney_2026",
+      "name": "ATP Challenger Sydney 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_antalya_tur",
       "name": "ITF M15 Antalya TUR",
       "group": "Tennis"
@@ -2213,6 +2273,11 @@
     {
       "key": "tennis_itf_m15_hua_hin_tha",
       "name": "ITF M15 Hua Hin THA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_hua_hin_tha_q",
+      "name": "ITF M15 Hua Hin THA Q",
       "group": "Tennis"
     },
     {
@@ -2278,6 +2343,11 @@
     {
       "key": "tennis_itf_m25_vale_do_lobo_por",
       "name": "ITF M25 Vale Do Lobo POR",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_sydney",
+      "name": "ITF Sydney",
       "group": "Tennis"
     },
     {
