@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T18:47:03.093Z",
+  "generated_at": "2026-11-16T06:19:20.759Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 523,
+    "active_sports": 538,
     "updated_this_run": [
-      "soccer_saff_championship",
-      "soccer_saudi_arabia_division_2"
+      "soccer_wales_cup",
+      "soccer_wales_faw_championship"
     ],
     "region": "eu",
     "markets": [
@@ -476,6 +476,11 @@
       "group": "Disc Golf"
     },
     {
+      "key": "americanfootball_cfl",
+      "name": "CFL",
+      "group": "American Football"
+    },
+    {
       "key": "americanfootball_other",
       "name": "American Football (other competitions)",
       "group": "American Football"
@@ -484,6 +489,11 @@
       "key": "basketball_other",
       "name": "Basketball (other competitions)",
       "group": "Basketball"
+    },
+    {
+      "key": "cricket_australia_one_day_cup",
+      "name": "Australia One Day Cup",
+      "group": "Cricket"
     },
     {
       "key": "cricket_icc_women_s_emerging_nations_trophy",
@@ -708,6 +718,11 @@
     {
       "key": "soccer_belgium_first_amateur_division",
       "name": "Belgium First Amateur Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_first_division_b",
+      "name": "Belgium First Division B",
       "group": "Soccer"
     },
     {
@@ -1201,6 +1216,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_national_league_north",
+      "name": "England National League North",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_national_league_south",
+      "name": "England National League South",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_northern_premier_league",
       "name": "England Northern Premier League",
       "group": "Soccer"
@@ -1396,6 +1421,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_hong_kong_premier_league_u22",
+      "name": "Hong Kong Premier League U22",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_hungary_nb3",
       "name": "Hungary Nb3",
       "group": "Soccer"
@@ -1416,6 +1446,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_india_bangalore_super_division",
+      "name": "India Bangalore Super Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_india_i_league",
       "name": "India I League",
       "group": "Soccer"
@@ -1423,6 +1458,11 @@
     {
       "key": "soccer_india_super_league",
       "name": "India Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_india_womens_league",
+      "name": "India Womens League",
       "group": "Soccer"
     },
     {
@@ -1448,6 +1488,11 @@
     {
       "key": "soccer_international_friendlies_u23",
       "name": "International Friendlies U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_iran_azadegan_league",
+      "name": "Iran Azadegan League",
       "group": "Soccer"
     },
     {
@@ -2016,6 +2061,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_senegal_ligue_2",
+      "name": "Senegal Ligue 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_serbia_prva_liga",
       "name": "Serbia Prva Liga",
       "group": "Soccer"
@@ -2331,6 +2381,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_uruguay_reserve_league",
+      "name": "Uruguay Reserve League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uruguay_segunda_division",
       "name": "Uruguay Segunda Division",
       "group": "Soccer"
@@ -2348,6 +2403,11 @@
     {
       "key": "soccer_usa_usl_league_one",
       "name": "USA USL League One",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_usa_usl_super_league",
+      "name": "USA USL Super League",
       "group": "Soccer"
     },
     {
@@ -2481,6 +2541,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_kuala_lumpur_mas_q",
+      "name": "ITF M15 Kuala Lumpur Mas Q",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_las_palmas_de_gran_canaria_esp",
       "name": "ITF M15 Las Palmas de Gran Canaria ESP",
       "group": "Tennis"
@@ -2513,6 +2578,11 @@
     {
       "key": "tennis_itf_m15_zamora_mex",
       "name": "ITF M15 Zamora MEX",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_bhubaneswar_ind_q",
+      "name": "ITF M25 Bhubaneswar IND Q",
       "group": "Tennis"
     },
     {
@@ -2618,6 +2688,11 @@
     {
       "key": "tennis_itf_w75_brisbane_aus",
       "name": "ITF W75 Brisbane Aus",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_sydney_aus_q",
+      "name": "ITF W75 Sydney Aus Q",
       "group": "Tennis"
     },
     {
