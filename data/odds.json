@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T21:57:22.957Z",
+  "generated_at": "2026-11-17T07:49:34.151Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 539,
+    "active_sports": 546,
     "updated_this_run": [
-      "soccer_chile_segunda_division",
-      "soccer_chile_tercera_division"
+      "soccer_czech_republic_league",
+      "soccer_czech_republic_u19"
     ],
     "region": "eu",
     "markets": [
@@ -566,6 +566,11 @@
       "group": "Mixed Martial Arts"
     },
     {
+      "key": "motorsports",
+      "name": "Motorsports (all competitions)",
+      "group": "Motorsports"
+    },
+    {
       "key": "other_esports",
       "name": "Esports",
       "group": "Other"
@@ -578,6 +583,11 @@
     {
       "key": "soccer_africa_cup_of_nations_u23",
       "name": "Africa Cup of Nations U23",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_algeria_1st_division",
+      "name": "Algeria 1st Division",
       "group": "Soccer"
     },
     {
@@ -626,6 +636,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_argentina_primera_division_reserves",
+      "name": "Argentina Primera Division Reserves",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_argentina_primera_nacional",
       "name": "Argentina Primera Nacional",
       "group": "Soccer"
@@ -658,6 +673,11 @@
     {
       "key": "soccer_aruba_division_di_honor",
       "name": "Aruba Division Di Honor",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_asean_club_championship",
+      "name": "Asean Club Championship",
       "group": "Soccer"
     },
     {
@@ -788,11 +808,6 @@
     {
       "key": "soccer_brazil_copa_santa_catarina",
       "name": "Brazil Copa Santa Catarina",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_brazil_mineiro_3",
-      "name": "Brazil Mineiro 3",
       "group": "Soccer"
     },
     {
@@ -1011,6 +1026,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_croatia_druga_nl",
+      "name": "Croatia Druga Nl",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_croatia_hnl",
       "name": "Croatia Hnl",
       "group": "Soccer"
@@ -1113,6 +1133,11 @@
     {
       "key": "soccer_egypt_2nd_division_b",
       "name": "Egypt 2nd Division B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_egypt_cup",
+      "name": "Egypt Cup",
       "group": "Soccer"
     },
     {
@@ -1491,11 +1516,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_iraq_first_division",
-      "name": "Iraq First Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_iraq_premier_division",
       "name": "Iraq Premier Division",
       "group": "Soccer"
@@ -1678,11 +1698,6 @@
     {
       "key": "soccer_mexico_liga_premier",
       "name": "Mexico Liga Premier",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_mexico_liga_premier_serie_a",
-      "name": "Mexico Liga Premier Serie A",
       "group": "Soccer"
     },
     {
@@ -1983,11 +1998,6 @@
     {
       "key": "soccer_saudi_arabia_professional_league",
       "name": "Saudi Arabia Professional League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_scotland_highland_league",
-      "name": "Scotland Highland League",
       "group": "Soccer"
     },
     {
@@ -2471,6 +2481,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_antalya_tur_q",
+      "name": "ITF M15 Antalya TUR Q",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_heraklion_gre",
       "name": "ITF M15 Heraklion GRE",
       "group": "Tennis"
@@ -2546,6 +2561,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m25_bhubaneswar_ind",
+      "name": "ITF M25 Bhubaneswar IND",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m25_bhubaneswar_ind_q",
       "name": "ITF M25 Bhubaneswar IND Q",
       "group": "Tennis"
@@ -2563,6 +2583,11 @@
     {
       "key": "tennis_itf_m25_columbus_usa",
       "name": "ITF M25 Columbus USA",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_heraklion_gre_q",
+      "name": "ITF M25 Heraklion GRE Q",
       "group": "Tennis"
     },
     {
@@ -2603,6 +2628,11 @@
     {
       "key": "tennis_itf_w15_antalya_tur",
       "name": "ITF W15 Antalya TUR",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_antalya_tur_q",
+      "name": "ITF W15 Antalya TUR Q",
       "group": "Tennis"
     },
     {
@@ -2688,6 +2718,11 @@
     {
       "key": "tennis_itf_w75_brisbane_aus",
       "name": "ITF W75 Brisbane Aus",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_sydney_aus",
+      "name": "ITF W75 Sydney Aus",
       "group": "Tennis"
     },
     {
