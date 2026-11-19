@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T20:26:59.052Z",
+  "generated_at": "2026-11-19T07:17:25.445Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 378,
+    "active_sports": 382,
     "updated_this_run": [
-      "soccer_segunda",
-      "soccer_segunda_division_rfef"
+      "soccer_colombia_primera_a",
+      "soccer_costa_rica_primera_division"
     ],
     "region": "eu",
     "markets": [
@@ -476,11 +476,6 @@
       "group": "Disc Golf"
     },
     {
-      "key": "americanfootball_cfl",
-      "name": "CFL",
-      "group": "American Football"
-    },
-    {
       "key": "americanfootball_other",
       "name": "American Football (other competitions)",
       "group": "American Football"
@@ -591,18 +586,13 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_argentina_primera_c_metropolitana_reserves",
+      "name": "Argentina Primera C Metropolitana Reserves",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_argentina_primera_division_reserves",
       "name": "Argentina Primera Division Reserves",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_argentina_primera_nacional",
-      "name": "Argentina Primera Nacional",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_argentina_regional",
-      "name": "Argentina Regional",
       "group": "Soccer"
     },
     {
@@ -646,6 +636,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_azerbaijan_first_division",
+      "name": "Azerbaijan First Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_azerbaijan_premier_league",
       "name": "Azerbaijan Premier League",
       "group": "Soccer"
@@ -658,6 +653,11 @@
     {
       "key": "soccer_bolivia_copa_division_profesional",
       "name": "Bolivia Copa Division Profesional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bosnia_herzegovina_prva_liga",
+      "name": "Bosnia Herzegovina Prva Liga",
       "group": "Soccer"
     },
     {
@@ -688,6 +688,11 @@
     {
       "key": "soccer_brazil_women_leagues",
       "name": "Brazil Women Leagues",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_bulgaria_second_league",
+      "name": "Bulgaria Second League",
       "group": "Soccer"
     },
     {
@@ -856,11 +861,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_el_salvador_primera_division",
-      "name": "El Salvador Primera Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_el_salvador_reserve_league",
       "name": "El Salvador Reserve League",
       "group": "Soccer"
@@ -1016,11 +1016,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_guatemala_liga_nacional",
-      "name": "Guatemala Liga Nacional",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_guatemala_segunda_division",
       "name": "Guatemala Segunda Division",
       "group": "Soccer"
@@ -1091,6 +1086,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_iraq_iraqi_stars_league",
+      "name": "Iraq Iraqi Stars League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_japan_empowerment_league",
       "name": "Japan Empowerment League",
       "group": "Soccer"
@@ -1098,6 +1098,11 @@
     {
       "key": "soccer_japan_j_league_2",
       "name": "Japan J League 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_j_league_3",
+      "name": "Japan J League 3",
       "group": "Soccer"
     },
     {
@@ -1126,6 +1131,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_kuwait_1st_division",
+      "name": "Kuwait 1st Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_lebanon_premier_league",
       "name": "Lebanon Premier League",
       "group": "Soccer"
@@ -1151,6 +1161,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_malawi_premiership",
+      "name": "Malawi Premiership",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_malaysia_super_league",
+      "name": "Malaysia Super League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_mali_premier_division",
       "name": "Mali Premier Division",
       "group": "Soccer"
@@ -1168,11 +1188,6 @@
     {
       "key": "soccer_mexico_liga_de_expansion_mx",
       "name": "Mexico Liga de Expansion Mx",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_mexico_liga_mx_femenil",
-      "name": "Mexico Liga Mx Femenil",
       "group": "Soccer"
     },
     {
@@ -1196,6 +1211,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_new_zealand_premiership",
+      "name": "New Zealand Premiership",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_nicaragua_primera_division",
+      "name": "Nicaragua Primera Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_niger_super_league",
       "name": "Niger Super League",
       "group": "Soccer"
@@ -1211,6 +1236,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_north_macedonia_first_league",
+      "name": "North Macedonia First League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_northern_ireland_championship",
       "name": "Northern Ireland Championship",
       "group": "Soccer"
@@ -1223,21 +1253,6 @@
     {
       "key": "soccer_panama_liga_prom",
       "name": "Panama Liga Prom",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_paraguay_copa_paraguay",
-      "name": "Paraguay Copa Paraguay",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_paraguay_cup",
-      "name": "Paraguay Cup",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_peru_copa_de_la_liga",
-      "name": "Peru Copa de La Liga",
       "group": "Soccer"
     },
     {
@@ -1386,6 +1401,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_slovakia_cup",
+      "name": "Slovakia Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_slovakia_super_liga",
       "name": "Slovakia Super Liga",
       "group": "Soccer"
@@ -1398,6 +1418,11 @@
     {
       "key": "soccer_slovenia_nagometna_liga_women",
       "name": "Slovenia Nagometna Liga Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_south_africa_premier_league",
+      "name": "South Africa Premier League",
       "group": "Soccer"
     },
     {
@@ -1418,11 +1443,6 @@
     {
       "key": "soccer_spain_copa_de_la_reina",
       "name": "Spain Copa de La Reina",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_suriname_major_league",
-      "name": "Suriname Major League",
       "group": "Soccer"
     },
     {
@@ -1491,6 +1511,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_uae_division_1",
+      "name": "UAE Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uae_u21_league",
+      "name": "UAE U21 League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uefa_conference_league",
       "name": "UEFA Conference League",
       "group": "Soccer"
@@ -1551,8 +1581,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_usa_usl_super_league",
-      "name": "USA USL Super League",
+      "key": "soccer_uzbekistan_pfl",
+      "name": "Uzbekistan Pfl",
       "group": "Soccer"
     },
     {
@@ -1611,11 +1641,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_lima_2026",
-      "name": "ATP Challenger Lima 2026",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_atp_challenger_montevideo_2026",
       "name": "ATP Challenger Montevideo 2026",
       "group": "Tennis"
@@ -1648,11 +1673,6 @@
     {
       "key": "tennis_itf_m15_hua_hin_tha",
       "name": "ITF M15 Hua Hin THA",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m15_hua_hin_tha_q",
-      "name": "ITF M15 Hua Hin THA Q",
       "group": "Tennis"
     },
     {
@@ -14310,1358 +14330,6 @@
       "canonical_event_id": "268d5a844420b3f6",
       "commence_time_reported": true,
       "sport_name": "Liga Portugal",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "103aa6ce4736f09795555574bbd4e30e",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T23:10:00Z",
-      "home_team": "Deportes Tolima",
-      "away_team": "Millonarios",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:45:35Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Deportes Tolima",
-                  "price": 2.23
-                },
-                {
-                  "name": "Millonarios",
-                  "price": 3.48
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.17
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.926,
-                  "point": 2.25
-                },
-                {
-                  "name": "Under",
-                  "price": 1.893,
-                  "point": 2.25
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Deportes Tolima",
-                  "price": 1.901,
-                  "point": -0.25
-                },
-                {
-                  "name": "Millonarios",
-                  "price": 1.935,
-                  "point": 0.25
-                }
-              ]
-            }
-          ],
-          "last_update_ms": 1794116735000,
-          "stale_seconds": 577.42
-        }
-      ],
-      "canonical_event_id": "2035f6ab740518db",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "0fd308e729a300f7",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T23:10:00Z",
-      "home_team": "Deportes Tolima (Corners)",
-      "away_team": "Millonarios (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.82,
-                  "point": 9
-                },
-                {
-                  "name": "Under",
-                  "price": 1.901,
-                  "point": 9
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Deportes Tolima (Corners)",
-                  "price": 1.794,
-                  "point": -1
-                },
-                {
-                  "name": "Millonarios (Corners)",
-                  "price": 1.926,
-                  "point": 1
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "0fd308e729a300f7",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "a929c13e02d94dbb9bad1e8ceea15a29",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T19:00:00Z",
-      "home_team": "Independiente Santa Fe",
-      "away_team": "Deportivo Pasto",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.926,
-                  "point": 3.75
-                },
-                {
-                  "name": "Under",
-                  "price": 1.775,
-                  "point": 3.75
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Independiente Santa Fe",
-                  "price": 1.885,
-                  "point": -2.75
-                },
-                {
-                  "name": "Deportivo Pasto",
-                  "price": 1.82,
-                  "point": 2.75
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "08a1bf14fddfb332",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "5b1496db2c02b997",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T19:00:00Z",
-      "home_team": "Independiente Santa Fe (Corners)",
-      "away_team": "Deportivo Pasto (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.775,
-                  "point": 8.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.943,
-                  "point": 8.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Independiente Santa Fe (Corners)",
-                  "price": 1.952,
-                  "point": -2.5
-                },
-                {
-                  "name": "Deportivo Pasto (Corners)",
-                  "price": 1.758,
-                  "point": 2.5
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "5b1496db2c02b997",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "b0e39025235f42f103448761b9b5bc15",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T21:05:00Z",
-      "home_team": "Jaguares de Cordoba",
-      "away_team": "Atletico Bucaramanga",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:45:35Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Jaguares de Cordoba",
-                  "price": 3.64
-                },
-                {
-                  "name": "Atletico Bucaramanga",
-                  "price": 1.935
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.84
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.84,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.99,
-                  "point": 2.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Jaguares de Cordoba",
-                  "price": 1.901,
-                  "point": 0.5
-                },
-                {
-                  "name": "Atletico Bucaramanga",
-                  "price": 1.935,
-                  "point": -0.5
-                }
-              ]
-            }
-          ],
-          "last_update_ms": 1794116735000,
-          "stale_seconds": 577.42
-        }
-      ],
-      "canonical_event_id": "a58ac5bf1ef0f285",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "4bfcc538f4a9722a",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-08T21:05:00Z",
-      "home_team": "Jaguares de Cordoba (Corners)",
-      "away_team": "Atletico Bucaramanga (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.87,
-                  "point": 9
-                },
-                {
-                  "name": "Under",
-                  "price": 1.855,
-                  "point": 9
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Jaguares de Cordoba (Corners)",
-                  "price": 1.877,
-                  "point": 0
-                },
-                {
-                  "name": "Atletico Bucaramanga (Corners)",
-                  "price": 1.833,
-                  "point": 0
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "4bfcc538f4a9722a",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "9717b4fbcc77f8a731b5a2c86d78c786",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-09T01:15:00Z",
-      "home_team": "Alianza Valledupar",
-      "away_team": "Llaneros",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Alianza Valledupar",
-                  "price": 2.19
-                },
-                {
-                  "name": "Llaneros",
-                  "price": 3.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.17
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.909,
-                  "point": 2.25
-                },
-                {
-                  "name": "Under",
-                  "price": 1.909,
-                  "point": 2.25
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Alianza Valledupar",
-                  "price": 1.87,
-                  "point": -0.25
-                },
-                {
-                  "name": "Llaneros",
-                  "price": 1.971,
-                  "point": 0.25
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "985d3bb2089c462b",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "882b28d100efdc39",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-09T01:15:00Z",
-      "home_team": "Alianza Valledupar (Corners)",
-      "away_team": "Llaneros (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.935,
-                  "point": 10
-                },
-                {
-                  "name": "Under",
-                  "price": 1.775,
-                  "point": 10
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Alianza Valledupar (Corners)",
-                  "price": 1.901,
-                  "point": -1
-                },
-                {
-                  "name": "Llaneros (Corners)",
-                  "price": 1.806,
-                  "point": 1
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "882b28d100efdc39",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "8c996323827c571edf99c661e45c6e8f",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-10T00:00:00Z",
-      "home_team": "Junior de Barranquilla",
-      "away_team": "Cucuta Deportivo",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Junior de Barranquilla",
-                  "price": 1.568
-                },
-                {
-                  "name": "Cucuta Deportivo",
-                  "price": 5.13
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.8,
-                  "point": 2.75
-                },
-                {
-                  "name": "Under",
-                  "price": 1.99,
-                  "point": 2.75
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Junior de Barranquilla",
-                  "price": 1.943,
-                  "point": -1
-                },
-                {
-                  "name": "Cucuta Deportivo",
-                  "price": 1.862,
-                  "point": 1
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "472b286bf2a5d374",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "b4d0555bb89e4235",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-10T00:00:00Z",
-      "home_team": "Junior de Barranquilla (Corners)",
-      "away_team": "Cucuta Deportivo (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.8,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.909,
-                  "point": 9.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Junior de Barranquilla (Corners)",
-                  "price": 1.952,
-                  "point": -2.5
-                },
-                {
-                  "name": "Cucuta Deportivo (Corners)",
-                  "price": 1.758,
-                  "point": 2.5
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "b4d0555bb89e4235",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "8dcb384d8b883138f832e6b0c0cf0a64",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-12T21:00:00Z",
-      "home_team": "Aguilas Doradas",
-      "away_team": "Independiente Medellin",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:45:35Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Aguilas Doradas",
-                  "price": 2.39
-                },
-                {
-                  "name": "Independiente Medellin",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.952,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.84,
-                  "point": 2.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Aguilas Doradas",
-                  "price": 2.04,
-                  "point": -0.25
-                },
-                {
-                  "name": "Independiente Medellin",
-                  "price": 1.781,
-                  "point": 0.25
-                }
-              ]
-            }
-          ],
-          "last_update_ms": 1794116735000,
-          "stale_seconds": 577.42
-        }
-      ],
-      "canonical_event_id": "90ace9012af9f8d9",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "d81bfd66d3786906a09d2ed2f2ee05af",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-12T21:00:00Z",
-      "home_team": "Atletico Nacional",
-      "away_team": "Once Caldas",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Atletico Nacional",
-                  "price": 1.69
-                },
-                {
-                  "name": "Once Caldas",
-                  "price": 4.79
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.76
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.99,
-                  "point": 2.75
-                },
-                {
-                  "name": "Under",
-                  "price": 1.806,
-                  "point": 2.75
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Atletico Nacional",
-                  "price": 1.893,
-                  "point": -0.75
-                },
-                {
-                  "name": "Once Caldas",
-                  "price": 1.909,
-                  "point": 0.75
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "48b1050565b419f1",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "b859054cc0a244103eee5f105206bcdf",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "Colombia Primera A",
-      "commence_time": "2026-11-12T21:00:00Z",
-      "home_team": "Deportivo Pereira",
-      "away_team": "America de Cali",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:44:52Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Deportivo Pereira",
-                  "price": 5
-                },
-                {
-                  "name": "America de Cali",
-                  "price": 1.704
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.59
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.99,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.806,
-                  "point": 2.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:44:52Z",
-              "outcomes": [
-                {
-                  "name": "Deportivo Pereira",
-                  "price": 1.893,
-                  "point": 0.75
-                },
-                {
-                  "name": "America de Cali",
-                  "price": 1.909,
-                  "point": -0.75
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116692000,
-          "stale_seconds": 620.42
-        }
-      ],
-      "canonical_event_id": "0e036a4e4ab63cb5",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "8789c9bf29094e83",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "soccer_colombia_primera_a_corners",
-      "commence_time": "2026-11-09T01:15:00Z",
-      "home_team": "Alianza Valledupar (Corners)",
-      "away_team": "Llaneros (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:29:47Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:29:47Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.935,
-                  "point": 10
-                },
-                {
-                  "name": "Under",
-                  "price": 1.775,
-                  "point": 10
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:29:47Z",
-              "outcomes": [
-                {
-                  "name": "Alianza Valledupar (Corners)",
-                  "price": 1.901,
-                  "point": -1
-                },
-                {
-                  "name": "Llaneros (Corners)",
-                  "price": 1.806,
-                  "point": 1
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794115787000,
-          "stale_seconds": 1525.42
-        }
-      ],
-      "canonical_event_id": "8789c9bf29094e83",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "3a3c2dcaefd13faf",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "soccer_colombia_primera_a_corners",
-      "commence_time": "2026-11-08T23:10:00Z",
-      "home_team": "Deportes Tolima (Corners)",
-      "away_team": "Millonarios (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:00:37Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:00:37Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.82,
-                  "point": 9
-                },
-                {
-                  "name": "Under",
-                  "price": 1.901,
-                  "point": 9
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:00:37Z",
-              "outcomes": [
-                {
-                  "name": "Deportes Tolima (Corners)",
-                  "price": 1.794,
-                  "point": -1
-                },
-                {
-                  "name": "Millonarios (Corners)",
-                  "price": 1.926,
-                  "point": 1
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794114037000,
-          "stale_seconds": 3275.43
-        }
-      ],
-      "canonical_event_id": "3a3c2dcaefd13faf",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "4b870337e21eb56a",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "soccer_colombia_primera_a_corners",
-      "commence_time": "2026-11-08T19:00:00Z",
-      "home_team": "Independiente Santa Fe (Corners)",
-      "away_team": "Deportivo Pasto (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:31:10Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:31:10Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.775,
-                  "point": 8.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.943,
-                  "point": 8.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:31:10Z",
-              "outcomes": [
-                {
-                  "name": "Independiente Santa Fe (Corners)",
-                  "price": 1.952,
-                  "point": -2.5
-                },
-                {
-                  "name": "Deportivo Pasto (Corners)",
-                  "price": 1.758,
-                  "point": 2.5
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794115870000,
-          "stale_seconds": 1442.42
-        }
-      ],
-      "canonical_event_id": "4b870337e21eb56a",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "5f91f45fc242d145",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "soccer_colombia_primera_a_corners",
-      "commence_time": "2026-11-08T21:05:00Z",
-      "home_team": "Jaguares de Cordoba (Corners)",
-      "away_team": "Atletico Bucaramanga (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:31:10Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:31:10Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.87,
-                  "point": 9
-                },
-                {
-                  "name": "Under",
-                  "price": 1.855,
-                  "point": 9
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:31:10Z",
-              "outcomes": [
-                {
-                  "name": "Jaguares de Cordoba (Corners)",
-                  "price": 1.877,
-                  "point": 0
-                },
-                {
-                  "name": "Atletico Bucaramanga (Corners)",
-                  "price": 1.833,
-                  "point": 0
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794115870000,
-          "stale_seconds": 1442.42
-        }
-      ],
-      "canonical_event_id": "5f91f45fc242d145",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "8cf78193e41c008c",
-      "sport_key": "soccer_colombia_primera_a",
-      "sport_title": "soccer_colombia_primera_a_corners",
-      "commence_time": "2026-11-10T00:00:00Z",
-      "home_team": "Junior de Barranquilla (Corners)",
-      "away_team": "Cucuta Deportivo (Corners)",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:43:25Z",
-          "markets": [
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:43:25Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.8,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.909,
-                  "point": 9.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:43:25Z",
-              "outcomes": [
-                {
-                  "name": "Junior de Barranquilla (Corners)",
-                  "price": 1.952,
-                  "point": -2.5
-                },
-                {
-                  "name": "Cucuta Deportivo (Corners)",
-                  "price": 1.758,
-                  "point": 2.5
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116605000,
-          "stale_seconds": 707.42
-        }
-      ],
-      "canonical_event_id": "8cf78193e41c008c",
-      "commence_time_reported": true,
-      "sport_name": "Colombia Primera A",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "58d9951dca49753d81b3785caff358fb",
-      "sport_key": "soccer_costa_rica_primera_division",
-      "sport_title": "Costa Rica Primera Division",
-      "commence_time": "2026-11-08T17:00:00Z",
-      "home_team": "Cartagines",
-      "away_team": "Escorpiones Belen",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:13:40Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:13:40Z",
-              "outcomes": [
-                {
-                  "name": "Cartagines",
-                  "price": 1.26
-                },
-                {
-                  "name": "Escorpiones Belen",
-                  "price": 9.97
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.14
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:38:04Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.725,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 2.12,
-                  "point": 3
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:13:40Z",
-              "outcomes": [
-                {
-                  "name": "Cartagines",
-                  "price": 1.935,
-                  "point": -1.75
-                },
-                {
-                  "name": "Escorpiones Belen",
-                  "price": 1.901,
-                  "point": 1.75
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794114820000,
-          "stale_seconds": 2493.21
-        }
-      ],
-      "canonical_event_id": "ba1faba51279ebd1",
-      "commence_time_reported": true,
-      "sport_name": "Costa Rica Primera Division",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "91e3dd3aac208375d6f1fd3452f51741",
-      "sport_key": "soccer_costa_rica_primera_division",
-      "sport_title": "Costa Rica Primera Division",
-      "commence_time": "2026-11-08T22:00:00Z",
-      "home_team": "Deportivo Saprissa",
-      "away_team": "Puntarenas",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:45:35Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Deportivo Saprissa",
-                  "price": 1.358
-                },
-                {
-                  "name": "Puntarenas",
-                  "price": 7.76
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.19
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.952,
-                  "point": 3
-                },
-                {
-                  "name": "Under",
-                  "price": 1.87,
-                  "point": 3
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:45:35Z",
-              "outcomes": [
-                {
-                  "name": "Deportivo Saprissa",
-                  "price": 2.03,
-                  "point": -1.5
-                },
-                {
-                  "name": "Puntarenas",
-                  "price": 1.82,
-                  "point": 1.5
-                }
-              ]
-            }
-          ],
-          "last_update_ms": 1794116735000,
-          "stale_seconds": 578.21
-        }
-      ],
-      "canonical_event_id": "1f5f0273818827ea",
-      "commence_time_reported": true,
-      "sport_name": "Costa Rica Primera Division",
-      "sport_group": "Soccer"
-    },
-    {
-      "id": "54f2035429f6f1c27b0eebc7226139fc",
-      "sport_key": "soccer_costa_rica_primera_division",
-      "sport_title": "Costa Rica Primera Division",
-      "commence_time": "2026-11-09T00:30:00Z",
-      "home_team": "Herediano",
-      "away_team": "Inter San Carlos",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-11-08T05:43:25Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-08T05:43:25Z",
-              "outcomes": [
-                {
-                  "name": "Herediano",
-                  "price": 1.637
-                },
-                {
-                  "name": "Inter San Carlos",
-                  "price": 5.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.05
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-08T05:43:25Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 1.885,
-                  "point": 2.5
-                },
-                {
-                  "name": "Under",
-                  "price": 1.935,
-                  "point": 2.5
-                }
-              ]
-            },
-            {
-              "key": "spreads",
-              "last_update": "2026-11-08T05:43:25Z",
-              "outcomes": [
-                {
-                  "name": "Herediano",
-                  "price": 1.813,
-                  "point": -0.75
-                },
-                {
-                  "name": "Inter San Carlos",
-                  "price": 2.03,
-                  "point": 0.75
-                }
-              ]
-            }
-          ],
-          "topped_up": true,
-          "last_update_ms": 1794116605000,
-          "stale_seconds": 708.21
-        }
-      ],
-      "canonical_event_id": "e1f495cc1ccc3bd0",
-      "commence_time_reported": true,
-      "sport_name": "Costa Rica Primera Division",
       "sport_group": "Soccer"
     },
     {
