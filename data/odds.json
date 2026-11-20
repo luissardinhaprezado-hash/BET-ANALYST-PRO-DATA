@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T07:06:25.059Z",
+  "generated_at": "2026-11-20T20:06:28.306Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 417,
+    "active_sports": 396,
     "updated_this_run": [
-      "soccer_mexico_liga_de_expansion_mx",
-      "soccer_mexico_liga_mx_femenil"
+      "soccer_serie_d_cup",
+      "soccer_seychelles_premier_league"
     ],
     "region": "eu",
     "markets": [
@@ -551,16 +551,6 @@
       "group": "Motorsports"
     },
     {
-      "key": "soccer_africa_cup_of_nations_qualifiers",
-      "name": "Africa Cup of Nations Qualifiers",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_africa_cup_of_nations_u23",
-      "name": "Africa Cup of Nations U23",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_albania_cup",
       "name": "Albania Cup",
       "group": "Soccer"
@@ -631,6 +621,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_aruba_division_di_honor",
+      "name": "Aruba Division Di Honor",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_asean_club_championship",
       "name": "Asean Club Championship",
       "group": "Soccer"
@@ -671,8 +666,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_belgium_division_1",
+      "name": "Belgium Division 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_first_amateur_division",
+      "name": "Belgium First Amateur Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_belgium_first_division_b",
       "name": "Belgium First Division B",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_belgium_reserves_league",
+      "name": "Belgium Reserves League",
       "group": "Soccer"
     },
     {
@@ -801,11 +811,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_colombia_liga_antioquena_de_futbol",
-      "name": "Colombia Liga Antioquena de Futbol",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_colombia_primera_b",
       "name": "Colombia Primera B",
       "group": "Soccer"
@@ -836,11 +841,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_croatia_druga_nl",
-      "name": "Croatia Druga Nl",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_croatia_hnl",
       "name": "Croatia Hnl",
       "group": "Soccer"
@@ -861,11 +861,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_czech_republic_3_liga",
-      "name": "Czech Republic 3 Liga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_czech_republic_first_league",
       "name": "Czech Republic First League",
       "group": "Soccer"
@@ -878,11 +873,6 @@
     {
       "key": "soccer_denmark_elitedivisionen",
       "name": "Denmark Elitedivisionen",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_denmark_reserves",
-      "name": "Denmark Reserves",
       "group": "Soccer"
     },
     {
@@ -941,11 +931,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_england_efl_trophy",
-      "name": "England EFL Trophy",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_england_fa_cup",
       "name": "England FA Cup",
       "group": "Soccer"
@@ -963,11 +948,6 @@
     {
       "key": "soccer_england_isthmian_league_division_one_south_central",
       "name": "England Isthmian League Division One South Central",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_england_isthmian_premier_division",
-      "name": "England Isthmian Premier Division",
       "group": "Soccer"
     },
     {
@@ -996,23 +976,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_england_northern_premier_league",
-      "name": "England Northern Premier League",
+      "key": "soccer_england_northern_league_division_one",
+      "name": "England Northern League Division One",
       "group": "Soccer"
     },
     {
       "key": "soccer_england_premier_league_cup_u21",
       "name": "England Premier League Cup U21",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_england_reserve_league",
-      "name": "England Reserve League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_england_southern_central_league",
-      "name": "England Southern Central League",
       "group": "Soccer"
     },
     {
@@ -1038,31 +1008,6 @@
     {
       "key": "soccer_euro_league_2026",
       "name": "Euro League 2026",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_friendlies",
-      "name": "Friendlies",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_friendlies_u19",
-      "name": "Friendlies U19",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_friendlies_u20",
-      "name": "Friendlies U20",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_friendlies_u21",
-      "name": "Friendlies U21",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_friendlies_u23",
-      "name": "Friendlies U23",
       "group": "Soccer"
     },
     {
@@ -1191,11 +1136,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_kings_cup",
-      "name": "Kings Cup",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_korea_kleague1",
       "name": "Korea Kleague1",
       "group": "Soccer"
@@ -1256,13 +1196,28 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_luxembourg_national_division",
+      "name": "Luxembourg National Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_malawi_premiership",
       "name": "Malawi Premiership",
       "group": "Soccer"
     },
     {
+      "key": "soccer_malaysia_liga_a1_semi_pro",
+      "name": "Malaysia Liga A1 Semi Pro",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_malaysia_super_league",
       "name": "Malaysia Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_mali_premier_division",
+      "name": "Mali Premier Division",
       "group": "Soccer"
     },
     {
@@ -1293,6 +1248,11 @@
     {
       "key": "soccer_montenegro_druga_liga",
       "name": "Montenegro Druga Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_montenegro_prva_liga",
+      "name": "Montenegro Prva Liga",
       "group": "Soccer"
     },
     {
@@ -1421,6 +1381,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_premier_league_international_cup",
+      "name": "Premier League International Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_primera_division_rfef",
       "name": "Primera Division RFEF",
       "group": "Soccer"
@@ -1468,11 +1433,6 @@
     {
       "key": "soccer_rwanda_national_league",
       "name": "Rwanda National League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_saff_championship",
-      "name": "Saff Championship",
       "group": "Soccer"
     },
     {
@@ -1586,11 +1546,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovenia_nagometna_liga_women",
-      "name": "Slovenia Nagometna Liga Women",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_slovenia_prva_liga",
       "name": "Slovenia Prva Liga",
       "group": "Soccer"
@@ -1633,6 +1588,11 @@
     {
       "key": "soccer_suriname_major_league",
       "name": "Suriname Major League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_division_1",
+      "name": "Sweden Division 1",
       "group": "Soccer"
     },
     {
@@ -1716,11 +1676,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_u20_leagues",
-      "name": "U20 Leagues",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_uae_arabian_gulf_league",
       "name": "UAE Arabian Gulf League",
       "group": "Soccer"
@@ -1753,16 +1708,6 @@
     {
       "key": "soccer_uefa_europa_league",
       "name": "UEFA Europa League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_uefa_european_championship_qualifiers_u21",
-      "name": "UEFA European Championship Qualifiers U21",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_uefa_european_championship_u19",
-      "name": "UEFA European Championship U19",
       "group": "Soccer"
     },
     {
@@ -1826,6 +1771,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_wales_faw_championship",
+      "name": "Wales Faw Championship",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_wales_premier_league",
       "name": "Wales Premier League",
       "group": "Soccer"
@@ -1866,6 +1816,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_metz_2026",
+      "name": "ATP Challenger Metz 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_montevideo_2026",
       "name": "ATP Challenger Montevideo 2026",
       "group": "Tennis"
@@ -1881,18 +1836,8 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_alcal_de_henares_esp_q",
-      "name": "ITF M15 Alcal de Henares ESP Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_m15_antalya_tur",
       "name": "ITF M15 Antalya TUR",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m15_antalya_tur_q",
-      "name": "ITF M15 Antalya TUR Q",
       "group": "Tennis"
     },
     {
@@ -1903,11 +1848,6 @@
     {
       "key": "tennis_itf_m15_kuala_lumpur_mas",
       "name": "ITF M15 Kuala Lumpur Mas",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m15_kuala_lumpur_mas_q",
-      "name": "ITF M15 Kuala Lumpur Mas Q",
       "group": "Tennis"
     },
     {
@@ -1946,11 +1886,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m15_sharm_elsheikh_egy_q",
-      "name": "ITF M15 Sharm Elsheikh EGY Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_m25_bhubaneswar_ind",
       "name": "ITF M25 Bhubaneswar IND",
       "group": "Tennis"
@@ -1976,11 +1911,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_heraklion_gre_q",
-      "name": "ITF M25 Heraklion GRE Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_m25_lajeado_bra",
       "name": "ITF M25 Lajeado BRA",
       "group": "Tennis"
@@ -1988,11 +1918,6 @@
     {
       "key": "tennis_itf_m25_monastir_tun",
       "name": "ITF M25 Monastir TUN",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m25_monastir_tun_q",
-      "name": "ITF M25 Monastir TUN Q",
       "group": "Tennis"
     },
     {
@@ -2006,28 +1931,13 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_alcala_de_henares_esp_q",
-      "name": "ITF W15 Alcala de Henares ESP Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_w15_antalya_tur",
       "name": "ITF W15 Antalya TUR",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w15_antalya_tur_q",
-      "name": "ITF W15 Antalya TUR Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_w15_monastir_tun",
       "name": "ITF W15 Monastir TUN",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w15_monastir_tun_q",
-      "name": "ITF W15 Monastir TUN Q",
       "group": "Tennis"
     },
     {
@@ -2038,11 +1948,6 @@
     {
       "key": "tennis_itf_w15_sharm_elsheikh_egy",
       "name": "ITF W15 Sharm Elsheikh EGY",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w15_sharm_elsheikh_egy_q",
-      "name": "ITF W15 Sharm Elsheikh EGY Q",
       "group": "Tennis"
     },
     {
@@ -2066,11 +1971,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_w50_funchal_por_q",
-      "name": "ITF W50 Funchal POR Q",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_w50_heraklion_gre",
       "name": "ITF W50 Heraklion GRE",
       "group": "Tennis"
@@ -2083,11 +1983,6 @@
     {
       "key": "tennis_itf_w75_trnava_svk",
       "name": "ITF W75 Trnava SVK",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w75_trnava_svk_q",
-      "name": "ITF W75 Trnava SVK Q",
       "group": "Tennis"
     },
     {
