@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T06:39:36.177Z",
+  "generated_at": "2026-11-22T19:31:42.897Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 430,
+    "active_sports": 438,
     "updated_this_run": [
-      "soccer_liberia_premier_league",
-      "soccer_ligue_1"
+      "soccer_india_super_league",
+      "soccer_india_womens_league"
     ],
     "region": "eu",
     "markets": [
@@ -601,28 +601,28 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_argentina_primera_b_metropolitana_reserves",
-      "name": "Argentina Primera B Metropolitana Reserves",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_argentina_primera_c",
       "name": "Argentina Primera C",
       "group": "Soccer"
     },
     {
-      "key": "soccer_argentina_primera_c_metropolitana_reserves",
-      "name": "Argentina Primera C Metropolitana Reserves",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_argentina_primera_division_reserves",
-      "name": "Argentina Primera Division Reserves",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_argentina_primera_nacional",
       "name": "Argentina Primera Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_regional",
+      "name": "Argentina Regional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_torneo_federal",
+      "name": "Argentina Torneo Federal",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_u20",
+      "name": "Argentina U20",
       "group": "Soccer"
     },
     {
@@ -638,11 +638,6 @@
     {
       "key": "soccer_aruba_division_di_honor",
       "name": "Aruba Division Di Honor",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_asean_club_championship",
-      "name": "Asean Club Championship",
       "group": "Soccer"
     },
     {
@@ -746,6 +741,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_copa_santa_catarina",
+      "name": "Brazil Copa Santa Catarina",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_serie_a",
       "name": "Brazil Serie A",
       "group": "Soccer"
@@ -843,11 +843,6 @@
     {
       "key": "soccer_china_super_league",
       "name": "China Super League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_club_friendlies",
-      "name": "Club Friendlies",
       "group": "Soccer"
     },
     {
@@ -976,6 +971,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_development_league",
+      "name": "England Development League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_efl_cup",
       "name": "England EFL Cup",
       "group": "Soccer"
@@ -1061,6 +1061,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_estonia_esiliiga",
+      "name": "Estonia Esiliiga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_estonia_meistriliiga",
       "name": "Estonia Meistriliiga",
       "group": "Soccer"
@@ -1093,6 +1098,11 @@
     {
       "key": "soccer_georgia_erovnuli_liga_2",
       "name": "Georgia Erovnuli Liga 2",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_germany_bundesliga_2",
+      "name": "Germany Bundesliga 2",
       "group": "Soccer"
     },
     {
@@ -1141,6 +1151,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_hong_kong_2nd_division",
+      "name": "Hong Kong 2nd Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_hong_kong_3rd_division",
       "name": "Hong Kong 3rd Division",
       "group": "Soccer"
@@ -1168,6 +1183,11 @@
     {
       "key": "soccer_india_calcuta_1st_division",
       "name": "India Calcuta 1st Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_india_delhi_senior_division",
+      "name": "India Delhi Senior Division",
       "group": "Soccer"
     },
     {
@@ -1206,8 +1226,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_israel_premier_league",
+      "name": "Israel Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_ivory_coast_ligue_1",
       "name": "Ivory Coast Ligue 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_ivory_coast_ligue_2",
+      "name": "Ivory Coast Ligue 2",
       "group": "Soccer"
     },
     {
@@ -1261,11 +1291,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_kuwait_1st_division",
-      "name": "Kuwait 1st Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_kuwait_crown_prince_cup",
       "name": "Kuwait Crown Prince Cup",
       "group": "Soccer"
@@ -1283,11 +1308,6 @@
     {
       "key": "soccer_leinster_senior_league",
       "name": "Leinster Senior League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_liberia_premier_league",
-      "name": "Liberia Premier League",
       "group": "Soccer"
     },
     {
@@ -1501,6 +1521,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_peru_segunda_division",
+      "name": "Peru Segunda Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_poland_i_liga",
       "name": "Poland I Liga",
       "group": "Soccer"
@@ -1601,6 +1626,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_saudi_arabia_division_1",
+      "name": "Saudi Arabia Division 1",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_saudi_arabia_division_2",
       "name": "Saudi Arabia Division 2",
       "group": "Soccer"
@@ -1681,11 +1711,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovakia_cup",
-      "name": "Slovakia Cup",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_slovakia_super_liga",
       "name": "Slovakia Super Liga",
       "group": "Soccer"
@@ -1716,6 +1741,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_south_africa_league_cup",
+      "name": "South Africa League Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_south_africa_premier_league",
       "name": "South Africa Premier League",
       "group": "Soccer"
@@ -1728,11 +1758,6 @@
     {
       "key": "soccer_south_korea_k_league_2",
       "name": "South Korea K League 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_spain_copa_de_la_reina",
-      "name": "Spain Copa de La Reina",
       "group": "Soccer"
     },
     {
@@ -1796,11 +1821,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_thailand_championship_u21",
-      "name": "Thailand Championship U21",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_thailand_division_2",
       "name": "Thailand Division 2",
       "group": "Soccer"
@@ -1841,6 +1861,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_u20_leagues",
+      "name": "U20 Leagues",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uae_arabian_gulf_league",
       "name": "UAE Arabian Gulf League",
       "group": "Soccer"
@@ -1853,11 +1878,6 @@
     {
       "key": "soccer_uae_reserve_league",
       "name": "UAE Reserve League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_uae_u21_league",
-      "name": "UAE U21 League",
       "group": "Soccer"
     },
     {
@@ -1981,6 +2001,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_hersonissos_2026",
+      "name": "ATP Challenger Hersonissos 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_kobe_2026",
       "name": "ATP Challenger Kobe 2026",
       "group": "Tennis"
@@ -1988,6 +2013,11 @@
     {
       "key": "tennis_atp_challenger_metz_2026",
       "name": "ATP Challenger Metz 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_atp_challenger_monastir_2026",
+      "name": "ATP Challenger Monastir 2026",
       "group": "Tennis"
     },
     {
@@ -2143,6 +2173,16 @@
     {
       "key": "tennis_itf_w50_heraklion_gre",
       "name": "ITF W50 Heraklion GRE",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w50_ortisei_ita_q",
+      "name": "ITF W50 Ortisei ITA Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_florian_polis_bra_q",
+      "name": "ITF W75 Florian Polis BRA Q",
       "group": "Tennis"
     },
     {
