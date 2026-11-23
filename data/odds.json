@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T19:31:42.897Z",
+  "generated_at": "2026-11-23T07:28:07.705Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 438,
+    "active_sports": 446,
     "updated_this_run": [
-      "soccer_india_super_league",
-      "soccer_india_womens_league"
+      "soccer_saudi_arabia_professional_league",
+      "soccer_scotland_league_one"
     ],
     "region": "eu",
     "markets": [
@@ -556,11 +556,6 @@
       "group": "Mixed Martial Arts"
     },
     {
-      "key": "motorsports",
-      "name": "Motorsports (all competitions)",
-      "group": "Motorsports"
-    },
-    {
       "key": "soccer_afc_champions_league_elite",
       "name": "AFC Champions League Elite",
       "group": "Soccer"
@@ -801,6 +796,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_cameroon_national_championship",
+      "name": "Cameroon National Championship",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_campeonato_carioca_2",
       "name": "Campeonato Carioca 2",
       "group": "Soccer"
@@ -808,6 +808,11 @@
     {
       "key": "soccer_canada_premier_league",
       "name": "Canada Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_chile_cup",
+      "name": "Chile Cup",
       "group": "Soccer"
     },
     {
@@ -843,6 +848,11 @@
     {
       "key": "soccer_china_super_league",
       "name": "China Super League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_colombia_liga_antioquena_de_futbol",
+      "name": "Colombia Liga Antioquena de Futbol",
       "group": "Soccer"
     },
     {
@@ -921,6 +931,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_denmark_league_u19",
+      "name": "Denmark League U19",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_denmark_reserves",
+      "name": "Denmark Reserves",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_dfb_pokal",
       "name": "DFB Pokal",
       "group": "Soccer"
@@ -963,11 +983,6 @@
     {
       "key": "soccer_el_salvador_reserve_league",
       "name": "El Salvador Reserve League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_el_salvador_segunda_division",
-      "name": "El Salvador Segunda Division",
       "group": "Soccer"
     },
     {
@@ -1216,6 +1231,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_iran_azadegan_league",
+      "name": "Iran Azadegan League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_iran_pro_league",
       "name": "Iran Pro League",
       "group": "Soccer"
@@ -1271,8 +1291,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_jordan_league_u20",
+      "name": "Jordan League U20",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_kenya_premier_league",
       "name": "Kenya Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_kenya_super_league",
+      "name": "Kenya Super League",
       "group": "Soccer"
     },
     {
@@ -1726,6 +1756,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_slovenia_mladinska_liga",
+      "name": "Slovenia Mladinska Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_slovenia_prva_liga",
       "name": "Slovenia Prva Liga",
       "group": "Soccer"
@@ -1836,6 +1871,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_tunisia_2nd_league",
+      "name": "Tunisia 2nd League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_tunisia_ligue_1",
       "name": "Tunisia Ligue 1",
       "group": "Soccer"
@@ -1936,11 +1976,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_venezuela_copa_venezuela",
-      "name": "Venezuela Copa Venezuela",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_venezuela_primera_division",
       "name": "Venezuela Primera Division",
       "group": "Soccer"
@@ -1968,11 +2003,6 @@
     {
       "key": "soccer_wales_premier_league",
       "name": "Wales Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_women_uefa_champions_league",
-      "name": "Women UEFA Champions League",
       "group": "Soccer"
     },
     {
@@ -2086,6 +2116,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m25_bhopal_ind_q",
+      "name": "ITF M25 Bhopal IND Q",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m25_bhubaneswar_ind",
       "name": "ITF M25 Bhubaneswar IND",
       "group": "Tennis"
@@ -2183,6 +2218,11 @@
     {
       "key": "tennis_itf_w75_florian_polis_bra_q",
       "name": "ITF W75 Florian Polis BRA Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_playford_aus_q",
+      "name": "ITF W75 Playford Aus Q",
       "group": "Tennis"
     },
     {
