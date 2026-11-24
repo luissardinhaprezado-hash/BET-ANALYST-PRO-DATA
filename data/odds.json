@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T09:48:33.047Z",
+  "generated_at": "2026-11-24T22:21:14.796Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 471,
+    "active_sports": 447,
     "updated_this_run": [
-      "tennis_itf_w35_s_o_paulo_bra",
-      "tennis_itf_w50_funchal_por"
+      "tennis_itf_m25_vale_do_lobo_por",
+      "tennis_itf_orlando"
     ],
     "region": "eu",
     "markets": [
@@ -531,11 +531,6 @@
       "group": "Cricket"
     },
     {
-      "key": "darts_modus",
-      "name": "Modus",
-      "group": "Darts"
-    },
-    {
       "key": "darts_pdc",
       "name": "Pdc",
       "group": "Darts"
@@ -581,16 +576,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_algeria_2nd_division",
-      "name": "Algeria 2nd Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_andorra_primera_division",
-      "name": "Andorra Primera Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_argentina_copa_argentina",
       "name": "Argentina Copa Argentina",
       "group": "Soccer"
@@ -598,11 +583,6 @@
     {
       "key": "soccer_argentina_liga_pro",
       "name": "Argentina Liga Pro",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_argentina_primera_b_metropolitana",
-      "name": "Argentina Primera B Metropolitana",
       "group": "Soccer"
     },
     {
@@ -671,18 +651,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_austria_regional_league",
-      "name": "Austria Regional League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_azerbaijan_premier_league",
       "name": "Azerbaijan Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_bahrain_2nd_division",
-      "name": "Bahrain 2nd Division",
       "group": "Soccer"
     },
     {
@@ -701,8 +671,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_belgium_super_league",
-      "name": "Belgium Super League",
+      "key": "soccer_bolivia_copa_division_profesional",
+      "name": "Bolivia Copa Division Profesional",
       "group": "Soccer"
     },
     {
@@ -718,11 +688,6 @@
     {
       "key": "soccer_botswana_premier_league",
       "name": "Botswana Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_brazil_campeonato_pernambucano",
-      "name": "Brazil Campeonato Pernambucano",
       "group": "Soccer"
     },
     {
@@ -743,6 +708,11 @@
     {
       "key": "soccer_brazil_serie_a",
       "name": "Brazil Serie A",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_brazil_u20_cups",
+      "name": "Brazil U20 Cups",
       "group": "Soccer"
     },
     {
@@ -806,11 +776,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_canada_premier_league",
-      "name": "Canada Premier League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_chile_cup",
       "name": "Chile Cup",
       "group": "Soccer"
@@ -828,11 +793,6 @@
     {
       "key": "soccer_chile_segunda_division",
       "name": "Chile Segunda Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_chile_tercera_division",
-      "name": "Chile Tercera Division",
       "group": "Soccer"
     },
     {
@@ -876,11 +836,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_croatia_druga_nl",
-      "name": "Croatia Druga Nl",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_croatia_hnl",
       "name": "Croatia Hnl",
       "group": "Soccer"
@@ -898,11 +853,6 @@
     {
       "key": "soccer_czech_republic_2_liga",
       "name": "Czech Republic 2 Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_czech_republic_3_liga",
-      "name": "Czech Republic 3 Liga",
       "group": "Soccer"
     },
     {
@@ -1001,6 +951,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_isthmian_league",
+      "name": "England Isthmian League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_isthmian_premier_division",
       "name": "England Isthmian Premier Division",
       "group": "Soccer"
@@ -1071,6 +1026,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ethiopia_cup",
+      "name": "Ethiopia Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_ethiopia_higher_league",
       "name": "Ethiopia Higher League",
       "group": "Soccer"
@@ -1098,11 +1058,6 @@
     {
       "key": "soccer_georgia_erovnuli_liga",
       "name": "Georgia Erovnuli Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_georgia_erovnuli_liga_2",
-      "name": "Georgia Erovnuli Liga 2",
       "group": "Soccer"
     },
     {
@@ -1138,11 +1093,6 @@
     {
       "key": "soccer_guatemala_liga_nacional",
       "name": "Guatemala Liga Nacional",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_guatemala_primera_division",
-      "name": "Guatemala Primera Division",
       "group": "Soccer"
     },
     {
@@ -1183,11 +1133,6 @@
     {
       "key": "soccer_hungary_nb2",
       "name": "Hungary Nb2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_hungary_nb_i",
-      "name": "Hungary Nb I",
       "group": "Soccer"
     },
     {
@@ -1241,6 +1186,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_indonesia_liga_3",
+      "name": "Indonesia Liga 3",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_iran_azadegan_league",
       "name": "Iran Azadegan League",
       "group": "Soccer"
@@ -1251,11 +1201,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_iraq_iraqi_stars_league",
-      "name": "Iraq Iraqi Stars League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_israel_league_u19",
       "name": "Israel League U19",
       "group": "Soccer"
@@ -1263,11 +1208,6 @@
     {
       "key": "soccer_israel_premier_league",
       "name": "Israel Premier League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_ivory_coast_ligue_1",
-      "name": "Ivory Coast Ligue 1",
       "group": "Soccer"
     },
     {
@@ -1298,6 +1238,11 @@
     {
       "key": "soccer_japan_j_league_3",
       "name": "Japan J League 3",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_japan_regional_league",
+      "name": "Japan Regional League",
       "group": "Soccer"
     },
     {
@@ -1356,11 +1301,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_lithuania_a_lyga",
-      "name": "Lithuania A Lyga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_luxembourg_national_division",
       "name": "Luxembourg National Division",
       "group": "Soccer"
@@ -1378,11 +1318,6 @@
     {
       "key": "soccer_malaysia_super_league",
       "name": "Malaysia Super League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_mali_premier_division",
-      "name": "Mali Premier Division",
       "group": "Soccer"
     },
     {
@@ -1456,18 +1391,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_national",
-      "name": "National",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_netherlands_eredivisie_women",
       "name": "Netherlands Eredivisie Women",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_netherlands_tweede_divisie",
-      "name": "Netherlands Tweede Divisie",
       "group": "Soccer"
     },
     {
@@ -1496,11 +1421,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_nir_ifa_premiership",
-      "name": "Nir Ifa Premiership",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_nir_league_cup",
       "name": "Nir League Cup",
       "group": "Soccer"
@@ -1508,11 +1428,6 @@
     {
       "key": "soccer_north_macedonia_first_league",
       "name": "North Macedonia First League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_northern_ireland_championship",
-      "name": "Northern Ireland Championship",
       "group": "Soccer"
     },
     {
@@ -1546,11 +1461,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_peru_liga_3",
-      "name": "Peru Liga 3",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_peru_primera_division",
       "name": "Peru Primera Division",
       "group": "Soccer"
@@ -1576,11 +1486,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_poland_iv_liga",
-      "name": "Poland Iv Liga",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_portugal_campeonato_de_portugal",
       "name": "Portugal Campeonato de Portugal",
       "group": "Soccer"
@@ -1593,11 +1498,6 @@
     {
       "key": "soccer_portugal_championship_u23",
       "name": "Portugal Championship U23",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_portugal_liga_portugal_3",
-      "name": "Portugal Liga Portugal 3",
       "group": "Soccer"
     },
     {
@@ -1623,11 +1523,6 @@
     {
       "key": "soccer_puerto_rico_national_football_league",
       "name": "Puerto Rico National Football League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_qatar_stars_league",
-      "name": "Qatar Stars League",
       "group": "Soccer"
     },
     {
@@ -1676,16 +1571,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_scotland_league_one",
-      "name": "Scotland League One",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_scotland_league_two",
-      "name": "Scotland League Two",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_segunda",
       "name": "Segunda",
       "group": "Soccer"
@@ -1721,11 +1606,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_sierra_leone_premier_league",
-      "name": "Sierra Leone Premier League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_singapore_nfl_division_1",
       "name": "Singapore NFL Division 1",
       "group": "Soccer"
@@ -1738,16 +1618,6 @@
     {
       "key": "soccer_singapore_premier_league_2",
       "name": "Singapore Premier League 2",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_slovakia_1_league",
-      "name": "Slovakia 1 League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_slovakia_3_liga",
-      "name": "Slovakia 3 Liga",
       "group": "Soccer"
     },
     {
@@ -1773,11 +1643,6 @@
     {
       "key": "soccer_slovenia_prva_liga",
       "name": "Slovenia Prva Liga",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_south_africa_first_division",
-      "name": "South Africa First Division",
       "group": "Soccer"
     },
     {
@@ -1808,21 +1673,6 @@
     {
       "key": "soccer_suriname_major_league",
       "name": "Suriname Major League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_sweden_division_1",
-      "name": "Sweden Division 1",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_sweden_superettan",
-      "name": "Sweden Superettan",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_switzerland_2_liga_interregional",
-      "name": "Switzerland 2 Liga Interregional",
       "group": "Soccer"
     },
     {
@@ -1961,8 +1811,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_uruguay_campeonato_femenino",
+      "name": "Uruguay Campeonato Femenino",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uruguay_cup",
+      "name": "Uruguay Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uruguay_primera_division",
       "name": "Uruguay Primera Division",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_uruguay_primera_division_amateur",
+      "name": "Uruguay Primera Division Amateur",
       "group": "Soccer"
     },
     {
@@ -1981,11 +1846,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_usa_usl_championship",
-      "name": "USA USL Championship",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_usa_usl_super_league",
       "name": "USA USL Super League",
       "group": "Soccer"
@@ -1998,6 +1858,11 @@
     {
       "key": "soccer_uzbekistan_pfl",
       "name": "Uzbekistan Pfl",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_venezuela_copa_venezuela",
+      "name": "Venezuela Copa Venezuela",
       "group": "Soccer"
     },
     {
@@ -2023,11 +1888,6 @@
     {
       "key": "soccer_vietnam_v_league",
       "name": "Vietnam V League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_wales_faw_championship",
-      "name": "Wales Faw Championship",
       "group": "Soccer"
     },
     {
@@ -2096,6 +1956,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_atp_challenger_san_salvador_2026",
+      "name": "ATP Challenger San Salvador 2026",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_atp_challenger_sydney_2026",
       "name": "ATP Challenger Sydney 2026",
       "group": "Tennis"
@@ -2118,6 +1983,11 @@
     {
       "key": "tennis_itf_m15_antalya_tur_q",
       "name": "ITF M15 Antalya TUR Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_heraklion_gre",
+      "name": "ITF M15 Heraklion GRE",
       "group": "Tennis"
     },
     {
@@ -2266,6 +2136,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_w15_lousada_por",
+      "name": "ITF W15 Lousada POR",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_w15_lousada_por_q",
       "name": "ITF W15 Lousada POR Q",
       "group": "Tennis"
@@ -2296,6 +2171,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_w35_heraklion_gre",
+      "name": "ITF W35 Heraklion GRE",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_w35_heraklion_gre_q",
       "name": "ITF W35 Heraklion GRE Q",
       "group": "Tennis"
@@ -2303,11 +2183,6 @@
     {
       "key": "tennis_itf_w35_orlando_usa",
       "name": "ITF W35 Orlando USA",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w35_s_o_paulo_bra",
-      "name": "ITF W35 S O Paulo BRA",
       "group": "Tennis"
     },
     {
@@ -2328,6 +2203,11 @@
     {
       "key": "tennis_itf_w50_ortisei_ita_q",
       "name": "ITF W50 Ortisei ITA Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w75_florian_polis_bra",
+      "name": "ITF W75 Florian Polis BRA",
       "group": "Tennis"
     },
     {
