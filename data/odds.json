@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T23:49:14.384Z",
+  "generated_at": "2026-11-24T09:48:33.047Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 455,
+    "active_sports": 471,
     "updated_this_run": [
-      "soccer_costa_rica_liga_de_ascenso",
-      "soccer_croatia_druga_nl"
+      "tennis_itf_w35_s_o_paulo_bra",
+      "tennis_itf_w50_funchal_por"
     ],
     "region": "eu",
     "markets": [
@@ -1421,6 +1421,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_montenegro_cup",
+      "name": "Montenegro Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_montenegro_druga_liga",
       "name": "Montenegro Druga Liga",
       "group": "Soccer"
@@ -1451,11 +1456,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_myanmar_national_league_u20",
-      "name": "Myanmar National League U20",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_national",
       "name": "National",
       "group": "Soccer"
@@ -1468,6 +1468,11 @@
     {
       "key": "soccer_netherlands_tweede_divisie",
       "name": "Netherlands Tweede Divisie",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_u21",
+      "name": "Netherlands U21",
       "group": "Soccer"
     },
     {
@@ -1691,6 +1696,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_senegal_ligue_2",
+      "name": "Senegal Ligue 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_serbia_prva_liga",
       "name": "Serbia Prva Liga",
       "group": "Soccer"
@@ -1741,13 +1751,13 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovakia_super_liga",
-      "name": "Slovakia Super Liga",
+      "key": "soccer_slovakia_cup",
+      "name": "Slovakia Cup",
       "group": "Soccer"
     },
     {
-      "key": "soccer_slovenia_cup",
-      "name": "Slovenia Cup",
+      "key": "soccer_slovakia_super_liga",
+      "name": "Slovakia Super Liga",
       "group": "Soccer"
     },
     {
@@ -1816,6 +1826,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_switzerland_erste_liga",
+      "name": "Switzerland Erste Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_switzerland_promotion_league",
       "name": "Switzerland Promotion League",
       "group": "Soccer"
@@ -1838,6 +1853,11 @@
     {
       "key": "soccer_tercera_division_rfef",
       "name": "Tercera Division RFEF",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_thailand_championship_u21",
+      "name": "Thailand Championship U21",
       "group": "Soccer"
     },
     {
@@ -1971,6 +1991,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_uzbekistan_cup",
+      "name": "Uzbekistan Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uzbekistan_pfl",
       "name": "Uzbekistan Pfl",
       "group": "Soccer"
@@ -2091,6 +2116,16 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_antalya_tur_q",
+      "name": "ITF M15 Antalya TUR Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_heraklion_gre_q",
+      "name": "ITF M15 Heraklion GRE Q",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_hua_hin_tha",
       "name": "ITF M15 Hua Hin THA",
       "group": "Tennis"
@@ -2101,6 +2136,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_madrid_esp",
+      "name": "ITF M15 Madrid ESP",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m15_madrid_esp_q",
       "name": "ITF M15 Madrid ESP Q",
       "group": "Tennis"
@@ -2108,6 +2148,11 @@
     {
       "key": "tennis_itf_m15_monastir_tun",
       "name": "ITF M15 Monastir TUN",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m15_monastir_tun_q",
+      "name": "ITF M15 Monastir TUN Q",
       "group": "Tennis"
     },
     {
@@ -2136,6 +2181,16 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_m15_sharm_elsheikh_egy_q",
+      "name": "ITF M15 Sharm Elsheikh EGY Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_m25_bhopal_ind",
+      "name": "ITF M25 Bhopal IND",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_m25_bhopal_ind_q",
       "name": "ITF M25 Bhopal IND Q",
       "group": "Tennis"
@@ -2151,13 +2206,13 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_chihuahua_mex",
-      "name": "ITF M25 Chihuahua MEX",
+      "key": "tennis_itf_m25_heraklion_gre",
+      "name": "ITF M25 Heraklion GRE",
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_heraklion_gre",
-      "name": "ITF M25 Heraklion GRE",
+      "key": "tennis_itf_m25_hradec_kralove_cze",
+      "name": "ITF M25 Hradec Kralove CZE",
       "group": "Tennis"
     },
     {
@@ -2196,6 +2251,16 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_w15_antalya_tur_q",
+      "name": "ITF W15 Antalya TUR Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_kolkata_ind",
+      "name": "ITF W15 Kolkata IND",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_w15_kolkata_ind_q",
       "name": "ITF W15 Kolkata IND Q",
       "group": "Tennis"
@@ -2211,6 +2276,11 @@
       "group": "Tennis"
     },
     {
+      "key": "tennis_itf_w15_monastir_tun_q",
+      "name": "ITF W15 Monastir TUN Q",
+      "group": "Tennis"
+    },
+    {
       "key": "tennis_itf_w15_paris_fra",
       "name": "ITF W15 Paris FRA",
       "group": "Tennis"
@@ -2218,6 +2288,16 @@
     {
       "key": "tennis_itf_w15_sharm_elsheikh_egy",
       "name": "ITF W15 Sharm Elsheikh EGY",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w15_sharm_elsheikh_egy_q",
+      "name": "ITF W15 Sharm Elsheikh EGY Q",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_w35_heraklion_gre_q",
+      "name": "ITF W35 Heraklion GRE Q",
       "group": "Tennis"
     },
     {
