@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T22:21:14.796Z",
+  "generated_at": "2026-11-25T08:23:35.810Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 447,
+    "active_sports": 448,
     "updated_this_run": [
-      "tennis_itf_m25_vale_do_lobo_por",
-      "tennis_itf_orlando"
+      "soccer_uefa_champs_league",
+      "soccer_finland_veikkausliiga"
     ],
     "region": "eu",
     "markets": [
@@ -576,6 +576,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_angola_girabola",
+      "name": "Angola Girabola",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_argentina_copa_argentina",
       "name": "Argentina Copa Argentina",
       "group": "Soccer"
@@ -588,6 +593,11 @@
     {
       "key": "soccer_argentina_primera_c",
       "name": "Argentina Primera C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_argentina_primera_division_reserves",
+      "name": "Argentina Primera Division Reserves",
       "group": "Soccer"
     },
     {
@@ -633,11 +643,6 @@
     {
       "key": "soccer_australia_a_league",
       "name": "Australia A League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_australia_a_league_women",
-      "name": "Australia A League Women",
       "group": "Soccer"
     },
     {
@@ -691,6 +696,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_brazil_campeonato_pernambucano",
+      "name": "Brazil Campeonato Pernambucano",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_brazil_copa_do_brasil",
       "name": "Brazil Copa Do Brasil",
       "group": "Soccer"
@@ -721,11 +731,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_brunei_super_league",
-      "name": "Brunei Super League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_bulgaria_second_league",
       "name": "Bulgaria Second League",
       "group": "Soccer"
@@ -748,11 +753,6 @@
     {
       "key": "soccer_bundesliga_u19",
       "name": "Bundesliga U19",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_burkina_faso_superdivision",
-      "name": "Burkina Faso Superdivision",
       "group": "Soccer"
     },
     {
@@ -796,16 +796,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_china_league_one",
-      "name": "China League One",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_china_super_league",
-      "name": "China Super League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_colombia_liga_antioquena_de_futbol",
       "name": "Colombia Liga Antioquena de Futbol",
       "group": "Soccer"
@@ -818,11 +808,6 @@
     {
       "key": "soccer_conmebol_copa_libertadores",
       "name": "CONMEBOL Copa Libertadores",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_conmebol_copa_sudamericana",
-      "name": "CONMEBOL Copa Sudamericana",
       "group": "Soccer"
     },
     {
@@ -906,6 +891,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_egypt_2nd_division",
+      "name": "Egypt 2nd Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_egypt_premier_league",
       "name": "Egypt Premier League",
       "group": "Soccer"
@@ -983,6 +973,11 @@
     {
       "key": "soccer_england_national_league_south",
       "name": "England National League South",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_northern_league_division_one",
+      "name": "England Northern League Division One",
       "group": "Soccer"
     },
     {
@@ -1076,6 +1071,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_greece_amateur_cup",
+      "name": "Greece Amateur Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_greece_gamma_ethniki",
       "name": "Greece Gamma Ethniki",
       "group": "Soccer"
@@ -1121,13 +1121,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_hong_kong_3rd_division",
-      "name": "Hong Kong 3rd Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_hong_kong_premier_league",
-      "name": "Hong Kong Premier League",
+      "key": "soccer_hong_kong_premier_league_u22",
+      "name": "Hong Kong Premier League U22",
       "group": "Soccer"
     },
     {
@@ -1206,6 +1201,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_israel_liga_bet_north_south",
+      "name": "Israel Liga Bet North South",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_israel_premier_league",
       "name": "Israel Premier League",
       "group": "Soccer"
@@ -1223,11 +1223,6 @@
     {
       "key": "soccer_japan_empowerment_league",
       "name": "Japan Empowerment League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_japan_football_league",
-      "name": "Japan Football League",
       "group": "Soccer"
     },
     {
@@ -1256,6 +1251,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_jordan_premier_league",
+      "name": "Jordan Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_kenya_premier_league",
       "name": "Kenya Premier League",
       "group": "Soccer"
@@ -1271,6 +1271,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_kosovo_first_league",
+      "name": "Kosovo First League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_kosovo_superliga",
       "name": "Kosovo Superliga",
       "group": "Soccer"
@@ -1281,8 +1286,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_kuwait_prince_emir_cup",
+      "name": "Kuwait Prince Emir Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_lebanon_premier_league",
       "name": "Lebanon Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_leinster_senior_league",
+      "name": "Leinster Senior League",
       "group": "Soccer"
     },
     {
@@ -1401,16 +1416,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_new_zealand_premiership",
-      "name": "New Zealand Premiership",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_new_zealand_womens_league",
-      "name": "New Zealand Womens League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_nicaragua_primera_division",
       "name": "Nicaragua Primera Division",
       "group": "Soccer"
@@ -1423,6 +1428,11 @@
     {
       "key": "soccer_nir_league_cup",
       "name": "Nir League Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_north_macedonia_cup",
+      "name": "North Macedonia Cup",
       "group": "Soccer"
     },
     {
@@ -1471,6 +1481,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_poland_cup",
+      "name": "Poland Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_poland_i_liga",
       "name": "Poland I Liga",
       "group": "Soccer"
@@ -1493,6 +1508,11 @@
     {
       "key": "soccer_portugal_campionato_nacional",
       "name": "Portugal Campionato Nacional",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_championship_u19",
+      "name": "Portugal Championship U19",
       "group": "Soccer"
     },
     {
@@ -1526,6 +1546,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_qatar_league_2",
+      "name": "Qatar League 2",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_regionalliga",
       "name": "Regionalliga",
       "group": "Soccer"
@@ -1548,6 +1573,11 @@
     {
       "key": "soccer_saint_kitts_nevis_premier_league",
       "name": "Saint Kitts Nevis Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_san_marino_coppa_titano",
+      "name": "San Marino Coppa Titano",
       "group": "Soccer"
     },
     {
@@ -1606,6 +1636,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_serie_d_cup",
+      "name": "Serie D Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_singapore_nfl_division_1",
       "name": "Singapore NFL Division 1",
       "group": "Soccer"
@@ -1628,6 +1663,11 @@
     {
       "key": "soccer_slovakia_super_liga",
       "name": "Slovakia Super Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_slovenia_cup",
+      "name": "Slovenia Cup",
       "group": "Soccer"
     },
     {
@@ -1666,6 +1706,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_spain_copa_de_la_reina",
+      "name": "Spain Copa de La Reina",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_spain_primera_division",
       "name": "Spain Primera Division",
       "group": "Soccer"
@@ -1673,6 +1718,11 @@
     {
       "key": "soccer_suriname_major_league",
       "name": "Suriname Major League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_sweden_superettan",
+      "name": "Sweden Superettan",
       "group": "Soccer"
     },
     {
@@ -1841,16 +1891,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_usa_national_soccer_league",
-      "name": "USA National Soccer League",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_usa_usl_super_league",
-      "name": "USA USL Super League",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_uzbekistan_cup",
       "name": "Uzbekistan Cup",
       "group": "Soccer"
@@ -1931,11 +1971,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_atp_challenger_kobe_2026",
-      "name": "ATP Challenger Kobe 2026",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_atp_challenger_metz_2026",
       "name": "ATP Challenger Metz 2026",
       "group": "Tennis"
@@ -1958,11 +1993,6 @@
     {
       "key": "tennis_atp_challenger_san_salvador_2026",
       "name": "ATP Challenger San Salvador 2026",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_atp_challenger_sydney_2026",
-      "name": "ATP Challenger Sydney 2026",
       "group": "Tennis"
     },
     {
@@ -1993,16 +2023,6 @@
     {
       "key": "tennis_itf_m15_heraklion_gre_q",
       "name": "ITF M15 Heraklion GRE Q",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m15_hua_hin_tha",
-      "name": "ITF M15 Hua Hin THA",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_m15_kuala_lumpur_mas",
-      "name": "ITF M15 Kuala Lumpur Mas",
       "group": "Tennis"
     },
     {
@@ -2066,11 +2086,6 @@
       "group": "Tennis"
     },
     {
-      "key": "tennis_itf_m25_bhubaneswar_ind",
-      "name": "ITF M25 Bhubaneswar IND",
-      "group": "Tennis"
-    },
-    {
       "key": "tennis_itf_m25_bradenton_usa",
       "name": "ITF M25 Bradenton USA",
       "group": "Tennis"
@@ -2103,11 +2118,6 @@
     {
       "key": "tennis_itf_m25_vale_do_lobo_por",
       "name": "ITF M25 Vale Do Lobo POR",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_orlando",
-      "name": "ITF Orlando",
       "group": "Tennis"
     },
     {
@@ -2223,11 +2233,6 @@
     {
       "key": "tennis_itf_w75_playford_aus_q",
       "name": "ITF W75 Playford Aus Q",
-      "group": "Tennis"
-    },
-    {
-      "key": "tennis_itf_w75_sydney_aus",
-      "name": "ITF W75 Sydney Aus",
       "group": "Tennis"
     },
     {
@@ -73136,6 +73141,1015 @@
       "canonical_event_id": "cd839a637449d55e",
       "commence_time_reported": true,
       "sport_name": "Ligue 1",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "73fd712f7c478cd9e7e5d4109483959b",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Atlético Madrid",
+      "away_team": "Viking Stavanger",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Atlético Madrid",
+                  "price": 1.06
+                },
+                {
+                  "name": "Viking Stavanger",
+                  "price": 19
+                },
+                {
+                  "name": "Draw",
+                  "price": 9
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Atlético Madrid",
+                  "price": 1.12
+                },
+                {
+                  "name": "Viking Stavanger",
+                  "price": 16
+                },
+                {
+                  "name": "Draw",
+                  "price": 10
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Atlético Madrid",
+                  "price": 1.11
+                },
+                {
+                  "name": "Viking Stavanger",
+                  "price": 26
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.5
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        }
+      ],
+      "canonical_event_id": "40f4a66cf5bb91e6",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "a94d35e689538a01049f52fccad1fb72",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Club Brugge",
+      "away_team": "Liverpool",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Club Brugge",
+                  "price": 4
+                },
+                {
+                  "name": "Liverpool",
+                  "price": 1.565
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.35
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Club Brugge",
+                  "price": 4.55
+                },
+                {
+                  "name": "Liverpool",
+                  "price": 1.629
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.55
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Club Brugge",
+                  "price": 4.5
+                },
+                {
+                  "name": "Liverpool",
+                  "price": 1.658
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 3.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "96999979332f84fe",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4b46e4bfbcc1e4d1a52035855be440cf",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Inter",
+      "away_team": "VfB Stuttgart",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Inter",
+                  "price": 1.364
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Inter",
+                  "price": 1.42
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 6
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Inter",
+                  "price": 1.435
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 6.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.847,
+                  "point": 3.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 3.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "d4967417e5c27f99",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "db78736c7377d8c4ccdfaaeaf28fee2f",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Lille",
+      "away_team": "Bayern Munich",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 5.1
+                },
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.513
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 5.2
+                },
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.641
+                },
+                {
+                  "name": "Draw",
+                  "price": 4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Lille",
+                  "price": 5.8
+                },
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.606
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.8,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "price": 2,
+                  "point": 2.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "681e33e27733d8f5",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "bc9ab5d567d2f5382d102a677f0883dd",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "PSG",
+      "away_team": "Roma",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "PSG",
+                  "price": 1.408
+                },
+                {
+                  "name": "Roma",
+                  "price": 5.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "PSG",
+                  "price": 1.51
+                },
+                {
+                  "name": "Roma",
+                  "price": 5.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "PSG",
+                  "price": 1.488
+                },
+                {
+                  "name": "Roma",
+                  "price": 6.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.1
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        }
+      ],
+      "canonical_event_id": "01753beaaef5afd8",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "641e8cfde79221b9fbb5fd1db57b7aa9",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T17:45:00Z",
+      "home_team": "Sabah FK",
+      "away_team": "FC Barcelona",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Sabah FK",
+                  "price": 20
+                },
+                {
+                  "name": "FC Barcelona",
+                  "price": 1.04
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Sabah FK",
+                  "price": 22
+                },
+                {
+                  "name": "FC Barcelona",
+                  "price": 1.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 12
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Sabah FK",
+                  "price": 30
+                },
+                {
+                  "name": "FC Barcelona",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 14
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        }
+      ],
+      "canonical_event_id": "2a022a92b2f4df6c",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "4b2b87b111ce624adc1c752862db4ccf",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Shakhtar Donetsk",
+      "away_team": "Fenerbahçe",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 2.63
+                },
+                {
+                  "name": "Fenerbahçe",
+                  "price": 2.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 2.82
+                },
+                {
+                  "name": "Fenerbahçe",
+                  "price": 2.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 2.88
+                },
+                {
+                  "name": "Fenerbahçe",
+                  "price": 2.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.02,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 1.826,
+                  "point": 2.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "58951bf59cf5caee",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "d1fc5caf565a51970ecc0bb7fa4b3406",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T17:45:00Z",
+      "home_team": "Slavia Prague",
+      "away_team": "Villarreal",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Slavia Prague",
+                  "price": 2.95
+                },
+                {
+                  "name": "Villarreal",
+                  "price": 2.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Slavia Prague",
+                  "price": 3.2
+                },
+                {
+                  "name": "Villarreal",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Slavia Prague",
+                  "price": 3.25
+                },
+                {
+                  "name": "Villarreal",
+                  "price": 2.23
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 1.826,
+                  "point": 2.75
+                },
+                {
+                  "name": "Under",
+                  "price": 2.02,
+                  "point": 2.75
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "2dcb84fdb75e5679",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
+      "sport_group": "Soccer"
+    },
+    {
+      "id": "ebf9091cc1112a6940ae1ed6a76911fc",
+      "sport_key": "soccer_uefa_champs_league",
+      "sport_title": "UEFA Champions League",
+      "commence_time": "2026-11-25T20:00:00Z",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Manchester United",
+      "bookmakers": [
+        {
+          "key": "pmu",
+          "title": "PMU",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 2.43
+                },
+                {
+                  "name": "Manchester United",
+                  "price": 2.43
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "superbet",
+          "title": "Superbet",
+          "last_update": "2026-11-25T08:23:17Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:23:16Z",
+              "outcomes": [
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 2.6
+                },
+                {
+                  "name": "Manchester United",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594997033,
+          "stale_seconds": 18.04
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-11-25T08:22:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-25T08:22:31Z",
+              "outcomes": [
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 2.63
+                },
+                {
+                  "name": "Manchester United",
+                  "price": 2.63
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ],
+          "topped_up": true,
+          "last_update_ms": 1795594953335,
+          "stale_seconds": 61.74
+        },
+        {
+          "key": "bet365",
+          "title": "bet365",
+          "last_update": "2026-11-25T08:20:53Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-25T08:20:52Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 2.05,
+                  "point": 3.25
+                },
+                {
+                  "name": "Under",
+                  "price": 1.8,
+                  "point": 3.25
+                }
+              ]
+            }
+          ],
+          "last_update_ms": 1795594853497,
+          "stale_seconds": 161.58
+        }
+      ],
+      "canonical_event_id": "3dfcbd5f068e25c4",
+      "commence_time_reported": true,
+      "sport_name": "UEFA Champions League",
       "sport_group": "Soccer"
     }
   ],
