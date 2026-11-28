@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T21:10:21.805Z",
+  "generated_at": "2026-11-28T07:39:45.689Z",
   "source": "ParlayAPI",
   "coverage": {
-    "active_sports": 362,
+    "active_sports": 386,
     "updated_this_run": [
-      "soccer_azerbaijan_first_division",
-      "soccer_azerbaijan_premier_league"
+      "soccer_serie_c",
+      "soccer_serie_d"
     ],
     "region": "eu",
     "markets": [
@@ -596,8 +596,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_argentina_womens_league",
+      "name": "Argentina Womens League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_armenia_premier_league",
       "name": "Armenia Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_aruba_division_di_honor",
+      "name": "Aruba Division Di Honor",
       "group": "Soccer"
     },
     {
@@ -731,6 +741,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_cambodia_premier_league",
+      "name": "Cambodia Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_cameroon_elite_one",
       "name": "Cameroon Elite One",
       "group": "Soccer"
@@ -738,11 +753,6 @@
     {
       "key": "soccer_cameroon_national_championship",
       "name": "Cameroon National Championship",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_chile_cup",
-      "name": "Chile Cup",
       "group": "Soccer"
     },
     {
@@ -773,6 +783,11 @@
     {
       "key": "soccer_concacaf_championship_qualification_women",
       "name": "Concacaf Championship Qualification Women",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_concacaf_championship_women",
+      "name": "Concacaf Championship Women",
       "group": "Soccer"
     },
     {
@@ -901,6 +916,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_isthmian_premier_division",
+      "name": "England Isthmian Premier Division",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_league_one",
       "name": "England League One",
       "group": "Soccer"
@@ -931,6 +951,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_northern_premier_league",
+      "name": "England Northern Premier League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_premier_league_2",
       "name": "England Premier League 2",
       "group": "Soccer"
@@ -941,8 +966,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_england_southern_central_league",
+      "name": "England Southern Central League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_england_southern_league_division_one_central",
       "name": "England Southern League Division One Central",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_england_southern_south_league",
+      "name": "England Southern South League",
       "group": "Soccer"
     },
     {
@@ -996,6 +1031,16 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_greece_cup",
+      "name": "Greece Cup",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_greece_gamma_ethniki",
+      "name": "Greece Gamma Ethniki",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_guatemala_liga_nacional",
       "name": "Guatemala Liga Nacional",
       "group": "Soccer"
@@ -1011,8 +1056,8 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_honduras_reserve_league",
-      "name": "Honduras Reserve League",
+      "key": "soccer_hong_kong_premier_league",
+      "name": "Hong Kong Premier League",
       "group": "Soccer"
     },
     {
@@ -1036,11 +1081,6 @@
       "group": "Soccer"
     },
     {
-      "key": "soccer_india_mumbai_elite_division",
-      "name": "India Mumbai Elite Division",
-      "group": "Soccer"
-    },
-    {
       "key": "soccer_india_super_league",
       "name": "India Super League",
       "group": "Soccer"
@@ -1058,6 +1098,11 @@
     {
       "key": "soccer_indonesia_liga_1",
       "name": "Indonesia Liga 1",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_indonesia_liga_2",
+      "name": "Indonesia Liga 2",
       "group": "Soccer"
     },
     {
@@ -1101,6 +1146,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_japan_cup",
+      "name": "Japan Cup",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_japan_football_league",
       "name": "Japan Football League",
       "group": "Soccer"
@@ -1133,6 +1183,11 @@
     {
       "key": "soccer_kenya_premier_league",
       "name": "Kenya Premier League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_kenya_super_league",
+      "name": "Kenya Super League",
       "group": "Soccer"
     },
     {
@@ -1191,6 +1246,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_malta_challenge_league",
+      "name": "Malta Challenge League",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_malta_premier_league",
       "name": "Malta Premier League",
       "group": "Soccer"
@@ -1221,8 +1281,18 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_moldova_super_liga",
+      "name": "Moldova Super Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_montenegro_prva_liga",
       "name": "Montenegro Prva Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_morocco_botola_pro",
+      "name": "Morocco Botola Pro",
       "group": "Soccer"
     },
     {
@@ -1243,6 +1313,11 @@
     {
       "key": "soccer_myanmar_national_league_u20",
       "name": "Myanmar National League U20",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_netherlands_tweede_divisie",
+      "name": "Netherlands Tweede Divisie",
       "group": "Soccer"
     },
     {
@@ -1328,6 +1403,11 @@
     {
       "key": "soccer_poland_iii_liga",
       "name": "Poland Iii Liga",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_portugal_campeonato_de_portugal",
+      "name": "Portugal Campeonato de Portugal",
       "group": "Soccer"
     },
     {
@@ -1436,6 +1516,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_serbia_prva_liga",
+      "name": "Serbia Prva Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_serie_b",
       "name": "Serie B",
       "group": "Soccer"
@@ -1443,6 +1528,11 @@
     {
       "key": "soccer_serie_c",
       "name": "Serie C",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_serie_d",
+      "name": "Serie D",
       "group": "Soccer"
     },
     {
@@ -1541,6 +1631,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_tercera_division_rfef",
+      "name": "Tercera Division RFEF",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_thailand_championship_u21",
       "name": "Thailand Championship U21",
       "group": "Soccer"
@@ -1561,8 +1656,23 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_tunisia_ligue_1",
+      "name": "Tunisia Ligue 1",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_turkey_tff_first_league",
       "name": "Turkey Tff First League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_tff_second_league",
+      "name": "Turkey Tff Second League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_turkey_tff_third_league",
+      "name": "Turkey Tff Third League",
       "group": "Soccer"
     },
     {
@@ -1616,6 +1726,11 @@
       "group": "Soccer"
     },
     {
+      "key": "soccer_ukraine_persha_liga",
+      "name": "Ukraine Persha Liga",
+      "group": "Soccer"
+    },
+    {
       "key": "soccer_uruguay_cup",
       "name": "Uruguay Cup",
       "group": "Soccer"
@@ -1623,11 +1738,6 @@
     {
       "key": "soccer_uruguay_primera_division",
       "name": "Uruguay Primera Division",
-      "group": "Soccer"
-    },
-    {
-      "key": "soccer_uruguay_primera_division_amateur",
-      "name": "Uruguay Primera Division Amateur",
       "group": "Soccer"
     },
     {
@@ -1658,6 +1768,11 @@
     {
       "key": "soccer_vietnam_v_league",
       "name": "Vietnam V League",
+      "group": "Soccer"
+    },
+    {
+      "key": "soccer_wales_faw_championship",
+      "name": "Wales Faw Championship",
       "group": "Soccer"
     },
     {
@@ -1723,6 +1838,11 @@
     {
       "key": "tennis_atp_challenger_yokohama_2026",
       "name": "ATP Challenger Yokohama 2026",
+      "group": "Tennis"
+    },
+    {
+      "key": "tennis_itf_bolivia_futures",
+      "name": "ITF Bolivia Futures",
       "group": "Tennis"
     },
     {
